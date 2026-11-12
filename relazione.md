@@ -155,10 +155,10 @@ L'output completo è in `results/query_20news_output.txt`.
 
 | # | query | aspetto testato | newsgroup rilevanti | risultati | P@10 | P@50 |
 |---|---|---|---|---:|---:|---:|
-| Q1 | `nome space shuttle` | termini in OR nel nome | sci.space | 994 | 1,00 | 1,00 |
+| Q1 | `nome shuttle launch` | termini in OR nel nome | sci.space | 40 | 1,00 | 0,80 |
 | Q2 | `nome "for sale"` | phrase query nel nome | misc.forsale | 494 | 0,80 | 0,92 |
-| Q3 | `nome windows` | termine singolo nel nome | comp.os.ms-windows.misc, comp.windows.x | 2.015 | 1,00 | 1,00 |
-| Q4 | `nome sci.med` | separatori del nome file | sci.med | 990 | 1,00 | 1,00 |
+| Q3 | `nome X11R5` | split lettere/cifre (WordDelimiter) | comp.windows.x | 47 | 1,00 | 0,94 |
+| Q4 | `nome clipper-chip` | separatore `-` nella query | sci.crypt | 98 | 0,80 | 0,96 |
 | Q5 | `contenuto "space shuttle"` | phrase query + stemming | sci.space | 60 | 1,00 | 0,96 |
 | Q6 | `contenuto "stanley cup"` | phrase query | rec.sport.hockey | 102 | 1,00 | 1,00 |
 | Q7 | `contenuto encryption clipper chip` | OR pesato da BM25 | sci.crypt | 1.058 | 1,00 | 1,00 |
@@ -167,9 +167,9 @@ L'output completo è in `results/query_20news_output.txt`.
 | Q10 | `contenuto doctor prescribing medications` | stemming | sci.med | 696 | 1,00 | 0,92 |
 | Q11 | `tutto motorcycle helmet` | nome **o** contenuto | rec.motorcycles | 1.065 | 1,00 | 1,00 |
 | Q12 | `tutto +"engine oil" car` | frase obbligatoria su due campi | rec.autos | 8 | 0,40 | 0,08 |
-| | **media** | | | | **0,90** | **0,87** |
+| | **media** | | | | **0,88** | **0,85** |
 
-Tutte le query rispondono in pochi millisecondi (0,6–10 ms). Osservazioni:
+Tutte le query rispondono in pochi millisecondi (0,5–10 ms). Osservazioni:
 
 - **Q8**: tre risultati su dieci vengono da `sci.crypt`. Sono copie, inviate a più newsgroup, del
   comunicato della Casa Bianca sul chip Clipper, che cita esplicitamente il secondo emendamento. Sono
@@ -178,9 +178,16 @@ Tutte le query rispondono in pochi millisecondi (0,6–10 ms). Osservazioni:
 - **Q12**: la frase obbligatoria `"engine oil"` compare solo in 8 documenti, quindi P@10 e P@50 sono
   limitate dal numero di risultati. È un esempio di come un vincolo troppo stretto penalizzi la
   **recall**.
-- **Q1–Q4**: i nomi dei file contengono il newsgroup (`sci.space_…`). Per questo le query sul nome sono
-  "facili" e la parola `space` trova anche messaggi di sci.space che non parlano di shuttle. È un
-  effetto del modo in cui ho costruito i nomi dei file, e lo segnalo per correttezza.
+- **Q1–Q4 (campo `nome`)**: i nomi dei file contengono anche il newsgroup (`sci.space_…`). Per non
+  rendere le query banali ho usato solo parole che **non** compaiono nel nome del newsgroup, ma nel
+  subject del messaggio. Q3 verifica il `WordDelimiterGraphFilter`: `X11R5` diventa
+  `+x +11 +r +5` e trova i nomi `…_x11r5-on-sun4…`. Q4 verifica che `clipper-chip` venga spezzato
+  sul trattino come in indicizzazione. Gli "errori" di Q2 sono annunci di vendita pubblicati in
+  rec.motorcycles, quelli di Q4 copie dello stesso messaggio inviate anche a talk.politics.guns:
+  sono pertinenti alla query ma non al newsgroup scelto come riferimento.
+- **P@50 quando i risultati sono meno di 50** (Q1, Q3, Q12): i posti vuoti contano come non
+  rilevanti, quindi P@50 ha un tetto pari a risultati/50. In Q1 e Q3 tutti i risultati restituiti
+  sono rilevanti.
 - **Phrase query e stopword**: `contenuto "freedom of speech"` diventa `contenuto:"freedom ? speech"`.
   La stopword lascia un "buco" di posizione, per cui la frase trova anche "freedom" *qualunque parola*
   "speech". Una frase fatta di sole stopword (`"to be or not to be"`) produce invece una query vuota,

@@ -1,112 +1,92 @@
 Indice index/20news: 18846 documenti, analyzer 'scelta'
 
-Q1> nome space shuttle
-  Query Lucene: nome:space nome:shuttle
-  Risultati: 994 documenti in 11,4 ms
-   1. [5,155] sci.[space]_60854_[space]-[shuttle]-information-wanted.txt
-        From: nether@bigwpi.WPI.EDU (Joel C Belog) Subject: Space Shuttle information wanted Organization: Worcester Polytechnic Institute Lines: 15 NNTP-Posting-Hos...
-   2. [4,985] sci.[space]_62408_excess-[shuttle]-criticism-was-re-[shuttle]-0-defects.txt
-        From: prb@access.digex.net (Pat) Subject: Re: Excess Shuttle criticism was Re: Shuttle 0-Defects & Bizarre?
-   3. [4,913] sci.[space]_60780_[shuttle]-launch-question.txt
+Q1> nome shuttle launch
+  Query Lucene: nome:shuttle nome:launch
+  Risultati: 40 documenti in 9,8 ms
+   1. [7,055] sci.space_60780_[shuttle]-[launch]-question.txt
         From: ETRAT@ttacs1.ttu.edu (Pack Rat) Subject: Shuttle Launch Question X-Added: Forwarded by Space Digest Organization: [via International Space University] ...
-   4. [4,913] sci.[space]_60795_[shuttle]-launch-question.txt
+   2. [7,055] sci.space_60795_[shuttle]-[launch]-question.txt
         From: abdkw@stdvax (David Ward) Subject: Re: Shuttle Launch Question News-Software: VAX/VMS VNEWS 1.4-b1 Organization: Goddard Space Flight Center - Robotics...
-   5. [4,913] sci.[space]_60874_[shuttle]-launch-question.txt
+   3. [7,055] sci.space_60874_[shuttle]-[launch]-question.txt
         From: tombaker@world.std.com (Tom A Baker) Subject: Re: Shuttle Launch Question Organization: Me, at The World Public Access UNIX, Brookline, MA Distribution...
-   6. [4,913] sci.[space]_60880_[shuttle]-launch-question.txt
+   4. [7,055] sci.space_60880_[shuttle]-[launch]-question.txt
         From: jcm@head-cfa.harvard.edu (Jonathan McDowell) Subject: Re: Shuttle Launch Question Organization: Smithsonian Astrophysical Observatory, Cambridge, MA, U...
-   7. [4,913] sci.[space]_60898_[shuttle]-launch-question.txt
+   5. [7,055] sci.space_60898_[shuttle]-[launch]-question.txt
         From: nickh@CS.CMU.EDU (Nick Haines) Subject: Re: Shuttle Launch Question In-Reply-To: jcm@head-cfa.harvard.edu's message of Sun, 18 Apr 1993 22:44:14 GMT Or...
-   8. [4,913] sci.[space]_61258_historic-[shuttle]-flights.txt
+   6. [3,887] sci.space_62317_gps-[launch].txt
+        From: Keith.Stein@f118.n109.z1.permanet.org (Keith Stein) Subject: Re: Gps launch Lines: 3 Next GPS launch is scheduled for June 24th
+   7. [3,772] sci.space_62408_excess-[shuttle]-criticism-was-re-[shuttle]-0-defects.txt
+        From: prb@access.digex.net (Pat) Subject: Re: Excess Shuttle criticism was Re: Shuttle 0-Defects & Bizarre?
+   8. [3,679] sci.space_61260_rocket-[launch]-observed.txt
+        Subject: ROCKET LAUNCH OBSERVED!
+   9. [3,679] sci.space_61324_comet-[launch]-date.txt
+        From: rostroff@watson.princeton.edu (robert ostroff) Subject: Comet Launch Date Originator: news@nimaster Nntp-Posting-Host: ratz.princeton.edu Organization:...
+  10. [3,493] sci.space_60866_space-clipper-[launch]-article.txt
+        From: Wales.Larrison@ofa123.fidonet.org Subject: Space Clipper Launch Article X-Sender: newtout 0.08 Feb 23 1993 Lines: 40 To All -- I thought the net would ...
+  11. [3,493] sci.space_61430_single-[launch]-space-station.txt
+        From: 0004244402@mcimail.com (Karl Dishaw) Subject: Single Launch Space Station X-Added: Forwarded by Space Digest Organization: [via International Space Uni...
+  12. [3,493] sci.space_61488_single-[launch]-space-station.txt
+        From: Cohen@ssdgwy.mdc.com (Andy Cohen) Subject: Re: Single Launch Space Station Organization: MDA-W Lines: 14 Distribution: sci NNTP-Posting-Host: q5022531....
+  13. [3,493] sci.space_61525_single-[launch]-space-station.txt
+        From: kjenks@gothamcity.jsc.nasa.gov Subject: Re: Single Launch Space Station Organization: NASA/JSC/GM2, Space Shuttle Program Office X-Newsreader: TIN [ver...
+  14. [3,376] sci.space_61258_historic-[shuttle]-flights.txt
         From: vamwendt@atlas.cs.upei.ca (Michael Wendt) Subject: Historic shuttle flights Organization: University of Prince Edward Island Lines: 7 Would someone ple...
-   9. [4,913] sci.[space]_62395_[shuttle]-and-pennicillin.txt
+  15. [3,376] sci.space_62395_[shuttle]-and-pennicillin.txt
         From: prb@access.digex.net (Pat) Subject: Shuttle and Pennicillin Organization: Express Access Online Communications USA Lines: 26 NNTP-Posting-Host: access....
-  10. [4,736] sci.[space]_60859_a-flawed-propulsion-system-[space]-[shuttle].txt
-        From: aa429@freenet.carleton.ca (Terry Ford) Subject: A flawed propulsion system: Space Shuttle X-Added: Forwarded by Space Digest Organization: [via Interna...
-  11. [4,664] sci.[space]_62104_over-zealous-[shuttle]-critics.txt
+  16. [3,324] sci.space_60831_portuguese-[launch]-complex-was-doppelganger.txt
+        From: C.O.EGALON@LARC.NASA.GOV (CLAUDIO OLIVEIRA EGALON) Subject: Portuguese Launch Complex (was:*Doppelganger*) Organization: NASA Langley Research Center L...
+  17. [3,204] sci.space_60854_space-[shuttle]-information-wanted.txt
+        From: nether@bigwpi.WPI.EDU (Joel C Belog) Subject: Space Shuttle information wanted Organization: Worcester Polytechnic Institute Lines: 15 NNTP-Posting-Hos...
+  18. [3,204] sci.space_62104_over-zealous-[shuttle]-critics.txt
         From: pgf@srl03.cacs.usl.edu (Phil G.
-  12. [4,664] sci.[space]_62319_soyuz-and-[shuttle]-comparisons.txt
+  19. [3,204] sci.space_62319_soyuz-and-[shuttle]-comparisons.txt
         From: aws@iti.org (Allen W.
-  13. [4,664] sci.[space]_62386_soyuz-and-[shuttle]-comparisons.txt
+  20. [3,204] sci.space_62386_soyuz-and-[shuttle]-comparisons.txt
         From: tombaker@bumetb.bu.edu (Thomas A.
-  14. [4,664] sci.[space]_62420_soyuz-and-[shuttle]-comparisons.txt
+  21. [3,204] sci.space_62420_soyuz-and-[shuttle]-comparisons.txt
         From: ghelf@violet.berkeley.edu (;;;;RD48) Subject: Re: Soyuz and Shuttle Comparisons Organization: University of California, Berkeley Lines: 11 NNTP-Posting...
-  15. [4,664] sci.[space]_62476_over-zealous-[shuttle]-critics.txt
+  22. [3,204] sci.space_62476_over-zealous-[shuttle]-critics.txt
         From: pjc@jet.uk (Peter J Card) Subject: Re: Over zealous shuttle critics Organization: Joint European Torus Lines: 40 We`ve had the the Great Western, the [...
-  16. [4,552] sci.[space]_60790_two-line-orbital-element-set-[space]-[shuttle].txt
-        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
-  17. [4,552] sci.[space]_60838_two-line-orbital-element-set-[space]-[shuttle].txt
-        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
-  18. [4,552] sci.[space]_61321_two-line-orbital-element-set-[space]-[shuttle].txt
-        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
-  19. [4,552] sci.[space]_61403_two-line-orbital-element-set-[space]-[shuttle].txt
-        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
-  20. [4,552] sci.[space]_61421_two-line-orbital-element-set-[space]-[shuttle].txt
-        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Organization: A...
-  21. [4,552] sci.[space]_61500_two-line-orbital-element-set-[space]-[shuttle].txt
-        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
-  22. [4,439] sci.[space]_60806_[shuttle]-oxygen-was-budget-astronaut.txt
+  23. [3,171] sci.space_61130_comet-when-did-will-she-[launch].txt
+        From: nanderso@Endor.sim.es.com (Norman Anderson) Subject: COMET...when did/will she launch?
+  24. [3,050] sci.space_60806_[shuttle]-oxygen-was-budget-astronaut.txt
         From: kjenks@gothamcity.jsc.nasa.gov Subject: Re: Shuttle oxygen (was Budget Astronaut) Organization: NASA/JSC/GM2, Space Shuttle Program Office X-Newsreader...
-  23. [4,439] sci.[space]_60811_[shuttle]-oxygen-was-budget-astronaut.txt
+  25. [3,050] sci.space_60811_[shuttle]-oxygen-was-budget-astronaut.txt
         From: sysmgr@king.eng.umd.edu (Doug Mohney) Subject: Re: Shuttle oxygen (was Budget Astronaut) Organization: Computer Aided Design Lab, U. of Maryland Colleg...
-  24. [4,439] sci.[space]_60828_[shuttle]-oxygen-was-budget-astronaut.txt
+  26. [3,050] sci.space_60828_[shuttle]-oxygen-was-budget-astronaut.txt
         From: prb@access.digex.com (Pat) Subject: Re: Shuttle oxygen (was Budget Astronaut) Organization: Express Access Online Communications USA Lines: 11 NNTP-Pos...
-  25. [4,439] sci.[space]_61071_[shuttle]-oxygen-was-budget-astronaut.txt
+  27. [3,050] sci.space_61071_[shuttle]-oxygen-was-budget-astronaut.txt
         From: pyron@skndiv.dseg.ti.com (Dillon Pyron) Subject: Re: Shuttle oxygen (was Budget Astronaut) Lines: 24 Nntp-Posting-Host: skndiv.dseg.ti.com Reply-To: py...
-  26. [4,234] sci.[space]_62150_[shuttle]-0-defects-bizarre-dc-x.txt
+  28. [2,909] sci.space_60859_a-flawed-propulsion-system-space-[shuttle].txt
+        From: aa429@freenet.carleton.ca (Terry Ford) Subject: A flawed propulsion system: Space Shuttle X-Added: Forwarded by Space Digest Organization: [via Interna...
+  29. [2,909] sci.space_62150_[shuttle]-0-defects-bizarre-dc-x.txt
         From: aws@iti.org (Allen W.
-  27. [3,877] sci.[space]_62117_why-we-like-dc-x-was-re-[shuttle].txt
+  30. [2,903] sci.space_59906_space-faq-15-15-orbital-and-planetary-[launch].txt
+        From: leech@cs.unc.edu (Jon Leech) Subject: Space FAQ 15/15 - Orbital and Planetary Launch Services Supersedes: <launchers_730956689@cs.unc.edu> Organization...
+  31. [2,903] sci.space_61199_how-can-you-see-the-[launch]-of-the.txt
+        From: C.H.A.Wong@bradford.ac.uk (CHA WONG) Subject: How can you see the launch of the Space Shuttle ?
+  32. [2,781] sci.space_60790_two-line-orbital-element-set-space-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
+  33. [2,781] sci.space_60838_two-line-orbital-element-set-space-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
+  34. [2,781] sci.space_61321_two-line-orbital-element-set-space-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
+  35. [2,781] sci.space_61403_two-line-orbital-element-set-space-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
+  36. [2,781] sci.space_61421_two-line-orbital-element-set-space-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Organization: A...
+  37. [2,781] sci.space_61500_two-line-orbital-element-set-space-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
+  38. [2,664] sci.space_62117_why-we-like-dc-x-was-re-[shuttle].txt
         From: higgins@fnalf.fnal.gov (Bill Higgins-- Beam Jockey) Subject: Why we like DC-X (was Re: Shuttle 0-Defects & Bizarre?
-  28. [3,877] sci.[space]_62393_why-we-like-dc-x-was-re-[shuttle].txt
+  39. [2,664] sci.space_62393_why-we-like-dc-x-was-re-[shuttle].txt
         From: prb@access.digex.net (Pat) Subject: Re: Why we like DC-X (was Re: Shuttle 0-Defects & Bizarre?
-  29. [3,877] sci.[space]_62407_why-we-like-dc-x-was-re-[shuttle].txt
+  40. [2,664] sci.space_62407_why-we-like-dc-x-was-re-[shuttle].txt
         From: prb@access.digex.net (Pat) Subject: Re: Why we like DC-X (was Re: Shuttle 0-Defects & Bizarre?
-  30. [2,093] sci.[space]_60851_[space]-debris.txt
-        From: C.O.EGALON@LARC.NASA.GOV (CLAUDIO OLIVEIRA EGALON) Subject: Re: Space Debris Organization: NASA Langley Research Center Lines: 7 Distribution: world Re...
-  31. [2,093] sci.[space]_60876_[space]-debris.txt
-        From: wdwells@nyx.cs.du.edu (David "Fuzzy" Wells) Subject: Re: Space Debris Organization: University of Denver, Dept. of Math & Comp.
-  32. [2,093] sci.[space]_60911_[space]-debris.txt
-        From: claice@rintintin.Colorado.EDU (Farmer Ted) Subject: Re: Space Debris Nntp-Posting-Host: rintintin.colorado.edu Organization: University of Colorado, Bo...
-  33. [2,093] sci.[space]_60920_[space]-debris.txt
-        From: C.O.EGALON@LARC.NASA.GOV (CLAUDIO OLIVEIRA EGALON) Subject: Re: Space Debris Organization: NASA Langley Research Center Lines: 10 Distribution: world R...
-  34. [2,093] sci.[space]_61189_[space]-debris.txt
-        From: landis@stsci.edu (Robert Landis,S202,,) Subject: Re: Space Debris Reply-To: landis@stsci.edu Organization: Space Telescope Science Institute, Baltimore...
-  35. [2,093] sci.[space]_61388_[space]-surveillance.txt
-        From: jecurt01@starbase.spd.louisville.edu (John E.
-  36. [2,093] sci.[space]_62126_[space]-camp.txt
-        From: jennifer@arts.com (Jennifer Witt) Subject: space camp Organization: Computer Arts, Portland Oregon, USA Lines: 18 I'm replying to someone who asked for...
-  37. [2,019] sci.[space]_60181_[space]-food-sticks.txt
-        From: ghelf@violet.berkeley.edu (;;;;RD48) Subject: Re: space food sticks Keywords: food Article-I.D.: agate.1pr5u2$t0b Organization: University of Californi...
-  38. [2,019] sci.[space]_60192_[space]-food-sticks.txt
-        From: kjenks@gothamcity.jsc.nasa.gov Subject: Re: space food sticks Article-I.D.: aio.1993Apr6.134526.14966 Organization: NASA/JSC/GM2, Space Shuttle Program...
-  39. [2,019] sci.[space]_60203_[space]-food-sticks.txt
-        From: shag@aero.org (Rob Unverzagt) Subject: Re: space food sticks Keywords: food Article-I.D.: news.1pscc6INNebg Organization: Organization?
-  40. [2,019] sci.[space]_60206_[space]-food-sticks.txt
-        From: pyron@skndiv.dseg.ti.com (Dillon Pyron) Subject: Re: space food sticks Keywords: food Lines: 25 Nntp-Posting-Host: skndiv.dseg.ti.com Reply-To: pyron@s...
-  41. [2,019] sci.[space]_60217_[space]-food-sticks.txt
-        From: adam@sw.stratus.com (Mark Adam) Subject: Re: space food sticks Organization: Stratus Computer, Inc.
-  42. [2,019] sci.[space]_60223_[space]-food-sticks.txt
-        From: prb@access.digex.com (Pat) Subject: Re: space food sticks Organization: Express Access Online Communications USA Lines: 9 NNTP-Posting-Host: access.dig...
-  43. [2,019] sci.[space]_60835_orion-[space]-drive.txt
-        From: wallacen@CS.ColoState.EDU (nathan wallace) Subject: ORION space drive Reply-To: wallacen@CS.ColoState.EDU Nntp-Posting-Host: beethoven.cs.colostate.edu...
-  44. [2,019] sci.[space]_60839_guns-for-[space].txt
-        From: eder@hsvaic.boeing.com (Dani Eder) Subject: Re: Guns for Space Keywords: Sopa Gun, Space Launcer Organization: Boeing AI Center, Huntsville, AL Lines: ...
-  45. [2,019] sci.[space]_60840_guns-for-[space].txt
-        From: eder@hsvaic.boeing.com (Dani Eder) Subject: Re: Guns for Space Keywords: Sopa Gun, Space Launcer Organization: Boeing AI Center, Huntsville, AL Lines: ...
-  46. [2,019] sci.[space]_60849_army-in-[space].txt
-        From: ktj@beach.cis.ufl.edu (kerry todd johnson) Subject: army in space Organization: Univ. of Florida CIS Dept.
-  47. [2,019] sci.[space]_60855_army-in-[space].txt
-        From: dante@shakala.com (Charlie Prael) Subject: Re: army in space Organization: Shakala BBS (ClanZen Radio Network) Sunnyvale, CA +1-408-734-2289 Lines: 23 ...
-  48. [2,019] sci.[space]_60857_army-in-[space].txt
-        From: prb@access.digex.com (Pat) Subject: Re: army in space Organization: Express Access Online Communications USA Lines: 10 Distribution: world NNTP-Posting...
-  49. [2,019] sci.[space]_60873_army-in-[space].txt
-        From: nsmca@aurora.alaska.edu Subject: Re: army in space Lines: 13 Nntp-Posting-Host: acad3.alaska.edu Organization: University of Alaska Fairbanks Last I ha...
-  50. [2,019] sci.[space]_60904_[space]-clippers-launched.txt
-        From: 18084TM@msu.edu (Tom) Subject: Space Clippers launched X-Added: Forwarded by Space Digest Organization: [via International Space University] Original-S...
 
 Q2> nome "for sale"
   Query Lucene: nome:"for sale"
-  Risultati: 494 documenti in 4,9 ms
+  Risultati: 494 documenti in 4,1 ms
    1. [3,212] misc.forsale_76588_[for-sale].txt
         From: dcassen@cs.umr.edu (Daniel S Cassen) Subject: for sale Nntp-Posting-Host: mcs213d.cs.umr.edu Distribution: usa Organization: University of Missouri - R...
    2. [3,212] rec.motorcycles_104719_[for-sale].txt
@@ -208,217 +188,211 @@ Q2> nome "for sale"
   50. [2,886] misc.forsale_75991_[for-sale]-jazz-recordings.txt
         From: djserian@flash.LakeheadU.Ca (Reincarnation of Elvis) Subject: For Sale: Jazz Recordings Keywords: Music, Jazz, For Sale, Help a Starving Student Lines:...
 
-Q3> nome windows
-  Query Lucene: nome:window
-  Risultati: 2015+ documenti in 0,6 ms
-   1. [1,551] comp.os.ms-[windows].misc_9694_x-[windows]-for-[windows].txt
-        From: pmw0@ns1.cc.lehigh.edu (PHILLIP MICHAEL WILLIAMS) Subject: X Windows for windows Organization: Lehigh University Lines: 7 Are there any X window server...
-   2. [1,551] comp.os.ms-[windows].misc_9749_x-[windows]-for-[windows].txt
-        From: jls@antares.
-   3. [1,535] comp.[windows].x_66878_[window]-manager.txt
-        From: coe@leopard.cs.uidaho.edu (Mike Coe) Subject: window manager Organization: /users/student/coe/.organization Lines: 19 Distribution: world NNTP-Posting-...
-   4. [1,516] comp.os.ms-[windows].misc_10088_[windows]-nt-und-x-[windows].txt
-        From: mccall@mksol.dseg.ti.com (fred j mccall 575-3539) Subject: Re: Windows NT und X-Windows?
-   5. [1,516] comp.os.ms-[windows].misc_10091_[windows]-nt-und-x-[windows].txt
-        From: mongwa@acsu.buffalo.edu (Kan Mongwa) Subject: Re: Windows NT und X-Windows?
-   6. [1,516] comp.os.ms-[windows].misc_10102_[windows]-nt-und-x-[windows].txt
-        Organization: Penn State University From: Christopher Sacksteder <CJS@psuvm.psu.edu> Subject: Re: Windows NT und X-Windows?
-   7. [1,516] comp.os.ms-[windows].misc_10136_[windows]-nt-und-x-[windows].txt
-        From: mccall@mksol.dseg.ti.com (fred j mccall 575-3539) Subject: Re: Windows NT und X-Windows?
-   8. [1,516] comp.os.ms-[windows].misc_9925_[windows]-nt-und-x-[windows].txt
-        From: hein@eurom.rhein-main.de (Hein Roehrig) Subject: Windows NT und X-Windows?
-   9. [1,482] comp.[windows].x_67285_asynchronous-x-[windows].txt
-        From: matt@centerline.com (Matt Landau) Subject: Re: Asynchronous X Windows?
-  10. [1,482] comp.[windows].x_67342_asynchronous-x-[windows].txt
-        From: gerard@dps.co.UK (Gerard O'Driscoll) Subject: Re: Asynchronous X Windows?
-  11. [1,482] comp.[windows].x_67344_asynchronous-x-[windows].txt
-        From: matt@centerline.com (Matt Landau) Subject: Re: Asynchronous X Windows?
-  12. [1,482] comp.[windows].x_67359_comp-[windows]-x.txt
-        From: folkert@capints.UUCP (Folkert Boonstra) Subject: comp.windows.x Organization: The Internet Lines: 17 NNTP-Posting-Host: enterpoop.mit.edu To: xpert@exp...
-  13. [1,482] comp.[windows].x_68228_key-event-[window].txt
-        From: gibanez@dcc.uchile.cl (Gabriel Ibanez C.)
-  14. [1,482] comp.[windows].x_68259_starting-x-[windows].txt
-        From: schit@ctp.com (Subbarao Chitturi) Subject: Starting X windows Organization: Cambridge Technology Partners Lines: 40 As soon as I am logged into Linux, ...
-  15. [1,481] comp.os.ms-[windows].misc_10074_local-[windows]-vs-shared-[windows]-discussion.txt
-        From: glazer@ohstpy.mps.ohio-state.edu Subject: Local Windows .vs.
-  16. [1,434] comp.os.ms-[windows].misc_9139_[windows]-gripe.txt
-        From: downs@helios.nevada.edu (Lamont Downs) Subject: Re: Windows gripe...
-  17. [1,434] comp.os.ms-[windows].misc_9148_[windows]-gripe.txt
-        From: tedm@tsoft.net (Ted Matsumura) Subject: Re: Windows gripe...
-  18. [1,434] comp.os.ms-[windows].misc_9653_[windows]-help.txt
-        From: mveraart@fel.tno.nl (Mario Veraart) Subject: Re: Windows Help Organization: TNO Physics and Electronics Laboratory Lines: 31 umyin@ccu.umanitoba.ca (Qi...
-  19. [1,434] comp.os.ms-[windows].misc_9663_[windows]-help.txt
-        From: steinark@edb.tih.no (Steinar Kleven) Subject: Re: Windows Help Nntp-Posting-Host: beta.edb.tih.no Organization: Trondheim College of Engineering X-News...
-  20. [1,434] comp.os.ms-[windows].misc_9708_[windows]-help.txt
-        From: shenoy@iastate.edu (Shiva Shenoy) Subject: Re: Windows Help Organization: Iowa State University, Ames IA Lines: 53 In <1993Apr20.072905.21404@fel.tno.n...
-  21. [1,434] comp.os.ms-[windows].misc_9855_[windows]-backgrounds.txt
-        From: mark.whalley@uk.co.gec-mrc (Mark Whalley) Subject: Windows Backgrounds Reply-To: mark.whalley@uk.co.gec-mrc (Mark Whalley) Organization: GEC-Marconi Re...
-  22. [1,434] comp.[windows].x_66438_problems-with-open-[windows].txt
-        From: amit@aryeh.uchicago.edu (Yali Amit) Subject: Problems with Open Windows Organization: Dept. of Statistics Lines: 22 After having OpenWindows (Version 3...
-  23. [1,434] comp.[windows].x_67073_comp-[windows]-x-intrinsics.txt
-        From: kavitsky@hsi.com (Jim Kavitsky) Subject: comp.windows.x.intrinsics Summary: Clipping of character's high order bit Nntp-Posting-Host: hsi86.hsi.com Org...
-  24. [1,434] comp.[windows].x_67159_colormaps-and-[window]-managers.txt
-        From: earle@isolar.Tujunga.CA.US (Greg Earle) Subject: Re: Colormaps and Window Managers Organization: Personal Usenet site, Tujunga, CA USA Lines: 27 Distri...
-  25. [1,434] comp.[windows].x_67172_x-[window]-for-pc.txt
-        From: eks@daimi.aau.dk (Eigil Krogh S|rensen) Subject: X-window for PC Organization: DAIMI: Computer Science Department, Aarhus University, Denmark Lines: 7 ...
-  26. [1,434] comp.[windows].x_67289_x-[window]-for-pc.txt
-        From: dick@bart.starnet.com (Dick Montgomery) Subject: Re: X-window for PC Organization: StarNet Communications Corp.
-  27. [1,434] comp.[windows].x_67557_choosing-a-[window]-manager.txt
-        From: hps@KEKOA.JACH.HAWAII.EDU (Henry Stilmack - JAC System Mgr.)
-  28. [1,434] comp.[windows].x_68186_dump-x-[window]-screen.txt
-        From: boyd@gauss (Mickey Boyd) Subject: Re: Dump x-window screen Organization: Florida State University Department of Mathematics X-Newsreader: TIN [version ...
-  29. [1,434] comp.[windows].x_68279_[windows]-motif-tools-summary.txt
-        From: dls@Autodesk.COM (Daniel Louis Smith) Subject: Windows -> Motif tools SUMMARY Organization: Autodesk Inc., Sausalito CA, USA Lines: 67 I posted this Ma...
-  30. [1,388] comp.os.ms-[windows].misc_10004_dos-[window]-macros.txt
-        From: paladin@world.std.com (Thomas G Schlatter) Subject: Re: Dos window macros Organization: The World Public Access UNIX, Brookline, MA Distribution: usa L...
-  31. [1,388] comp.os.ms-[windows].misc_10027_[windows]-zip-unzip.txt
-        From: russ@deakin.OZ.AU (Russ Sharp) Subject: Windows zip/unzip Organization: Deakin University, Victoria, Australia Lines: 13 Distribution: world NNTP-Posti...
-  32. [1,388] comp.os.ms-[windows].misc_10043_[windows]-zip-unzip.txt
-        From: ardie@ux1.cso.uiuc.edu (Ardie Mack) Subject: Re: Windows zip/unzip Organization: Department of Plant Pathology Lines: 15 I>From: ccastco@prism.gatech.E...
-  33. [1,388] comp.os.ms-[windows].misc_10058_[windows]-zip-unzip.txt
-        From: louray@seas.gwu.edu (Michael Panayiotakis) Subject: Re: Windows zip/unzip Organization: George Washington University Lines: 42 In article <1rl9b6$h3c@s...
-  34. [1,388] comp.os.ms-[windows].misc_10076_[windows]-zip-unzip.txt
-        From: ccastco@prism.gatech.EDU (Costas Malamas) Subject: Re: Windows zip/unzip Organization: Georgia Institute of Technology Lines: 23 In article <1rl9b6$h3c...
-  35. [1,388] comp.os.ms-[windows].misc_10080_[windows]-zip-unzip.txt
-        From: pwb@aerg.canberra.edu.au (Paul Blackman) Subject: Re: Windows zip/unzip Organization: University of Canberra Lines: 31 In article <1rl9b6$h3c@sol.deaki...
-  36. [1,388] comp.os.ms-[windows].misc_10086_[windows]-zip-unzip.txt
-        From: GMILLS@CHEMICAL.watstar.uwaterloo.ca (Phil Trodwell) Subject: Re: Windows zip/unzip Organization: University of Waterloo Lines: 25 In article <1rl9b6$h...
-  37. [1,388] comp.os.ms-[windows].misc_10138_[windows]-zip-unzip.txt
-        From: simardde@ERE.UMontreal.CA (Simard Denis) Subject: Re: Windows zip/unzip Organization: Universite de Montreal Lines: 22 pwb@aerg.canberra.edu.au (Paul B...
-  38. [1,388] comp.os.ms-[windows].misc_10172_changing-[windows]-fonts.txt
-        Subject: Changing Windows fonts?
-  39. [1,388] comp.os.ms-[windows].misc_10200_changing-[windows]-fonts.txt
-        From: ak333@cleveland.Freenet.Edu (Martin Linsenbigler) Subject: Re: Changing Windows fonts?
-  40. [1,388] comp.os.ms-[windows].misc_10616_workgroups-for-[windows].txt
-        From: martijn@cs.vu.nl (Lemmens ML) Subject: Workgroups for Windows Organization: Fac.
-  41. [1,388] comp.os.ms-[windows].misc_10822_[windows]-exit-problem.txt
-        From: Christian.Robert@etudiants.unine.ch Subject: WINDOWS EXIT PROBLEM Organization: University of Neuchatel, Switzerland Lines: 6 HELLO, I HAVE A PROBLEM W...
-  42. [1,388] comp.os.ms-[windows].misc_10845_strange-[windows]-problem.txt
-        From: hutch@bellman.lanl.gov (John Hutchinson) Subject: Strange Windows problem Reply-To: hutch@bellman.lanl.gov Organization: Los Alamos National Laboratory...
-  43. [1,388] comp.os.ms-[windows].misc_9503_need-[windows]-logo.txt
-        From: dmmatt@cajun Subject: Re: Need Windows-logo Lines: 19 Organization: Monsanto Company In article <1qjqed$1ft@access.digex.net>, holland@access.digex.com...
-  44. [1,388] comp.os.ms-[windows].misc_9529_need-[windows]-logo.txt
-        From: rmohns@vax.clarku.edu Subject: RE: Need Windows-logo Organization: Clark University Lines: 46 In a previous article, dmmatt@cajun wrote: >In article <1...
-  45. [1,388] comp.os.ms-[windows].misc_9619_[windows]-nt-faq.txt
-        From: rajiev@cfmu.eurocontrol.be (Rajiev Gupta) Subject: Re: Windows NT FAQ?
-  46. [1,388] comp.os.ms-[windows].misc_9753_speeding-up-[windows].txt
-        From: djserian@flash.LakeheadU.Ca (Reincarnation of Elvis) Subject: speeding up windows Keywords: speed Lines: 19 I have a 386/33 with 8 megs of memory I hav...
-  47. [1,388] comp.os.ms-[windows].misc_9763_speeding-up-[windows].txt
-        From: mb4008@cehp11 (Morgan J Bullard) Subject: Re: speeding up windows Keywords: speed Organization: University of Illinois at Urbana Lines: 30 djserian@fla...
-  48. [1,388] comp.os.ms-[windows].misc_9800_speeding-up-[windows].txt
-        From: e324ngon@credit.erin.utoronto.ca (Ngo Nguyen) Subject: Re: speeding up windows Keywords: speed Organization: University of Toronto, Erindale Campus Lin...
-  49. [1,388] comp.os.ms-[windows].misc_9851_simple-[windows]-question.txt
-        From: jr0930@eve.albany.edu (DIAMOND) Subject: Simple Windows question Organization: State University of New York at Albany Lines: 15 Ok, here's a nice easy ...
-  50. [1,388] comp.os.ms-[windows].misc_9866_simple-[windows]-question.txt
-        From: rnichols@cbnewsg.cb.att.com (robert.k.nichols) Subject: Re: Simple Windows question Organization: AT&T Lines: 15 In article <1993Apr23.214110.15315@sar...
+Q3> nome X11R5
+  Query Lucene: (+nome:x +nome:11 +nome:r +nome:5)
+  Risultati: 47 documenti in 1,5 ms
+   1. [8,594] comp.windows.[x]_67435_[x][11][r][5]-vs-[x][11][r]4-configure-event-handling.txt
+        From: skelley@umiacs.umd.edu (Stephen Kelley) Subject: X11R5 vs X11R4 Configure Event Handling Organization: UMIACS, University of Maryland, College Park, MD...
+   2. [8,187] comp.windows.[x]_68070_[x][11][r][5]-on-solbourne.txt
+        From: anigbogu@poinsignon.loria.fr (Julian Anigbogu) Subject: X11R5 on Solbourne Organization: Crin-Inria-Lorraine Lines: 14 Hi Netters, Having inherited a S...
+   3. [7,862] comp.windows.[x]_66879_[x][11][r][5]-and-open-look.txt
+        From: rgooch@rp.CSIRO.AU (Richard Gooch) Subject: Re: X11R5 and Open Look Organization: CSIRO Division of Radiophysics/Australia Telescope National Facility ...
+   4. [7,862] comp.windows.[x]_66907_[x][11][r][5]-and-gateway2000.txt
+        From: christy@cs.concordia.ca (Christy) Subject: X11R5 and Gateway2000 Organization: Computer Science, Concordia University, Montreal, Quebec Lines: 15 Hi, I...
+   5. [7,862] comp.windows.[x]_66916_[x][11][r][5]-and-gateway2000.txt
+        From: mike@hopper.Virginia.EDU (Michael Chapman) Subject: Re: X11R5 and Gateway2000 Organization: ITC/UVA Community Access UNIX/Internet Project Lines: 25 In...
+   6. [7,862] comp.windows.[x]_66961_[x][11][r][5]-and-open-look.txt
+        From: bash@tware.com (Paul Bash) Subject: Re: X11R5 and Open Look Organization: Techware Design, Boulder, CO.
+   7. [7,862] comp.windows.[x]_67216_installation-problem-with-[x][11][r][5].txt
+        From: dsk@ravl.rice.edu (Dan S.
+   8. [7,862] comp.windows.[x]_67237_summary-xon-and-[x][11][r][5].txt
+        From: bshaw@spdc.ti.com (Bob Shaw) Subject: SUMMARY xon and X11R5 Nntp-Posting-Host: bobasun Organization: TI Semiconductor Process and Design Center Lines: ...
+   9. [7,862] comp.windows.[x]_67373_save-under-with-[x][11][r][5].txt
+        From: hans@xelion.nl (Hans Bos) Subject: Save Under with X11R5 Keywords: Save Under, X11R5 Organization: Xelion bv Lines: 26 I have the following problem on ...
+  10. [7,862] comp.windows.[x]_67409_save-under-with-[x][11][r][5].txt
+        From: marcus@iiasa.ac.at (Marcus SCHNELL) Subject: Re: Save Under with X11R5 Organization: International Institute for Applied Systems Analysis X-Newsreader:...
+  11. [7,862] comp.windows.[x]_68006_error-building-[x][11][r][5]-xdm.txt
+        From: ls116@cunixa.cc.columbia.edu (Lei Shao) Subject: Error building X11R5 xdm Keywords: X11R5 xdm Nntp-Posting-Host: cunixa.cc.columbia.edu Reply-To: ls116...
+  12. [7,862] comp.windows.[x]_68081_resource-listing-for-[x][11][r][5].txt
+        Nntp-Posting-Host: bones.et.byu.edu Lines: 27 From: rrk@bones.et.byu.edu (Robin Kinzy) Distribution: world Organization: Brigham Young University, Provo UT U...
+  13. [7,563] comp.windows.[x]_66407_help-building-[x][11][r][5]-with-gcc.txt
+        From: tim@kimba.catt.citri.edu.au (Tim Liddelow) Subject: Help building X11R5 with gcc Keywords: X11R5, gcc Organization: CATT Centre at CITRI, Melbourne, Au...
+  14. [7,563] comp.windows.[x]_66413_help-building-[x][11][r][5]-with-gcc.txt
+        From: etxmesa@eos.ericsson.se (Michael Salmon) Subject: Re: Help building X11R5 with gcc Keywords: X11R5, gcc Nntp-Posting-Host: eos6c02.ericsson.se Reply-To...
+  15. [7,563] comp.windows.[x]_66895_german-keyboard-[x][11][r][5]-and-sparc.txt
+        From: claes@polaris (Heinz-Josef Claes) Subject: german keyboard, X11R5 and Sparc Nntp-Posting-Host: polaris.informatik.uni-essen.de Organization: Uni-Essen ...
+  16. [7,563] comp.windows.[x]_66957_german-keyboard-[x][11][r][5]-and-sparc.txt
+        From: maf@dtek.chalmers.se (Martin Forssen) Subject: Re: german keyboard, X11R5 and Sparc Nntp-Posting-Host: hacket.dtek.chalmers.se Organization: Chalmers U...
+  17. [7,563] comp.windows.[x]_67210_question-on-xon-in-[x][11][r][5].txt
+        From: bshaw@spdc.ti.com (Bob Shaw) Subject: question on "xon" in X11R5 Article-I.D.: bobasun.bshaw.735532995 Organization: TI Semiconductor Process and Desig...
+  18. [7,563] comp.windows.[x]_67278_installing-mit-[x][11][r][5]-on-apollo.txt
+        From: tim@kimba.catt.citri.edu.au (Tim Liddelow) Subject: Installing MIT X11R5 on Apollo Organization: CATT Centre at CITRI, Melbourne, Australia Lines: 14 C...
+  19. [7,563] comp.windows.[x]_68241_[x][11][r][5]-on-ibm-rs6000.txt
+        From: jhpark@kdb.snu.ac.kr (Park Jang Ho) Subject: X11R5 on IBM RS6000 Lines: 18 How are you, Everybody?
+  20. [7,563] comp.windows.[x]_68244_[x][11][r][5]-on-ibm-rs6000.txt
+        From: herb@iiasa.ac.at (Herb HASLER) Subject: X11R5 on IBM RS6000 Organization: IIASA, Laxenburg, Austria X-Newsreader: TIN [version 1.1 PL6] Lines: 23 Yes w...
+  21. [7,286] comp.windows.[x]_67135_looking-for-a-filemanager-under-[x][11][r][5].txt
+        From: brians@atlastele.com (Brian Sheets) Subject: Looking for a filemanager under X11R5 Organization: Atlas Telecom Inc.
+  22. [7,286] comp.windows.[x]_67277_looking-for-a-filemanager-under-[x][11][r][5].txt
+        From: mike@hopper.Virginia.EDU (Michael Chapman) Subject: Re: Looking for a filemanager under X11R5 Organization: ITC/UVA Community Access UNIX/Internet Proj...
+  23. [7,286] comp.windows.[x]_67380_frame-buffer-question-for-[x][11][r][5]-sun.txt
+        From: panvalka@cs.unc.edu (Anay Panvalkar) Subject: Frame buffer question for X11R5 (Sun) Organization: The University of North Carolina at Chapel Hill Lines...
+  24. [7,286] comp.windows.[x]_67385_callback-parameter-problem-after-[x][11][r][5]-upgrade.txt
+        From: saint@mitchell.hac.com (Kathy Saint) Subject: Callback parameter problem after X11R5 upgrade Organization: Hughes Aircraft Company Lines: 24 We've just...
+  25. [7,286] comp.windows.[x]_67453_[x][11][r][5]-support-for-386i-gx.txt
+        From: colinm@max.carleton.ca (Colin McFadyen) Subject: X11R5 support for 386i GX??
+  26. [7,286] comp.windows.[x]_67550_xw-widget-set-ported-to-[x][11][r][5].txt
+        From: jessea@u013.me.vp.com (Jesse W.
+  27. [7,286] comp.windows.[x]_68111_problems-with-xdm-under-[x][11][r][5]-solaris.txt
+        From: casper@fwi.uva.nl (Casper H.S.
+  28. [7,028] comp.windows.[x]_66466_help-sunview-on-olwm-xview3-[x][11][r][5].txt
+        From: chatterj@haji.lcs.mit.EDU (Shash Chatterjee) Subject: Help: SunView on olwm/xview3/X11R5 Article-I.D.: haji.9304051753.AA05339 Organization: The Intern...
+  29. [7,028] comp.windows.[x]_67085_tvtwm-xsetroot-[x][11][r][5]-and-sparc-10-keyboard.txt
+        From: D.Haywood@sheffield-hallam.ac.UK (Dave Haywood) Subject: tvtwm & xsetroot, X11R5 and Sparc 10 keyboard Organization: Sheffield Hallam University Lines:...
+  30. [7,028] comp.windows.[x]_67086_tvtwm-xsetroot-[x][11][r][5]-and-sparc-10-keyboard.txt
+        From: barr@pop.psu.edu (David Barr) Subject: Re: tvtwm & xsetroot, X11R5 and Sparc 10 keyboard Organization: Penn State Population Research Institute Lines: ...
+  31. [7,028] comp.windows.[x]_67160_tvtwm-xsetroot-[x][11][r][5]-and-sparcstation-10-keyboard.txt
+        From: earle@isolar.Tujunga.CA.US (Greg Earle) Subject: Re: tvtwm & xsetroot, X11R5 and SPARCstation 10 keyboard Organization: Personal Usenet site, Tujunga, ...
+  32. [7,028] comp.windows.[x]_67288_tvtwm-xsetroot-[x][11][r][5]-and-sparc-10-keyboard.txt
+        From: rj@rainbow.in-berlin.de (Robert Joop) Subject: Re: tvtwm & xsetroot, X11R5 and Sparc 10 keyboard Lines: 26 NNTP-Posting-Host: rainbow.in-berlin.de Mime...
+  33. [7,028] comp.windows.[x]_67332_sun3-60-[x][11][r][5]-undeletable-console-messages.txt
+        From: hughm@brwal.inmos.co.uk (Hugh McIntyre) Subject: Sun3/60 + X11R5 -> undeletable console messages.
+  34. [7,028] comp.windows.[x]_68112_patch-for-[x][11][r][5]-under-solaris-2-1.txt
+        From: casper@fwi.uva.nl (Casper H.S.
+  35. [6,789] comp.windows.[x]_66412_trouble-compiling-[x][11][r][5]-on-sunos-4-1-3.txt
+        From: casper@fwi.uva.nl (Casper H.S.
+  36. [6,789] comp.windows.[x]_66436_trouble-compiling-[x][11][r][5]-on-sunos-4-1-3.txt
+        From: vic@fajita (V.
+  37. [6,789] comp.windows.[x]_66442_trouble-compiling-[x][11][r][5]-on-sunos-4-1-3.txt
+        From: troll@sug.org (A.
+  38. [6,789] comp.windows.[x]_66947_trouble-compiling-[x][11][r][5]-on-sunos-4-1-3.txt
+        Subject: Re: Trouble compiling X11R5 on SunOS_4.1.3 From: nemo@aguirre.dia.fi.upm.es (Francisco J.
+  39. [6,789] comp.windows.[x]_66970_trouble-compiling-[x][11][r][5]-on-sunos-4-1-3.txt
+        From: schneck@Physik.TU-Muenchen.DE (Bernhard Schneck) Subject: Re: Trouble compiling X11R5 on SunOS_4.1.3 Organization: Leibniz-Rechenzentrum, Muenchen (Ger...
+  40. [6,789] comp.windows.[x]_66972_trouble-compiling-[x][11][r][5]-on-sunos-4-1-3.txt
+        From: welch@xcf.Berkeley.EDU (Sean N.
+  41. [6,789] comp.windows.[x]_67152_build-[x][11][r][5]-with-xlc-1-2-1-aix.txt
+        From: dla@se05.wg2.waii.com (Doug Acker) Subject: Re: build X11R5 with xlc 1.2.1 (Aix 3.2.3e) Organization: western geophysical exploration products Lines: 3...
+  42. [6,789] comp.windows.[x]_67154_build-[x][11][r][5]-with-xlc-1-2-1-aix.txt
+        From: dla@se05.wg2.waii.com (Doug Acker) Subject: Re: build X11R5 with xlc 1.2.1 (Aix 3.2.3e) Organization: western geophysical exploration products Lines: 5...
+  43. [6,789] comp.windows.[x]_67976_[x][11][r][5]-on-aix-3-2-2-using-cc.txt
+        From: chucks@iplmail.orl.mmc.com (Chuck Strickland) Subject: X11R5 on aix 3.2.2 using cc.
+  44. [6,789] comp.windows.[x]_68088_xdec-[x][11][r][5]-server-and-decstation-5000-2-0.txt
+        From: STU_JWSHELBY@VAX1.ACS.JMU.EDU (JOSEPH W SHELBY) Subject: Xdec X11R5 server and DECstation 5000/2[0|5] sans DECnet Organization: James Madison Universit...
+  45. [6,356] comp.windows.[x]_67303_[x][11][r][5]-on-sun4-110-cg2-comes-up-mono.txt
+        From: hdr@ross.COM (Henry D.
+  46. [6,356] comp.windows.[x]_68114_[x][11][r][5]-pl-23-and-sun386i-works-but-not.txt
+        From: weisss@Informatik.TU-Muenchen.DE (Stefan Weiss) Subject: X11R5(Pl.23) and Sun386i (works but not on the screen) Keywords: SUN X11 SUN386i SunOS device ...
+  47. [6,160] comp.windows.[x]_68235_help-w-[x][11][r][5]p22-w-sun-4-110-cg2.txt
+        From: hdr@ross.COM (Henry D.
 
-Q4> nome sci.med
-  Query Lucene: (+nome:sci +nome:med)
-  Risultati: 990 documenti in 1,5 ms
-   1. [2,957] [sci].[med]_59423_[med]-school.txt
-        From: hoss@panix.com (Felix the Cat) Subject: Re: med school Organization: PANIX Public Access Unix, NYC Lines: 38 X-Newsreader: TIN [version 1.1 PL8] John C...
-   2. [2,957] [sci].[med]_59480_[med]-school.txt
-        From: jcarey@news.weeg.uiowa.edu (John Carey) Subject: med school Organization: University of Iowa, Iowa City, IA, USA Lines: 27 Actually I am entering vet s...
-   3. [2,890] [sci].[med]_58071_what-about-[sci]-[med]-chemistry.txt
-        From: julkunen@messi.uku.fi (Antero Julkunen) Subject: What about sci.med.chemistry Organization: University of Kuopio, Finland Lines: 10 There is this newsg...
-   4. [2,890] [sci].[med]_58082_what-about-[sci]-[med]-chemistry.txt
-        From: kaminski@netcom.com (Peter Kaminski) Subject: Re: What about sci.med.chemistry Article-I.D.: netcom.kaminskiC52n0s.2uA Organization: The Information De...
-   5. [2,837] [sci].[med]_59345_[med]-school-admission.txt
-        From: hoss@panix.com (Felix the Cat) Subject: Med school admission Organization: PANIX Public Access Unix, NYC X-Newsreader: TIN [version 1.1 PL8] Lines: 17 ...
-   6. [2,837] [sci].[med]_59353_[med]-school-admission.txt
-        From: res4w@galen.med.Virginia.EDU (Robert E.
-   7. [2,837] [sci].[med]_59392_[med]-school-admission.txt
-        From: jhsu@Xenon.Stanford.EDU (Jeffrey H.
-   8. [2,837] [sci].[med]_59411_[med]-school-admission.txt
-        Organization: Penn State University From: <RFM@psuvm.psu.edu> Subject: Re: Med school admission Lines: 1 Then there are always osteopathy colleges....
-   9. [2,727] [sci].[med]_59422_[med]-school-admission-continued.txt
-        From: hoss@panix.com (Felix the Cat) Subject: med school admission continued.
-  10. [2,636] [sci].[med]_58043_jiggers.txt
-        From: mcdonald@aries.scs.uiuc.edu (J.
-  11. [2,636] [sci].[med]_58063_fibromyalgia.txt
-        From: dyer@spdcc.com (Steve Dyer) Subject: Re: fibromyalgia Organization: S.P.
-  12. [2,636] [sci].[med]_58075_jiggers.txt
-        From: jperkski@kentcomm.uucp (Jim Perkowski) Subject: Re: jiggers Distribution: world X-NewsSoftware: GRn 1.16f (10.17.92) by Mike Schwartz & Michael B.
-  13. [2,636] [sci].[med]_58085_lupus.txt
-        From: bytor@cruzio.santa-cruz.ca.us Subject: Lupus Keywords: Information wanted Article-I.D.: cruzio.5254 Reply-To: bytor@cruzio.santa-cruz.ca.us Lines: 12 I...
-  14. [2,636] [sci].[med]_58094_migraines.txt
-        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: Migraines Article-I.D.: pitt.19398 Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsbur...
-  15. [2,636] [sci].[med]_58112_jiggers.txt
-        From: sasghm@theseus.unx.sas.com (Gary Merrill) Subject: Re: jiggers Originator: sasghm@theseus.unx.sas.com Nntp-Posting-Host: theseus.unx.sas.com Organizati...
-  16. [2,636] [sci].[med]_58114_blindsight.txt
-        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: Blindsight Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Line...
-  17. [2,636] [sci].[med]_58117_tuberculosis.txt
-        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: tuberculosis Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Li...
-  18. [2,636] [sci].[med]_58118_blindsight.txt
-        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: Blindsight Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Line...
-  19. [2,636] [sci].[med]_58131_tuberculosis.txt
-        From: km@ky3b.pgh.pa.us (Ken Mitchum) Subject: Re: tuberculosis Organization: KY3B - Vax Pittsburgh, PA Lines: 19 In article <1993Mar25.085526.914@news.wesle...
-  20. [2,636] [sci].[med]_58132_amitriptyline.txt
-        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: amitriptyline Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science L...
-  21. [2,636] [sci].[med]_58137_toxoplasmosis.txt
-        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: Toxoplasmosis Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science L...
-  22. [2,636] [sci].[med]_58140_tuberculosis.txt
-        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: tuberculosis Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Li...
-  23. [2,636] [sci].[med]_58141_tuberculosis.txt
-        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: tuberculosis Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Li...
-  24. [2,636] [sci].[med]_58150_blindsight.txt
-        From: eb3@world.std.com (Edwin Barkdoll) Subject: Re: Blindsight Organization: The World Public Access UNIX, Brookline, MA Lines: 64 In article <19382@pitt.U...
-  25. [2,636] [sci].[med]_58769_erythromycin.txt
-        From: wsun@jeeves.ucsd.edu (Fiberman) Subject: erythromycin Organization: University of California, San Diego Lines: 4 Nntp-Posting-Host: jeeves.ucsd.edu Is ...
-  26. [2,636] [sci].[med]_58773_eugenics.txt
-        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: Eugenics Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Lines:...
-  27. [2,636] [sci].[med]_58790_eugenics.txt
-        From: sue@netcom.com (Sue Miller) Subject: Re: Eugenics Organization: Netcom - Online Communication Services (408 241-9760 guest) Lines: 7 In article <19617@...
-  28. [2,636] [sci].[med]_58794_erythromycin.txt
-        From: kxgst1+@pitt.edu (Kenneth Gilbert) Subject: Re: erythromycin Organization: University of Pittsburgh Lines: 14 In article <47974@sdcc12.ucsd.edu> wsun@j...
-  29. [2,636] [sci].[med]_58797_erythromycin.txt
-        From: rind@enterprise.bih.harvard.edu (David Rind) Subject: Re: erythromycin Organization: Beth Israel Hospital, Harvard Medical School, Boston Mass., USA Li...
-  30. [2,636] [sci].[med]_58802_centrifuge.txt
-        From: rjf@lzsc.lincroftnj.ncr.com (51351[efw]-Robert Feddeler(MT4799)T343) Subject: Re: centrifuge Organization: AT&T Middletown N.J.
-  31. [2,636] [sci].[med]_58806_endometriosis.txt
-        From: naomi@rock.concert.net (Naomi T Courter) Subject: Endometriosis Organization: CONCERT-CONNECT -- Public Access UNIX Lines: 15 can anyone give me more i...
-  32. [2,636] [sci].[med]_58815_sarchoidosis.txt
-        From: Nigel@dataman.demon.co.uk (Nigel Ballard) Subject: Re: Sarchoidosis Distribution: world Organization: Infamy Inc.
-  33. [2,636] [sci].[med]_58825_hypoglycemia.txt
-        From: anello@adcs00.fnal.gov (Anthony Anello) Subject: HYPOGLYCEMIA Organization: Fermi National Accelerator Laboratory, Batavia IL Lines: 14 Distribution: w...
-  34. [2,636] [sci].[med]_58837_prozac.txt
-        Subject: prozac From: agilmet@eis.calstate.edu (Adriana Gilmete) Organization: Calif State Univ/Electronic Information Services Lines: 3 Can anyone help me f...
-  35. [2,636] [sci].[med]_58840_centrifuge.txt
-        From: rind@enterprise.bih.harvard.edu (David Rind) Subject: Re: centrifuge Organization: Beth Israel Hospital, Harvard Medical School, Boston Mass., USA Line...
-  36. [2,636] [sci].[med]_58846_endometriosis.txt
-        From: jfare@53iss6.Waterloo.NCR.COM (Jim Fare) Subject: Re: Endometriosis Reply-To: jfare@53iss6.Waterloo.NCR.COM (Jim Fare) Distribution: world Organization...
-  37. [2,636] [sci].[med]_58847_prozac.txt
-        From: szikopou@superior.carleton.ca (Steven Zikopoulos) Subject: Re: prozac Organization: Carleton University Lines: 14 In <C5L2x5.4B7@eis.calstate.edu> agil...
-  38. [2,636] [sci].[med]_58859_endometriosis.txt
-        From: georgec@eng.umd.edu (George B.
-  39. [2,636] [sci].[med]_58860_eugenics.txt
-        From: cps@generali.harvard.edu (Chris Schaeffer) Subject: Re: Eugenics Summary: It will be difficult.
-  40. [2,636] [sci].[med]_58915_hypoglycemia.txt
-        From: jim.zisfein@factory.com (Jim Zisfein) Subject: HYPOGLYCEMIA Distribution: world Organization: Invention Factory's BBS - New York City, NY - 212-274-829...
-  41. [2,636] [sci].[med]_58933_help.txt
-        From: Gia Kiria <gkiria@kiria.kheta.georgia.su> Subject: help Reply-To: gkiria@kiria.kheta.georgia.su Organization: Gia Kiria Keywords: information echo card...
-  42. [2,636] [sci].[med]_58934_hypoglycemia.txt
-        From: ron.roth@rose.com (ron roth) Subject: HYPOGLYCEMIA X-Gated-By: Usenet <==> RoseMail Gateway (v1.70) Organization: Rose Media Inc, Toronto, Ontario.
-  43. [2,636] [sci].[med]_58935_glutamate.txt
-        From: kfl@access.digex.com (Keith F.
-  44. [2,636] [sci].[med]_58938_glutamate.txt
-        From: jchen@wind.bellcore.com (Jason Chen) Subject: Re: Glutamate Nntp-Posting-Host: wind.bellcore.com Organization: Bellcore Lines: 13 In article <1qrsr6$d5...
-  45. [2,636] [sci].[med]_58939_glutamate.txt
-        From: carl@SOL1.GPS.CALTECH.EDU (Carl J Lydick) Subject: Re: Glutamate Organization: HST Wide Field/Planetary Camera Lines: 15 Distribution: world Reply-To: ...
-  46. [2,636] [sci].[med]_58942_hunchback.txt
-        From: Isabelle.Rosso@Dartmouth.edu (Isabelle Rosso) Subject: Hunchback X-Posted-From: InterNews 1.0b15@dartmouth.edu Organization: Dartmouth College Lines: 1...
-  47. [2,636] [sci].[med]_58946_eugenics.txt
-        From: ruegg@med.unc.edu (Robert G.
-  48. [2,636] [sci].[med]_58948_eugenics.txt
-        From: ruegg@med.unc.edu (Robert G.
-  49. [2,636] [sci].[med]_58976_hernia.txt
-        From: sheffner@encore.com (Steve Heffner) Subject: Hernia Organization: Encore Computer Corporation Nntp-Posting-Host: condor.encore.com Lines: 20 A bit more...
-  50. [2,636] [sci].[med]_59015_hernia.txt
-        From: doyle+@pitt.edu (Howard R Doyle) Subject: Re: Hernia Organization: Pittsburgh TRansplant Institute Lines: 41 In article <C5qopx.5Mq@encore.com> sheffne...
+Q4> nome clipper-chip
+  Query Lucene: (+nome:clipper +nome:chip)
+  Risultati: 98 documenti in 0,5 ms
+   1. [5,025] sci.crypt_15316_[clipper]-[chip].txt
+        From: "dan mckinnon" <dan.mckinnon@canrem.com> Subject: "clipper chip" Reply-To: "dan mckinnon" <dan.mckinnon@canrem.com> Organization: Canada Remote Systems...
+   2. [5,025] sci.crypt_15521_[clipper]-[chip].txt
+        From: gtoal@gtoal.com (Graham Toal) Subject: Re: "clipper chip" Lines: 30 From: "dan mckinnon" <dan.mckinnon@canrem.com> I have lurked here a bit lately, and...
+   3. [5,025] sci.crypt_16020_[clipper]-[chip].txt
+        From: jbs@watson.ibm.com Subject: Re: Clipper chip Lines: 6 Is it realistic for the government to try to keep the details of the encrytion algorithm secret i...
+   4. [5,025] sci.crypt_16127_[clipper]-[chip].txt
+        From: h2o@dmi.ens.fr (Philippe Hoogvorst) Subject: Re: Clipper chip Nntp-Posting-Host: chene.ens.fr Organization: Ecole Normale Superieure, PARIS, France Lin...
+   5. [5,025] sci.crypt_16130_[clipper]-[chip].txt
+        From: jfc@athena.mit.edu (John F Carr) Subject: Re: Clipper chip Organization: Massachusetts Institute of Technology Lines: 22 NNTP-Posting-Host: achates.mit...
+   6. [4,756] sci.crypt_16152_[clipper]-[chip]-questions.txt
+        Subject: Re: Clipper Chip Questions From: a_rubin@dsg4.dse.beckman.com (Arthur Rubin) Organization: Beckman Instruments, Inc.
+   7. [4,756] talk.politics.guns_54390_[clipper]-[chip].txt
+        From: pes3@cunixf.cc.columbia.edu (Paul Eric Stoufflet) Subject: Clipper Chip Nntp-Posting-Host: cunixf.cc.columbia.edu Reply-To: pes3@cunixf.cc.columbia.edu...
+   8. [4,756] talk.politics.guns_54611_[clipper]-[chip].txt
+        From: meyers@leonardo.rtp.dg.com (Bill Meyers) Subject: Re: Clipper Chip Distribution: usa Organization: N/I Lines: 137 In article <1993Apr20.183938.8024@new...
+   9. [4,515] sci.crypt_15337_[clipper]-[chip]-technical-details.txt
+        From: smb@research.att.com (Steven Bellovin) Subject: Clipper chip -- technical details Organization: AT&T Bell Laboratories Lines: 121 I received the follow...
+  10. [4,515] sci.crypt_15343_[clipper]-[chip]-technical-details.txt
+        From: djb@silverton.berkeley.edu (D.
+  11. [4,515] sci.crypt_15349_big-brother-[clipper]-[chip].txt
+        From: artmel@well.sf.ca.us (Arthur Melnick) Subject: Big Brother (Clipper) chip Summary: Some thoughts on the use of the Big Brother (Clipper) chip Keywords:...
+  12. [4,515] sci.crypt_15358_[clipper]-[chip]-technical-details.txt
+        From: Marc VanHeyningen <mvanheyn@cs.indiana.edu> Subject: Re: Clipper chip -- technical details Organization: Computer Science Dept, Indiana University Line...
+  13. [4,515] sci.crypt_15374_[clipper]-[chip]-technical-details.txt
+        From: hal@cco.caltech.edu (Hal Finney) Subject: Re: Clipper chip -- technical details Organization: California Institute of Technology, Pasadena Lines: 19 NN...
+  14. [4,515] sci.crypt_15375_[clipper]-[chip]-technical-details.txt
+        From: smb@research.att.com (Steven Bellovin) Subject: Re: Clipper chip -- technical details Organization: AT&T Bell Laboratories Lines: 20 In article <1667.A...
+  15. [4,515] sci.crypt_15382_[clipper]-[chip]-technical-details.txt
+        From: djb@silverton.berkeley.edu (D.
+  16. [4,515] sci.crypt_15389_[clipper]-[chip]-technical-details.txt
+        From: gtoal@gtoal.com (Graham Toal) Subject: Re: Clipper chip -- technical details Lines: 8 The protocol/key-management description published so far is eithe...
+  17. [4,515] sci.crypt_15496_[clipper]-[chip]-technical-details.txt
+        From: rja14@cl.cam.ac.uk (Ross Anderson) Subject: Re: Clipper chip -- technical details Nntp-Posting-Host: ely.cl.cam.ac.uk Organization: U of Cambridge Comp...
+  18. [4,515] sci.crypt_16118_re-re-[clipper]-[chip].txt
+        From: kennejs@a.cs.okstate.edu (KENNEDY JAMES SCOT) Subject: Re: RE: RE: Clipper Chip Organization: Oklahoma State University Lines: 44 From article <67@cybe...
+  19. [4,515] sci.crypt_16119_[clipper]-[chip]-reverse-engineering.txt
+        From: maa@plato.ds.boeing.com (Mark A Allyn) Subject: Clipper Chip: Reverse Engineering Organization: Boeing Defense & Space Group Lines: 26 I have been look...
+  20. [4,515] sci.crypt_16145_[clipper]-[chip]-reverse-engineering.txt
+        From: matt@ra.oc.com (Matthew Lyle) Subject: Re: Clipper Chip: Reverse Engineering Organization: OpenConnect Systems, Dallas, TX Lines: 31 maa@plato.ds.boein...
+  21. [4,297] sci.crypt_15429_[clipper]-[chip]-long-follow-up.txt
+        From: zrepachol@cc.curtin.edu.au (Paul Repacholi) Subject: Re: Clipper Chip.
+  22. [4,297] sci.crypt_15454_[clipper]-[chip]-bush-did-it.txt
+        From: johng@ecs.comm.mot.com (John Gilbert) Subject: clipper chip --Bush did it Organization: Motorola, Land Mobile Products Sector Distribution: na Keywords...
+  23. [4,297] sci.crypt_15465_[clipper]-[chip]-bush-did-it.txt
+        From: rdippold@qualcomm.com (Ron "Asbestos" Dippold) Subject: Re: clipper chip --Bush did it Originator: rdippold@qualcom.qualcomm.com Keywords: Big Bubba Is...
+  24. [4,297] sci.crypt_15586_[clipper]-[chip]-long-follow-up.txt
+        From: jpb@calmasd.Prime.COM (Jan Bielawski) Subject: Re: Clipper Chip.
+  25. [4,297] sci.crypt_15658_[clipper]-[chip]-facts-a-request.txt
+        From: rbrand@usasoc.soc.mil (Raymond S.
+  26. [4,099] sci.crypt_15188_[clipper]-[chip]-and-crypto-key-escrow.txt
+        From: jim@rand.org (Jim Gillogly) Subject: Clipper Chip and crypto key-escrow Summary: bohica Keywords: encryption, wiretap, clipper, key-escrow, Mykotronx O...
+  27. [4,099] sci.crypt_15350_[clipper]-[chip]-and-key-exchange-methods.txt
+        From: C445585@mizzou1.missouri.edu (John Kelsey) Subject: Clipper chip and key exchange methods Nntp-Posting-Host: mizzou1.missouri.edu Organization: Univers...
+  28. [4,099] sci.crypt_15352_[clipper]-[chip]-how-would-it-work.txt
+        From: jyork@iastate.edu (Justin York) Subject: Clipper Chip - How would it work?
+  29. [4,099] sci.crypt_15455_the-[clipper]-[chip]-a-technical-summary.txt
+        From: denning@guvax.acc.georgetown.edu Subject: THE CLIPPER CHIP: A TECHNICAL SUMMARY Distribution: world Organization: Georgetown University Lines: 139 The ...
+  30. [4,099] sci.crypt_15603_[clipper]-[chip]-and-crypto-key-escrow.txt
+        From: peter@memex.co.uk (Peter Ilieve) Subject: Re: Clipper Chip and crypto key-escrow Organization: Memex Information Systems Ltd, East Kilbrde, Scotland Li...
+  31. [4,099] sci.crypt_15620_the-[clipper]-[chip]-a-technical-summary.txt
+        From: wcs@anchor.ho.att.com (Bill Stewart +1-908-949-0705) Subject: Re: THE CLIPPER CHIP: A TECHNICAL SUMMARY Organization: Brought to you by the numbers 2, ...
+  32. [4,099] sci.crypt_15670_revised-technical-summary-of-[clipper]-[chip].txt
+        From: denning@guvax.acc.georgetown.edu Subject: REVISED TECHNICAL SUMMARY OF CLIPPER CHIP Distribution: world Organization: Georgetown University Lines: 167 ...
+  33. [4,099] sci.crypt_15812_the-[clipper]-[chip]-a-technical-summary.txt
+        From: pat@rwing.UUCP (Pat Myrto) Subject: Re: THE CLIPPER CHIP: A TECHNICAL SUMMARY Organization: Totally Unorganized Lines: 119 In article <1993Apr19.182327...
+  34. [4,099] sci.crypt_15831_revised-technical-summary-of-[clipper]-[chip].txt
+        From: dougb@comm.mot.com (Doug Bank) Subject: Re: REVISED TECHNICAL SUMMARY OF CLIPPER CHIP Reply-To: dougb@ecs.comm.mot.com Organization: Motorola Land Mobi...
+  35. [4,099] sci.crypt_15866_revised-technical-summary-of-[clipper]-[chip].txt
+        From: tomw@orac.asd.sgi.com (Tom Weinstein) Subject: Re: REVISED TECHNICAL SUMMARY OF CLIPPER CHIP Organization: Silicon Graphics Inc.
+  36. [4,099] sci.crypt_15872_the-[clipper]-[chip]-a-technical-summary.txt
+        From: strnlght@netcom.com (David Sternlight) Subject: Re: THE CLIPPER CHIP: A TECHNICAL SUMMARY Organization: DSI/USCRPAC Lines: 14 Pat Myrto says if law enf...
+  37. [4,099] sci.crypt_15875_the-[clipper]-[chip]-a-technical-summary.txt
+        From: strnlght@netcom.com (David Sternlight) Subject: Re: THE CLIPPER CHIP: A TECHNICAL SUMMARY Organization: DSI/USCRPAC Lines: 10 For some reason my finger...
+  38. [4,099] sci.crypt_15914_[clipper]-[chip]-and-crypto-key-esc.txt
+        From: mike@avon.demon.co.uk ("Mike H.")
+  39. [4,099] sci.crypt_15917_revised-technical-summary-of-[clipper]-[chip].txt
+        From: ijames@helix.nih.gov (Carl Ijames) Subject: Re: REVISED TECHNICAL SUMMARY OF CLIPPER CHIP Organization: National Institutes of Health Lines: 44 > In ar...
+  40. [3,918] sci.crypt_15290_new-[clipper]-[chip]-proposal-from-the-guv.txt
+        From: pat@rwing.UUCP (Pat Myrto) Subject: New Clipper Chip Proposal from the Guv...
+  41. [3,918] sci.crypt_15965_dorothy-denning-opposes-[clipper]-capstone-wiretap-[chips].txt
+        From: jhart@agora.rain.com (Jim Hart) Subject: Dorothy Denning opposes Clipper, Capstone wiretap chips Organization: Open Communications Forum Lines: 4 "The ...
+  42. [3,918] sci.crypt_15997_dorothy-denning-opposes-[clipper]-capstone-wiretap-[chips].txt
+        From: mnemonic@eff.org (Mike Godwin) Subject: Re: Dorothy Denning opposes Clipper, Capstone wiretap chips Originator: mnemonic@eff.org Nntp-Posting-Host: eff...
+  43. [3,918] sci.crypt_16015_dorothy-denning-opposes-[clipper]-capstone-wiretap-[chips].txt
+        From: mlm@fuzine.mt.cs.cmu.edu (Michael Mauldin) Subject: Re: Dorothy Denning opposes Clipper, Capstone wiretap chips Nntp-Posting-Host: fuzine.mt.cs.cmu.edu...
+  44. [3,918] sci.crypt_16043_dorothy-denning-opposes-[clipper]-capstone-wiretap-[chips].txt
+        From: allen@well.sf.ca.us (Allen Barrett Ethridge) Subject: Re: Dorothy Denning opposes Clipper, Capstone wiretap chips Nntp-Posting-Host: well.sf.ca.us Orga...
+  45. [3,918] sci.crypt_16082_dorothy-denning-opposes-[clipper]-capstone-wiretap-[chips].txt
+        From: ktl@wag.caltech.edu (Kian-Tat Lim) Subject: Re: Dorothy Denning opposes Clipper, Capstone wiretap chips Organization: California Institute of Technolog...
+  46. [3,918] sci.crypt_16084_dorothy-denning-opposes-[clipper]-capstone-wiretap-[chips].txt
+        From: mnemonic@eff.org (Mike Godwin) Subject: Re: Dorothy Denning opposes Clipper, Capstone wiretap chips Originator: mnemonic@eff.org Nntp-Posting-Host: eff...
+  47. [3,918] sci.crypt_16126_dorothy-denning-opposes-[clipper]-capstone-wiretap-[chips].txt
+        From: brad@clarinet.com (Brad Templeton) Subject: Re: Dorothy Denning opposes Clipper, Capstone wiretap chips Organization: ClariNet Communications Corp.
+  48. [3,918] sci.crypt_16129_dorothy-denning-opposes-[clipper]-capstone-wiretap-[chips].txt
+        From: steve-b@access.digex.com (Steve Brinich) Subject: Re: Dorothy Denning opposes Clipper, Capstone wiretap chips Organization: Express Access Online Commu...
+  49. [3,918] sci.crypt_16148_dorothy-denning-opposes-[clipper]-capstone-wiretap-[chips].txt
+        From: amanda@intercon.com (Amanda Walker) Subject: Re: Dorothy Denning opposes Clipper, Capstone wiretap chips Reply-To: amanda@intercon.com (Amanda Walker) ...
+  50. [3,753] sci.crypt_15189_secret-algorithm-re-[clipper]-[chip]-and-crypto-key.txt
+        From: jim@rand.org (Jim Gillogly) Subject: Secret algorithm [Re: Clipper Chip and crypto key-escrow] Keywords: encryption, wiretap, clipper, key-escrow, Myko...
 
 Q5> contenuto "space shuttle"
   Query Lucene: contenuto:"space shuttl"
-  Risultati: 60 documenti in 1,5 ms
+  Risultati: 60 documenti in 3,2 ms
    1. [6,213] sci.space_60859_a-flawed-propulsion-system-space-shuttle.txt
         If you have any beefs about the current [space shuttle] program Re: propulsion, please send me your ideas.
    2. [6,213] sci.space_61151_russian-email-contacts.txt
@@ -522,7 +496,7 @@ Q5> contenuto "space shuttle"
 
 Q6> contenuto "stanley cup"
   Query Lucene: contenuto:"stanlei cup"
-  Risultati: 102 documenti in 1,2 ms
+  Risultati: 102 documenti in 1,3 ms
    1. [7,307] rec.sport.hockey_54759_winnipeg-vs-vancouver.txt
         The Winnipeg Jets have never won the [Stanley Cup] (or even come that close).
    2. [7,239] rec.sport.hockey_53608_my-predictions-of-a-classic-playoff-year.txt
@@ -626,7 +600,7 @@ Q6> contenuto "stanley cup"
 
 Q7> contenuto encryption clipper chip
   Query Lucene: contenuto:encrypt contenuto:clipper contenuto:chip
-  Risultati: 1058+ documenti in 2,2 ms
+  Risultati: 1058+ documenti in 2,1 ms
    1. [8,607] sci.crypt_15683_will-feds-troll-for-mutilated-law-enforcement-blocks.txt
         Postulate if you will, a [chip] (or logic) sitting between the [clipper] [chip] and its communications channel.
    2. [8,582] sci.crypt_15922_trademark-violation-claimed.txt
@@ -730,7 +704,7 @@ Q7> contenuto encryption clipper chip
 
 Q8> contenuto "second amendment"
   Query Lucene: contenuto:"second amend"
-  Risultati: 87 documenti in 1,8 ms
+  Risultati: 87 documenti in 1,3 ms
    1. [5,284] talk.politics.guns_54687_analysis-of-second-amendment-was-re-some-more.txt
         (C) 1991 by The New Gun Week and [Second Amendment] Foundation.
    2. [5,252] talk.politics.guns_54906_text-of-white-house-announcement-and-q-as.txt
@@ -834,7 +808,7 @@ Q8> contenuto "second amendment"
 
 Q9> contenuto +god -jesus
   Query Lucene: +contenuto:god -contenuto:jesu
-  Risultati: 1020+ documenti in 3,0 ms
+  Risultati: 1020+ documenti in 2,8 ms
    1. [2,428] talk.religion.misc_84082_what-right.txt
         |> [God] is [God].
    2. [2,414] talk.religion.misc_84128_what-right.txt
@@ -938,7 +912,7 @@ Q9> contenuto +god -jesus
 
 Q10> contenuto doctor prescribing medications
   Query Lucene: contenuto:doctor contenuto:prescrib contenuto:medic
-  Risultati: 696 documenti in 1,6 ms
+  Risultati: 696 documenti in 1,7 ms
    1. [10,055] sci.med_59280_use-of-haldol-in-elderly.txt
         Unfortunately, [doctors] [prescribe] drugs to treat the side effects of the drugs a patient is receiving.
    2. [9,385] sci.med_59277_use-of-haldol-in-elderly.txt
@@ -1042,7 +1016,7 @@ Q10> contenuto doctor prescribing medications
 
 Q11> tutto motorcycle helmet
   Query Lucene: (nome:motorcycle contenuto:motorcycl) (nome:helmet contenuto:helmet)
-  Risultati: 1065+ documenti in 1,9 ms
+  Risultati: 1065+ documenti in 1,7 ms
    1. [12,639] rec.[motorcycles]_104725_looking-for-women-s-[motorcycle]-[helmet].txt
         From: kendall@adobe.com (Janice Kendall) Subject: Looking for Women's [Motorcycle] [Helmet] Organization: Adobe Systems Incorporated Distribution: ba Lines: ...
    2. [12,403] rec.[motorcycles]_104796_looking-for-women-s-[motorcycle]-[helmet].txt
@@ -1146,7 +1120,7 @@ Q11> tutto motorcycle helmet
 
 Q12> tutto +"engine oil" car
   Query Lucene: +(nome:"engine oil" contenuto:"engin oil") (nome:car contenuto:car)
-  Risultati: 8 documenti in 5,9 ms
+  Risultati: 8 documenti in 4,9 ms
    1. [5,497] rec.autos_103181_changing-oil-by-self.txt
         Later in the day I then |> proceed with refilling the [engine oil]. |> |> It's just crazy how I try and change the oil on my [cars] in one |> weekend---I go ...
    2. [4,944] rec.autos_103264_changing-oil-by-self.txt

@@ -3,13 +3,13 @@
 # (usati da scripts/eval_20news.py per calcolare P@10 in modo automatico).
 
 # rilevanti: sci.space
-nome space shuttle
+nome shuttle launch
 # rilevanti: misc.forsale
 nome "for sale"
-# rilevanti: comp.os.ms-windows.misc comp.windows.x
-nome windows
-# rilevanti: sci.med
-nome sci.med
+# rilevanti: comp.windows.x
+nome X11R5
+# rilevanti: sci.crypt
+nome clipper-chip
 # rilevanti: sci.space
 contenuto "space shuttle"
 # rilevanti: rec.sport.hockey
