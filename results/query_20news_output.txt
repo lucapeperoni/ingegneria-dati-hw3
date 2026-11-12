@@ -1,0 +1,1165 @@
+Indice index/20news: 18846 documenti, analyzer 'scelta'
+
+Q1> nome space shuttle
+  Query Lucene: nome:space nome:shuttle
+  Risultati: 994 documenti in 11,4 ms
+   1. [5,155] sci.[space]_60854_[space]-[shuttle]-information-wanted.txt
+        From: nether@bigwpi.WPI.EDU (Joel C Belog) Subject: Space Shuttle information wanted Organization: Worcester Polytechnic Institute Lines: 15 NNTP-Posting-Hos...
+   2. [4,985] sci.[space]_62408_excess-[shuttle]-criticism-was-re-[shuttle]-0-defects.txt
+        From: prb@access.digex.net (Pat) Subject: Re: Excess Shuttle criticism was Re: Shuttle 0-Defects & Bizarre?
+   3. [4,913] sci.[space]_60780_[shuttle]-launch-question.txt
+        From: ETRAT@ttacs1.ttu.edu (Pack Rat) Subject: Shuttle Launch Question X-Added: Forwarded by Space Digest Organization: [via International Space University] ...
+   4. [4,913] sci.[space]_60795_[shuttle]-launch-question.txt
+        From: abdkw@stdvax (David Ward) Subject: Re: Shuttle Launch Question News-Software: VAX/VMS VNEWS 1.4-b1 Organization: Goddard Space Flight Center - Robotics...
+   5. [4,913] sci.[space]_60874_[shuttle]-launch-question.txt
+        From: tombaker@world.std.com (Tom A Baker) Subject: Re: Shuttle Launch Question Organization: Me, at The World Public Access UNIX, Brookline, MA Distribution...
+   6. [4,913] sci.[space]_60880_[shuttle]-launch-question.txt
+        From: jcm@head-cfa.harvard.edu (Jonathan McDowell) Subject: Re: Shuttle Launch Question Organization: Smithsonian Astrophysical Observatory, Cambridge, MA, U...
+   7. [4,913] sci.[space]_60898_[shuttle]-launch-question.txt
+        From: nickh@CS.CMU.EDU (Nick Haines) Subject: Re: Shuttle Launch Question In-Reply-To: jcm@head-cfa.harvard.edu's message of Sun, 18 Apr 1993 22:44:14 GMT Or...
+   8. [4,913] sci.[space]_61258_historic-[shuttle]-flights.txt
+        From: vamwendt@atlas.cs.upei.ca (Michael Wendt) Subject: Historic shuttle flights Organization: University of Prince Edward Island Lines: 7 Would someone ple...
+   9. [4,913] sci.[space]_62395_[shuttle]-and-pennicillin.txt
+        From: prb@access.digex.net (Pat) Subject: Shuttle and Pennicillin Organization: Express Access Online Communications USA Lines: 26 NNTP-Posting-Host: access....
+  10. [4,736] sci.[space]_60859_a-flawed-propulsion-system-[space]-[shuttle].txt
+        From: aa429@freenet.carleton.ca (Terry Ford) Subject: A flawed propulsion system: Space Shuttle X-Added: Forwarded by Space Digest Organization: [via Interna...
+  11. [4,664] sci.[space]_62104_over-zealous-[shuttle]-critics.txt
+        From: pgf@srl03.cacs.usl.edu (Phil G.
+  12. [4,664] sci.[space]_62319_soyuz-and-[shuttle]-comparisons.txt
+        From: aws@iti.org (Allen W.
+  13. [4,664] sci.[space]_62386_soyuz-and-[shuttle]-comparisons.txt
+        From: tombaker@bumetb.bu.edu (Thomas A.
+  14. [4,664] sci.[space]_62420_soyuz-and-[shuttle]-comparisons.txt
+        From: ghelf@violet.berkeley.edu (;;;;RD48) Subject: Re: Soyuz and Shuttle Comparisons Organization: University of California, Berkeley Lines: 11 NNTP-Posting...
+  15. [4,664] sci.[space]_62476_over-zealous-[shuttle]-critics.txt
+        From: pjc@jet.uk (Peter J Card) Subject: Re: Over zealous shuttle critics Organization: Joint European Torus Lines: 40 We`ve had the the Great Western, the [...
+  16. [4,552] sci.[space]_60790_two-line-orbital-element-set-[space]-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
+  17. [4,552] sci.[space]_60838_two-line-orbital-element-set-[space]-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
+  18. [4,552] sci.[space]_61321_two-line-orbital-element-set-[space]-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
+  19. [4,552] sci.[space]_61403_two-line-orbital-element-set-[space]-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
+  20. [4,552] sci.[space]_61421_two-line-orbital-element-set-[space]-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Organization: A...
+  21. [4,552] sci.[space]_61500_two-line-orbital-element-set-[space]-[shuttle].txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: Space Shuttle Keywords: Space Shuttle, Orbital Elements, Keplerian Nntp-Posting-Ho...
+  22. [4,439] sci.[space]_60806_[shuttle]-oxygen-was-budget-astronaut.txt
+        From: kjenks@gothamcity.jsc.nasa.gov Subject: Re: Shuttle oxygen (was Budget Astronaut) Organization: NASA/JSC/GM2, Space Shuttle Program Office X-Newsreader...
+  23. [4,439] sci.[space]_60811_[shuttle]-oxygen-was-budget-astronaut.txt
+        From: sysmgr@king.eng.umd.edu (Doug Mohney) Subject: Re: Shuttle oxygen (was Budget Astronaut) Organization: Computer Aided Design Lab, U. of Maryland Colleg...
+  24. [4,439] sci.[space]_60828_[shuttle]-oxygen-was-budget-astronaut.txt
+        From: prb@access.digex.com (Pat) Subject: Re: Shuttle oxygen (was Budget Astronaut) Organization: Express Access Online Communications USA Lines: 11 NNTP-Pos...
+  25. [4,439] sci.[space]_61071_[shuttle]-oxygen-was-budget-astronaut.txt
+        From: pyron@skndiv.dseg.ti.com (Dillon Pyron) Subject: Re: Shuttle oxygen (was Budget Astronaut) Lines: 24 Nntp-Posting-Host: skndiv.dseg.ti.com Reply-To: py...
+  26. [4,234] sci.[space]_62150_[shuttle]-0-defects-bizarre-dc-x.txt
+        From: aws@iti.org (Allen W.
+  27. [3,877] sci.[space]_62117_why-we-like-dc-x-was-re-[shuttle].txt
+        From: higgins@fnalf.fnal.gov (Bill Higgins-- Beam Jockey) Subject: Why we like DC-X (was Re: Shuttle 0-Defects & Bizarre?
+  28. [3,877] sci.[space]_62393_why-we-like-dc-x-was-re-[shuttle].txt
+        From: prb@access.digex.net (Pat) Subject: Re: Why we like DC-X (was Re: Shuttle 0-Defects & Bizarre?
+  29. [3,877] sci.[space]_62407_why-we-like-dc-x-was-re-[shuttle].txt
+        From: prb@access.digex.net (Pat) Subject: Re: Why we like DC-X (was Re: Shuttle 0-Defects & Bizarre?
+  30. [2,093] sci.[space]_60851_[space]-debris.txt
+        From: C.O.EGALON@LARC.NASA.GOV (CLAUDIO OLIVEIRA EGALON) Subject: Re: Space Debris Organization: NASA Langley Research Center Lines: 7 Distribution: world Re...
+  31. [2,093] sci.[space]_60876_[space]-debris.txt
+        From: wdwells@nyx.cs.du.edu (David "Fuzzy" Wells) Subject: Re: Space Debris Organization: University of Denver, Dept. of Math & Comp.
+  32. [2,093] sci.[space]_60911_[space]-debris.txt
+        From: claice@rintintin.Colorado.EDU (Farmer Ted) Subject: Re: Space Debris Nntp-Posting-Host: rintintin.colorado.edu Organization: University of Colorado, Bo...
+  33. [2,093] sci.[space]_60920_[space]-debris.txt
+        From: C.O.EGALON@LARC.NASA.GOV (CLAUDIO OLIVEIRA EGALON) Subject: Re: Space Debris Organization: NASA Langley Research Center Lines: 10 Distribution: world R...
+  34. [2,093] sci.[space]_61189_[space]-debris.txt
+        From: landis@stsci.edu (Robert Landis,S202,,) Subject: Re: Space Debris Reply-To: landis@stsci.edu Organization: Space Telescope Science Institute, Baltimore...
+  35. [2,093] sci.[space]_61388_[space]-surveillance.txt
+        From: jecurt01@starbase.spd.louisville.edu (John E.
+  36. [2,093] sci.[space]_62126_[space]-camp.txt
+        From: jennifer@arts.com (Jennifer Witt) Subject: space camp Organization: Computer Arts, Portland Oregon, USA Lines: 18 I'm replying to someone who asked for...
+  37. [2,019] sci.[space]_60181_[space]-food-sticks.txt
+        From: ghelf@violet.berkeley.edu (;;;;RD48) Subject: Re: space food sticks Keywords: food Article-I.D.: agate.1pr5u2$t0b Organization: University of Californi...
+  38. [2,019] sci.[space]_60192_[space]-food-sticks.txt
+        From: kjenks@gothamcity.jsc.nasa.gov Subject: Re: space food sticks Article-I.D.: aio.1993Apr6.134526.14966 Organization: NASA/JSC/GM2, Space Shuttle Program...
+  39. [2,019] sci.[space]_60203_[space]-food-sticks.txt
+        From: shag@aero.org (Rob Unverzagt) Subject: Re: space food sticks Keywords: food Article-I.D.: news.1pscc6INNebg Organization: Organization?
+  40. [2,019] sci.[space]_60206_[space]-food-sticks.txt
+        From: pyron@skndiv.dseg.ti.com (Dillon Pyron) Subject: Re: space food sticks Keywords: food Lines: 25 Nntp-Posting-Host: skndiv.dseg.ti.com Reply-To: pyron@s...
+  41. [2,019] sci.[space]_60217_[space]-food-sticks.txt
+        From: adam@sw.stratus.com (Mark Adam) Subject: Re: space food sticks Organization: Stratus Computer, Inc.
+  42. [2,019] sci.[space]_60223_[space]-food-sticks.txt
+        From: prb@access.digex.com (Pat) Subject: Re: space food sticks Organization: Express Access Online Communications USA Lines: 9 NNTP-Posting-Host: access.dig...
+  43. [2,019] sci.[space]_60835_orion-[space]-drive.txt
+        From: wallacen@CS.ColoState.EDU (nathan wallace) Subject: ORION space drive Reply-To: wallacen@CS.ColoState.EDU Nntp-Posting-Host: beethoven.cs.colostate.edu...
+  44. [2,019] sci.[space]_60839_guns-for-[space].txt
+        From: eder@hsvaic.boeing.com (Dani Eder) Subject: Re: Guns for Space Keywords: Sopa Gun, Space Launcer Organization: Boeing AI Center, Huntsville, AL Lines: ...
+  45. [2,019] sci.[space]_60840_guns-for-[space].txt
+        From: eder@hsvaic.boeing.com (Dani Eder) Subject: Re: Guns for Space Keywords: Sopa Gun, Space Launcer Organization: Boeing AI Center, Huntsville, AL Lines: ...
+  46. [2,019] sci.[space]_60849_army-in-[space].txt
+        From: ktj@beach.cis.ufl.edu (kerry todd johnson) Subject: army in space Organization: Univ. of Florida CIS Dept.
+  47. [2,019] sci.[space]_60855_army-in-[space].txt
+        From: dante@shakala.com (Charlie Prael) Subject: Re: army in space Organization: Shakala BBS (ClanZen Radio Network) Sunnyvale, CA +1-408-734-2289 Lines: 23 ...
+  48. [2,019] sci.[space]_60857_army-in-[space].txt
+        From: prb@access.digex.com (Pat) Subject: Re: army in space Organization: Express Access Online Communications USA Lines: 10 Distribution: world NNTP-Posting...
+  49. [2,019] sci.[space]_60873_army-in-[space].txt
+        From: nsmca@aurora.alaska.edu Subject: Re: army in space Lines: 13 Nntp-Posting-Host: acad3.alaska.edu Organization: University of Alaska Fairbanks Last I ha...
+  50. [2,019] sci.[space]_60904_[space]-clippers-launched.txt
+        From: 18084TM@msu.edu (Tom) Subject: Space Clippers launched X-Added: Forwarded by Space Digest Organization: [via International Space University] Original-S...
+
+Q2> nome "for sale"
+  Query Lucene: nome:"for sale"
+  Risultati: 494 documenti in 4,9 ms
+   1. [3,212] misc.forsale_76588_[for-sale].txt
+        From: dcassen@cs.umr.edu (Daniel S Cassen) Subject: for sale Nntp-Posting-Host: mcs213d.cs.umr.edu Distribution: usa Organization: University of Missouri - R...
+   2. [3,212] rec.motorcycles_104719_[for-sale].txt
+        From: mlj@af3.mlb.semi.harris.com (Marvin Jaster ) Subject: FOR SALE Nntp-Posting-Host: sunsol.mlb.semi.harris.com Organization: Harris Semiconductor, Melbou...
+   3. [3,212] rec.motorcycles_104729_[for-sale].txt
+        From: mlj@af3.mlb.semi.harris.com (Marvin Jaster ) Subject: FOR SALE Nntp-Posting-Host: sunsol.mlb.semi.harris.com Organization: Harris Semiconductor, Melbou...
+   4. [3,040] misc.forsale_74150_boat-[for-sale].txt
+        From: myoakam@cis.ohio-state.edu (micah r yoakam) Subject: BOAT for SALE Organization: The Ohio State University Dept. of Computer and Info.
+   5. [3,040] misc.forsale_74743_music-[for-sale].txt
+        Subject: Music for sale...
+   6. [3,040] misc.forsale_74753_sampler-[for-sale].txt
+        From: coutsoft@cheshire.oxy.edu (Michael Coutsoftides) Subject: Sampler for Sale Organization: Occidental College, Los Angeles, CA.
+   7. [3,040] misc.forsale_74776_datman-[for-sale].txt
+        From: Wil.Chin@launchpad.unc.edu (Wilson Chin) Subject: Re: DATman for sale.
+   8. [3,040] misc.forsale_74797_items-[for-sale].txt
+        From: donald@dswalker.EBay.Sun.COM (Don Walker) Subject: Items for SALE Article-I.D.: male.1ps3s4$6g Reply-To: donald@dswalker.EBay.Sun.COM Distribution: wor...
+   9. [3,040] misc.forsale_74812_cds-[for-sale].txt
+        From: cthulhu@sparky.cis.ufl.edu (Mark Kupper) Subject: CDs for sale Article-I.D.: snoopy.1pspmoINNmtq Distribution: world Organization: Univ. of Florida CIS...
+  10. [3,040] misc.forsale_75851_utilities-[for-sale].txt
+        From: reidg@pacs.pha.pa.us ( Reid Goldsborough) Subject: Utilities for sale Keywords: software Distribution: na Organization: Philadelphia Area Computer Soci...
+  11. [3,040] misc.forsale_75854_[for-sale]-waxworks.txt
+        From: smb@col.hp.com (Sam Bauer) Subject: >>For Sale: Waxworks Organization: HP Colorado Springs Division Lines: 67 NNTP-Posting-Host: hpctdib.col.hp.com ***...
+  12. [3,040] misc.forsale_75860_chemicals-[for-sale].txt
+        From: sidak_ok@lrc.edu Subject: CHEMICALS FOR SALE Organization: Lenoir-Rhyne College, Hickory, NC Lines: 6 The chemicals are gone Thanks for all the respons...
+  13. [3,040] misc.forsale_75912_terminal-[for-sale].txt
+        From: ibeshir@nyx.cs.du.edu (Ibrahim) Subject: Terminal for sale Organization: Nyx, Public Access Unix @ U. of Denver Math/CS dept.
+  14. [3,040] misc.forsale_75914_speakers-[for-sale].txt
+        From: craigb@vccsouth03.its.rpi.edu (Brian Craig) Subject: speakers for sale Nntp-Posting-Host: vccsouth03.its.rpi.edu Organization: Rensselaer Polytechnic I...
+  15. [3,040] misc.forsale_75977_monitor-[for-sale].txt
+        From: ralf@iqsc.COM (Ralf) Subject: Monitor For Sale Organization: IQ Software Corp.
+  16. [3,040] misc.forsale_75981_comics-[for-sale].txt
+        From: cthulhu@mosquito.cis.ufl.edu (Mark Kupper) Subject: ** Comics for sale ** Organization: Univ. of Florida CIS Dept.
+  17. [3,040] misc.forsale_75982_books-[for-sale].txt
+        From: 02106@ravel.udel.edu (Samuel Ross) Subject: Books for sale!!
+  18. [3,040] misc.forsale_75989_tires-[for-sale].txt
+        From: uschelp3@idbsu.edu (Mike Madson) Subject: Tires For Sale Summary: The last one was a test.
+  19. [3,040] misc.forsale_76082_books-[for-sale].txt
+        From: 02106@ravel.udel.edu (Samuel Ross) Subject: Books for sale!!!
+  20. [3,040] misc.forsale_76237_computer-[for-sale].txt
+        From: gt4661a@prism.gatech.EDU (gt4661a gt4661a PAOLO,MARC ANTHONY) Subject: Computer For Sale Distribution: atl Organization: Georgia Institute of Technolog...
+  21. [3,040] misc.forsale_76250_printer-[for-sale].txt
+        From: pochanay@cae.wisc.edu (Adisak Pochanayon) Subject: Printer for Sale Organization: College of Engineering, Univ. of Wisconsin--Madison Lines: 41 For Sal...
+  22. [3,040] misc.forsale_76272_tapes-[for-sale].txt
+        From: dahillma@quads.uchicago.edu (Dave Hillman) Subject: Tapes for Sale Summary: classic rock tapes, cheap Reply-To: dahillma@midway.uchicago.edu Distributi...
+  23. [3,040] misc.forsale_76300_items-[for-sale].txt
+        From: ralf@iqsc.COM (Ralf) Subject: Items For Sale Organization: IQ Software Corp.
+  24. [3,040] misc.forsale_76333_car-[for-sale].txt
+        From: anuster@wam.umd.edu (Anu Tuli) Subject: Car for Sale Nntp-Posting-Host: rac3.wam.umd.edu Organization: University of Maryland, College Park Distributio...
+  25. [3,040] misc.forsale_76357_cameras-[for-sale].txt
+        From: Rupin.Dang@dartmouth.edu (Rupin Dang) Subject: Cameras for sale Organization: Dartmouth College, Hanover, NH Lines: 9 I have the following complete cam...
+  26. [3,040] misc.forsale_76415_saturn-[for-sale].txt
+        From: berger@c4west.eds.com (Damien Berger) Subject: Saturn For Sale Summary: 1992 Saturn SL2 5spd Keywords: auto, saturn Nntp-Posting-Host: molokai Organiza...
+  27. [3,040] misc.forsale_76452_[for-sale]-scooter.txt
+        From: shodapp@eos.ncsu.edu (SUSAN HODAPP) Subject: **FOR SALE ** SCOOTER Originator: shodapp@c00541-106ps.eos.ncsu.edu Reply-To: shodapp@eos.ncsu.edu (SUSAN ...
+  28. [3,040] misc.forsale_76479_cd-[for-sale].txt
+        From: rtsbangi@msuvx1.memst.edu Subject: ********cd for sale******** Distribution: world Organization: Memphis State University Lines: 11 cd's for sale: 1. j...
+  29. [3,040] misc.forsale_76519_headphones-[for-sale].txt
+        From: hinds@cmgm.stanford.edu (Alexander Hinds) Subject: Headphones for sale Keywords: headphones Organization: Stanford University, California, USA Lines: 9...
+  30. [3,040] misc.forsale_76866_decservers-[for-sale].txt
+        From: martinez@info-gw.mese.com (Phil Martinez) Subject: DECservers for sale Keywords: decserver Distribution: misc.forsale,atl.forsale,misc.forsale.computer...
+  31. [3,040] misc.forsale_76868_lps-[for-sale].txt
+        From: sebugg@presby.edu (Stephen Buggie) Subject: LPs for sale Distribution: na Organization: Presbyterian College, Clinton SC, USA Lines: 1
+  32. [3,040] misc.forsale_76880_waterbed-[for-sale].txt
+        From: belvilad@dunx1.ocs.drexel.edu (A.
+  33. [3,040] misc.forsale_76937_trailer-[for-sale].txt
+        From: glhering@vger.ingr.com (Gregory L.
+  34. [3,040] rec.motorcycles_104878_[for-sale]-sigh.txt
+        From: SHICKLEY@VM.TEMPLE.EDU Subject: For Sale (sigh) Organization: Temple University Lines: 34 Nntp-Posting-Host: vm.temple.edu X-Newsreader: NNR/VM S_1.3.2...
+  35. [3,040] sci.electronics_53669_oscilliscopes-[for-sale].txt
+        From: rbn@apple.com (Robert B.
+  36. [2,886] misc.forsale_74787_misc-stuff-[for-sale].txt
+        From: fields@cis.ohio-state.edu (jonathan david fields) Subject: Misc.
+  37. [2,886] misc.forsale_74799_mazda-glc-[for-sale].txt
+        From: kohli@ecs.umass.edu Subject: Mazda GLC for Sale.
+  38. [2,886] misc.forsale_74806_computer-stuff-[for-sale].txt
+        From: delliott@access.digex.com (David N.
+  39. [2,886] misc.forsale_74831_dodge-wagon-[for-sale].txt
+        From: sbrogii@copernicus.Tymnet.COM (Scott Brogley) Subject: dodge wagon for sale Summary: 1964 Dodge Dart V8 wagon $300/negotiable Keywords: 1964 Dodge Dart...
+  40. [2,886] misc.forsale_75853_new-software-[for-sale].txt
+        From: reidg@pacs.pha.pa.us ( Reid Goldsborough) Subject: New software for sale Keywords: software Distribution: na Organization: Philadelphia Area Computer S...
+  41. [2,886] misc.forsale_75866_mother-board-[for-sale].txt
+        From: jaredjma@mentor.cc.purdue.edu (Jared J.
+  42. [2,886] misc.forsale_75877_books-[for-sale]-cheap.txt
+        From: cychong@magnus.acs.ohio-state.edu (Robert Chong) Subject: BOOKS FOR SALE (CHEAP!)
+  43. [2,886] misc.forsale_75884_drafting-machine-[for-sale].txt
+        From: rdi@cci632.cci.com (Rick Inzero) Subject: Drafting Machine for sale Organization: [Computer Consoles, Inc., Rochester, NY Distribution: usa Lines: 17 F...
+  44. [2,886] misc.forsale_75887_cassettes-[for-sale]-update.txt
+        From: cbray@uafhp..uark.edu (Chris Bray) Subject: Cassettes for Sale!!!
+  45. [2,886] misc.forsale_75952_technical-books-[for-sale].txt
+        From: chungy2@aix.rpi.edu (Yau Felix Chung) Subject: Technical books for sale Nntp-Posting-Host: aix.rpi.edu Lines: 39 Hello.
+  46. [2,886] misc.forsale_75954_misc-stuff-[for-sale].txt
+        From: fields@cis.ohio-state.edu (jonathan david fields) Subject: Misc Stuff for Sale Organization: The Ohio State University Dept. of Computer and Info.
+  47. [2,886] misc.forsale_75956_386-motherboard-[for-sale].txt
+        From: Wil.Chin@launchpad.unc.edu (Wilson Chin) Subject: 386 Motherboard for sale!
+  48. [2,886] misc.forsale_75964_cd-s-[for-sale].txt
+        From: easwarakv@woods.ulowell.edu Subject: CD'S FOR SALE Lines: 22 Organization: University of Lowell Th following cd's are for sale.
+  49. [2,886] misc.forsale_75970_test-instruments-[for-sale].txt
+        From: halle@rebecca.its.rpi.edu (Ezra D.B.
+  50. [2,886] misc.forsale_75991_[for-sale]-jazz-recordings.txt
+        From: djserian@flash.LakeheadU.Ca (Reincarnation of Elvis) Subject: For Sale: Jazz Recordings Keywords: Music, Jazz, For Sale, Help a Starving Student Lines:...
+
+Q3> nome windows
+  Query Lucene: nome:window
+  Risultati: 2015+ documenti in 0,6 ms
+   1. [1,551] comp.os.ms-[windows].misc_9694_x-[windows]-for-[windows].txt
+        From: pmw0@ns1.cc.lehigh.edu (PHILLIP MICHAEL WILLIAMS) Subject: X Windows for windows Organization: Lehigh University Lines: 7 Are there any X window server...
+   2. [1,551] comp.os.ms-[windows].misc_9749_x-[windows]-for-[windows].txt
+        From: jls@antares.
+   3. [1,535] comp.[windows].x_66878_[window]-manager.txt
+        From: coe@leopard.cs.uidaho.edu (Mike Coe) Subject: window manager Organization: /users/student/coe/.organization Lines: 19 Distribution: world NNTP-Posting-...
+   4. [1,516] comp.os.ms-[windows].misc_10088_[windows]-nt-und-x-[windows].txt
+        From: mccall@mksol.dseg.ti.com (fred j mccall 575-3539) Subject: Re: Windows NT und X-Windows?
+   5. [1,516] comp.os.ms-[windows].misc_10091_[windows]-nt-und-x-[windows].txt
+        From: mongwa@acsu.buffalo.edu (Kan Mongwa) Subject: Re: Windows NT und X-Windows?
+   6. [1,516] comp.os.ms-[windows].misc_10102_[windows]-nt-und-x-[windows].txt
+        Organization: Penn State University From: Christopher Sacksteder <CJS@psuvm.psu.edu> Subject: Re: Windows NT und X-Windows?
+   7. [1,516] comp.os.ms-[windows].misc_10136_[windows]-nt-und-x-[windows].txt
+        From: mccall@mksol.dseg.ti.com (fred j mccall 575-3539) Subject: Re: Windows NT und X-Windows?
+   8. [1,516] comp.os.ms-[windows].misc_9925_[windows]-nt-und-x-[windows].txt
+        From: hein@eurom.rhein-main.de (Hein Roehrig) Subject: Windows NT und X-Windows?
+   9. [1,482] comp.[windows].x_67285_asynchronous-x-[windows].txt
+        From: matt@centerline.com (Matt Landau) Subject: Re: Asynchronous X Windows?
+  10. [1,482] comp.[windows].x_67342_asynchronous-x-[windows].txt
+        From: gerard@dps.co.UK (Gerard O'Driscoll) Subject: Re: Asynchronous X Windows?
+  11. [1,482] comp.[windows].x_67344_asynchronous-x-[windows].txt
+        From: matt@centerline.com (Matt Landau) Subject: Re: Asynchronous X Windows?
+  12. [1,482] comp.[windows].x_67359_comp-[windows]-x.txt
+        From: folkert@capints.UUCP (Folkert Boonstra) Subject: comp.windows.x Organization: The Internet Lines: 17 NNTP-Posting-Host: enterpoop.mit.edu To: xpert@exp...
+  13. [1,482] comp.[windows].x_68228_key-event-[window].txt
+        From: gibanez@dcc.uchile.cl (Gabriel Ibanez C.)
+  14. [1,482] comp.[windows].x_68259_starting-x-[windows].txt
+        From: schit@ctp.com (Subbarao Chitturi) Subject: Starting X windows Organization: Cambridge Technology Partners Lines: 40 As soon as I am logged into Linux, ...
+  15. [1,481] comp.os.ms-[windows].misc_10074_local-[windows]-vs-shared-[windows]-discussion.txt
+        From: glazer@ohstpy.mps.ohio-state.edu Subject: Local Windows .vs.
+  16. [1,434] comp.os.ms-[windows].misc_9139_[windows]-gripe.txt
+        From: downs@helios.nevada.edu (Lamont Downs) Subject: Re: Windows gripe...
+  17. [1,434] comp.os.ms-[windows].misc_9148_[windows]-gripe.txt
+        From: tedm@tsoft.net (Ted Matsumura) Subject: Re: Windows gripe...
+  18. [1,434] comp.os.ms-[windows].misc_9653_[windows]-help.txt
+        From: mveraart@fel.tno.nl (Mario Veraart) Subject: Re: Windows Help Organization: TNO Physics and Electronics Laboratory Lines: 31 umyin@ccu.umanitoba.ca (Qi...
+  19. [1,434] comp.os.ms-[windows].misc_9663_[windows]-help.txt
+        From: steinark@edb.tih.no (Steinar Kleven) Subject: Re: Windows Help Nntp-Posting-Host: beta.edb.tih.no Organization: Trondheim College of Engineering X-News...
+  20. [1,434] comp.os.ms-[windows].misc_9708_[windows]-help.txt
+        From: shenoy@iastate.edu (Shiva Shenoy) Subject: Re: Windows Help Organization: Iowa State University, Ames IA Lines: 53 In <1993Apr20.072905.21404@fel.tno.n...
+  21. [1,434] comp.os.ms-[windows].misc_9855_[windows]-backgrounds.txt
+        From: mark.whalley@uk.co.gec-mrc (Mark Whalley) Subject: Windows Backgrounds Reply-To: mark.whalley@uk.co.gec-mrc (Mark Whalley) Organization: GEC-Marconi Re...
+  22. [1,434] comp.[windows].x_66438_problems-with-open-[windows].txt
+        From: amit@aryeh.uchicago.edu (Yali Amit) Subject: Problems with Open Windows Organization: Dept. of Statistics Lines: 22 After having OpenWindows (Version 3...
+  23. [1,434] comp.[windows].x_67073_comp-[windows]-x-intrinsics.txt
+        From: kavitsky@hsi.com (Jim Kavitsky) Subject: comp.windows.x.intrinsics Summary: Clipping of character's high order bit Nntp-Posting-Host: hsi86.hsi.com Org...
+  24. [1,434] comp.[windows].x_67159_colormaps-and-[window]-managers.txt
+        From: earle@isolar.Tujunga.CA.US (Greg Earle) Subject: Re: Colormaps and Window Managers Organization: Personal Usenet site, Tujunga, CA USA Lines: 27 Distri...
+  25. [1,434] comp.[windows].x_67172_x-[window]-for-pc.txt
+        From: eks@daimi.aau.dk (Eigil Krogh S|rensen) Subject: X-window for PC Organization: DAIMI: Computer Science Department, Aarhus University, Denmark Lines: 7 ...
+  26. [1,434] comp.[windows].x_67289_x-[window]-for-pc.txt
+        From: dick@bart.starnet.com (Dick Montgomery) Subject: Re: X-window for PC Organization: StarNet Communications Corp.
+  27. [1,434] comp.[windows].x_67557_choosing-a-[window]-manager.txt
+        From: hps@KEKOA.JACH.HAWAII.EDU (Henry Stilmack - JAC System Mgr.)
+  28. [1,434] comp.[windows].x_68186_dump-x-[window]-screen.txt
+        From: boyd@gauss (Mickey Boyd) Subject: Re: Dump x-window screen Organization: Florida State University Department of Mathematics X-Newsreader: TIN [version ...
+  29. [1,434] comp.[windows].x_68279_[windows]-motif-tools-summary.txt
+        From: dls@Autodesk.COM (Daniel Louis Smith) Subject: Windows -> Motif tools SUMMARY Organization: Autodesk Inc., Sausalito CA, USA Lines: 67 I posted this Ma...
+  30. [1,388] comp.os.ms-[windows].misc_10004_dos-[window]-macros.txt
+        From: paladin@world.std.com (Thomas G Schlatter) Subject: Re: Dos window macros Organization: The World Public Access UNIX, Brookline, MA Distribution: usa L...
+  31. [1,388] comp.os.ms-[windows].misc_10027_[windows]-zip-unzip.txt
+        From: russ@deakin.OZ.AU (Russ Sharp) Subject: Windows zip/unzip Organization: Deakin University, Victoria, Australia Lines: 13 Distribution: world NNTP-Posti...
+  32. [1,388] comp.os.ms-[windows].misc_10043_[windows]-zip-unzip.txt
+        From: ardie@ux1.cso.uiuc.edu (Ardie Mack) Subject: Re: Windows zip/unzip Organization: Department of Plant Pathology Lines: 15 I>From: ccastco@prism.gatech.E...
+  33. [1,388] comp.os.ms-[windows].misc_10058_[windows]-zip-unzip.txt
+        From: louray@seas.gwu.edu (Michael Panayiotakis) Subject: Re: Windows zip/unzip Organization: George Washington University Lines: 42 In article <1rl9b6$h3c@s...
+  34. [1,388] comp.os.ms-[windows].misc_10076_[windows]-zip-unzip.txt
+        From: ccastco@prism.gatech.EDU (Costas Malamas) Subject: Re: Windows zip/unzip Organization: Georgia Institute of Technology Lines: 23 In article <1rl9b6$h3c...
+  35. [1,388] comp.os.ms-[windows].misc_10080_[windows]-zip-unzip.txt
+        From: pwb@aerg.canberra.edu.au (Paul Blackman) Subject: Re: Windows zip/unzip Organization: University of Canberra Lines: 31 In article <1rl9b6$h3c@sol.deaki...
+  36. [1,388] comp.os.ms-[windows].misc_10086_[windows]-zip-unzip.txt
+        From: GMILLS@CHEMICAL.watstar.uwaterloo.ca (Phil Trodwell) Subject: Re: Windows zip/unzip Organization: University of Waterloo Lines: 25 In article <1rl9b6$h...
+  37. [1,388] comp.os.ms-[windows].misc_10138_[windows]-zip-unzip.txt
+        From: simardde@ERE.UMontreal.CA (Simard Denis) Subject: Re: Windows zip/unzip Organization: Universite de Montreal Lines: 22 pwb@aerg.canberra.edu.au (Paul B...
+  38. [1,388] comp.os.ms-[windows].misc_10172_changing-[windows]-fonts.txt
+        Subject: Changing Windows fonts?
+  39. [1,388] comp.os.ms-[windows].misc_10200_changing-[windows]-fonts.txt
+        From: ak333@cleveland.Freenet.Edu (Martin Linsenbigler) Subject: Re: Changing Windows fonts?
+  40. [1,388] comp.os.ms-[windows].misc_10616_workgroups-for-[windows].txt
+        From: martijn@cs.vu.nl (Lemmens ML) Subject: Workgroups for Windows Organization: Fac.
+  41. [1,388] comp.os.ms-[windows].misc_10822_[windows]-exit-problem.txt
+        From: Christian.Robert@etudiants.unine.ch Subject: WINDOWS EXIT PROBLEM Organization: University of Neuchatel, Switzerland Lines: 6 HELLO, I HAVE A PROBLEM W...
+  42. [1,388] comp.os.ms-[windows].misc_10845_strange-[windows]-problem.txt
+        From: hutch@bellman.lanl.gov (John Hutchinson) Subject: Strange Windows problem Reply-To: hutch@bellman.lanl.gov Organization: Los Alamos National Laboratory...
+  43. [1,388] comp.os.ms-[windows].misc_9503_need-[windows]-logo.txt
+        From: dmmatt@cajun Subject: Re: Need Windows-logo Lines: 19 Organization: Monsanto Company In article <1qjqed$1ft@access.digex.net>, holland@access.digex.com...
+  44. [1,388] comp.os.ms-[windows].misc_9529_need-[windows]-logo.txt
+        From: rmohns@vax.clarku.edu Subject: RE: Need Windows-logo Organization: Clark University Lines: 46 In a previous article, dmmatt@cajun wrote: >In article <1...
+  45. [1,388] comp.os.ms-[windows].misc_9619_[windows]-nt-faq.txt
+        From: rajiev@cfmu.eurocontrol.be (Rajiev Gupta) Subject: Re: Windows NT FAQ?
+  46. [1,388] comp.os.ms-[windows].misc_9753_speeding-up-[windows].txt
+        From: djserian@flash.LakeheadU.Ca (Reincarnation of Elvis) Subject: speeding up windows Keywords: speed Lines: 19 I have a 386/33 with 8 megs of memory I hav...
+  47. [1,388] comp.os.ms-[windows].misc_9763_speeding-up-[windows].txt
+        From: mb4008@cehp11 (Morgan J Bullard) Subject: Re: speeding up windows Keywords: speed Organization: University of Illinois at Urbana Lines: 30 djserian@fla...
+  48. [1,388] comp.os.ms-[windows].misc_9800_speeding-up-[windows].txt
+        From: e324ngon@credit.erin.utoronto.ca (Ngo Nguyen) Subject: Re: speeding up windows Keywords: speed Organization: University of Toronto, Erindale Campus Lin...
+  49. [1,388] comp.os.ms-[windows].misc_9851_simple-[windows]-question.txt
+        From: jr0930@eve.albany.edu (DIAMOND) Subject: Simple Windows question Organization: State University of New York at Albany Lines: 15 Ok, here's a nice easy ...
+  50. [1,388] comp.os.ms-[windows].misc_9866_simple-[windows]-question.txt
+        From: rnichols@cbnewsg.cb.att.com (robert.k.nichols) Subject: Re: Simple Windows question Organization: AT&T Lines: 15 In article <1993Apr23.214110.15315@sar...
+
+Q4> nome sci.med
+  Query Lucene: (+nome:sci +nome:med)
+  Risultati: 990 documenti in 1,5 ms
+   1. [2,957] [sci].[med]_59423_[med]-school.txt
+        From: hoss@panix.com (Felix the Cat) Subject: Re: med school Organization: PANIX Public Access Unix, NYC Lines: 38 X-Newsreader: TIN [version 1.1 PL8] John C...
+   2. [2,957] [sci].[med]_59480_[med]-school.txt
+        From: jcarey@news.weeg.uiowa.edu (John Carey) Subject: med school Organization: University of Iowa, Iowa City, IA, USA Lines: 27 Actually I am entering vet s...
+   3. [2,890] [sci].[med]_58071_what-about-[sci]-[med]-chemistry.txt
+        From: julkunen@messi.uku.fi (Antero Julkunen) Subject: What about sci.med.chemistry Organization: University of Kuopio, Finland Lines: 10 There is this newsg...
+   4. [2,890] [sci].[med]_58082_what-about-[sci]-[med]-chemistry.txt
+        From: kaminski@netcom.com (Peter Kaminski) Subject: Re: What about sci.med.chemistry Article-I.D.: netcom.kaminskiC52n0s.2uA Organization: The Information De...
+   5. [2,837] [sci].[med]_59345_[med]-school-admission.txt
+        From: hoss@panix.com (Felix the Cat) Subject: Med school admission Organization: PANIX Public Access Unix, NYC X-Newsreader: TIN [version 1.1 PL8] Lines: 17 ...
+   6. [2,837] [sci].[med]_59353_[med]-school-admission.txt
+        From: res4w@galen.med.Virginia.EDU (Robert E.
+   7. [2,837] [sci].[med]_59392_[med]-school-admission.txt
+        From: jhsu@Xenon.Stanford.EDU (Jeffrey H.
+   8. [2,837] [sci].[med]_59411_[med]-school-admission.txt
+        Organization: Penn State University From: <RFM@psuvm.psu.edu> Subject: Re: Med school admission Lines: 1 Then there are always osteopathy colleges....
+   9. [2,727] [sci].[med]_59422_[med]-school-admission-continued.txt
+        From: hoss@panix.com (Felix the Cat) Subject: med school admission continued.
+  10. [2,636] [sci].[med]_58043_jiggers.txt
+        From: mcdonald@aries.scs.uiuc.edu (J.
+  11. [2,636] [sci].[med]_58063_fibromyalgia.txt
+        From: dyer@spdcc.com (Steve Dyer) Subject: Re: fibromyalgia Organization: S.P.
+  12. [2,636] [sci].[med]_58075_jiggers.txt
+        From: jperkski@kentcomm.uucp (Jim Perkowski) Subject: Re: jiggers Distribution: world X-NewsSoftware: GRn 1.16f (10.17.92) by Mike Schwartz & Michael B.
+  13. [2,636] [sci].[med]_58085_lupus.txt
+        From: bytor@cruzio.santa-cruz.ca.us Subject: Lupus Keywords: Information wanted Article-I.D.: cruzio.5254 Reply-To: bytor@cruzio.santa-cruz.ca.us Lines: 12 I...
+  14. [2,636] [sci].[med]_58094_migraines.txt
+        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: Migraines Article-I.D.: pitt.19398 Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsbur...
+  15. [2,636] [sci].[med]_58112_jiggers.txt
+        From: sasghm@theseus.unx.sas.com (Gary Merrill) Subject: Re: jiggers Originator: sasghm@theseus.unx.sas.com Nntp-Posting-Host: theseus.unx.sas.com Organizati...
+  16. [2,636] [sci].[med]_58114_blindsight.txt
+        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: Blindsight Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Line...
+  17. [2,636] [sci].[med]_58117_tuberculosis.txt
+        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: tuberculosis Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Li...
+  18. [2,636] [sci].[med]_58118_blindsight.txt
+        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: Blindsight Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Line...
+  19. [2,636] [sci].[med]_58131_tuberculosis.txt
+        From: km@ky3b.pgh.pa.us (Ken Mitchum) Subject: Re: tuberculosis Organization: KY3B - Vax Pittsburgh, PA Lines: 19 In article <1993Mar25.085526.914@news.wesle...
+  20. [2,636] [sci].[med]_58132_amitriptyline.txt
+        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: amitriptyline Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science L...
+  21. [2,636] [sci].[med]_58137_toxoplasmosis.txt
+        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: Toxoplasmosis Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science L...
+  22. [2,636] [sci].[med]_58140_tuberculosis.txt
+        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: tuberculosis Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Li...
+  23. [2,636] [sci].[med]_58141_tuberculosis.txt
+        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: tuberculosis Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Li...
+  24. [2,636] [sci].[med]_58150_blindsight.txt
+        From: eb3@world.std.com (Edwin Barkdoll) Subject: Re: Blindsight Organization: The World Public Access UNIX, Brookline, MA Lines: 64 In article <19382@pitt.U...
+  25. [2,636] [sci].[med]_58769_erythromycin.txt
+        From: wsun@jeeves.ucsd.edu (Fiberman) Subject: erythromycin Organization: University of California, San Diego Lines: 4 Nntp-Posting-Host: jeeves.ucsd.edu Is ...
+  26. [2,636] [sci].[med]_58773_eugenics.txt
+        From: geb@cs.pitt.edu (Gordon Banks) Subject: Re: Eugenics Reply-To: geb@cs.pitt.edu (Gordon Banks) Organization: Univ. of Pittsburgh Computer Science Lines:...
+  27. [2,636] [sci].[med]_58790_eugenics.txt
+        From: sue@netcom.com (Sue Miller) Subject: Re: Eugenics Organization: Netcom - Online Communication Services (408 241-9760 guest) Lines: 7 In article <19617@...
+  28. [2,636] [sci].[med]_58794_erythromycin.txt
+        From: kxgst1+@pitt.edu (Kenneth Gilbert) Subject: Re: erythromycin Organization: University of Pittsburgh Lines: 14 In article <47974@sdcc12.ucsd.edu> wsun@j...
+  29. [2,636] [sci].[med]_58797_erythromycin.txt
+        From: rind@enterprise.bih.harvard.edu (David Rind) Subject: Re: erythromycin Organization: Beth Israel Hospital, Harvard Medical School, Boston Mass., USA Li...
+  30. [2,636] [sci].[med]_58802_centrifuge.txt
+        From: rjf@lzsc.lincroftnj.ncr.com (51351[efw]-Robert Feddeler(MT4799)T343) Subject: Re: centrifuge Organization: AT&T Middletown N.J.
+  31. [2,636] [sci].[med]_58806_endometriosis.txt
+        From: naomi@rock.concert.net (Naomi T Courter) Subject: Endometriosis Organization: CONCERT-CONNECT -- Public Access UNIX Lines: 15 can anyone give me more i...
+  32. [2,636] [sci].[med]_58815_sarchoidosis.txt
+        From: Nigel@dataman.demon.co.uk (Nigel Ballard) Subject: Re: Sarchoidosis Distribution: world Organization: Infamy Inc.
+  33. [2,636] [sci].[med]_58825_hypoglycemia.txt
+        From: anello@adcs00.fnal.gov (Anthony Anello) Subject: HYPOGLYCEMIA Organization: Fermi National Accelerator Laboratory, Batavia IL Lines: 14 Distribution: w...
+  34. [2,636] [sci].[med]_58837_prozac.txt
+        Subject: prozac From: agilmet@eis.calstate.edu (Adriana Gilmete) Organization: Calif State Univ/Electronic Information Services Lines: 3 Can anyone help me f...
+  35. [2,636] [sci].[med]_58840_centrifuge.txt
+        From: rind@enterprise.bih.harvard.edu (David Rind) Subject: Re: centrifuge Organization: Beth Israel Hospital, Harvard Medical School, Boston Mass., USA Line...
+  36. [2,636] [sci].[med]_58846_endometriosis.txt
+        From: jfare@53iss6.Waterloo.NCR.COM (Jim Fare) Subject: Re: Endometriosis Reply-To: jfare@53iss6.Waterloo.NCR.COM (Jim Fare) Distribution: world Organization...
+  37. [2,636] [sci].[med]_58847_prozac.txt
+        From: szikopou@superior.carleton.ca (Steven Zikopoulos) Subject: Re: prozac Organization: Carleton University Lines: 14 In <C5L2x5.4B7@eis.calstate.edu> agil...
+  38. [2,636] [sci].[med]_58859_endometriosis.txt
+        From: georgec@eng.umd.edu (George B.
+  39. [2,636] [sci].[med]_58860_eugenics.txt
+        From: cps@generali.harvard.edu (Chris Schaeffer) Subject: Re: Eugenics Summary: It will be difficult.
+  40. [2,636] [sci].[med]_58915_hypoglycemia.txt
+        From: jim.zisfein@factory.com (Jim Zisfein) Subject: HYPOGLYCEMIA Distribution: world Organization: Invention Factory's BBS - New York City, NY - 212-274-829...
+  41. [2,636] [sci].[med]_58933_help.txt
+        From: Gia Kiria <gkiria@kiria.kheta.georgia.su> Subject: help Reply-To: gkiria@kiria.kheta.georgia.su Organization: Gia Kiria Keywords: information echo card...
+  42. [2,636] [sci].[med]_58934_hypoglycemia.txt
+        From: ron.roth@rose.com (ron roth) Subject: HYPOGLYCEMIA X-Gated-By: Usenet <==> RoseMail Gateway (v1.70) Organization: Rose Media Inc, Toronto, Ontario.
+  43. [2,636] [sci].[med]_58935_glutamate.txt
+        From: kfl@access.digex.com (Keith F.
+  44. [2,636] [sci].[med]_58938_glutamate.txt
+        From: jchen@wind.bellcore.com (Jason Chen) Subject: Re: Glutamate Nntp-Posting-Host: wind.bellcore.com Organization: Bellcore Lines: 13 In article <1qrsr6$d5...
+  45. [2,636] [sci].[med]_58939_glutamate.txt
+        From: carl@SOL1.GPS.CALTECH.EDU (Carl J Lydick) Subject: Re: Glutamate Organization: HST Wide Field/Planetary Camera Lines: 15 Distribution: world Reply-To: ...
+  46. [2,636] [sci].[med]_58942_hunchback.txt
+        From: Isabelle.Rosso@Dartmouth.edu (Isabelle Rosso) Subject: Hunchback X-Posted-From: InterNews 1.0b15@dartmouth.edu Organization: Dartmouth College Lines: 1...
+  47. [2,636] [sci].[med]_58946_eugenics.txt
+        From: ruegg@med.unc.edu (Robert G.
+  48. [2,636] [sci].[med]_58948_eugenics.txt
+        From: ruegg@med.unc.edu (Robert G.
+  49. [2,636] [sci].[med]_58976_hernia.txt
+        From: sheffner@encore.com (Steve Heffner) Subject: Hernia Organization: Encore Computer Corporation Nntp-Posting-Host: condor.encore.com Lines: 20 A bit more...
+  50. [2,636] [sci].[med]_59015_hernia.txt
+        From: doyle+@pitt.edu (Howard R Doyle) Subject: Re: Hernia Organization: Pittsburgh TRansplant Institute Lines: 41 In article <C5qopx.5Mq@encore.com> sheffne...
+
+Q5> contenuto "space shuttle"
+  Query Lucene: contenuto:"space shuttl"
+  Risultati: 60 documenti in 1,5 ms
+   1. [6,213] sci.space_60859_a-flawed-propulsion-system-space-shuttle.txt
+        If you have any beefs about the current [space shuttle] program Re: propulsion, please send me your ideas.
+   2. [6,213] sci.space_61151_russian-email-contacts.txt
+        Organization: NASA/JSC/GM2, [Space Shuttle] Program Office X-Newsreader: TIN [version 1.1 PL8] Lines: 10 I am coordinating the [Space Shuttle] Program Office...
+   3. [5,876] sci.space_61199_how-can-you-see-the-launch-of-the.txt
+        From: C.H.A.Wong@bradford.ac.uk (CHA WONG) Subject: How can you see the launch of the [Space Shuttle] ?
+   4. [5,819] sci.space_61243_life-on-mars.txt
+        Organization: NASA/JSC/GM2, [Space Shuttle] Program Office X-Newsreader: TIN [version 1.1 PL8] Lines: 12 I know it's only wishful thinking, with our current ...
+   5. [5,479] sci.space_60192_space-food-sticks.txt
+        .: aio.1993Apr6.134526.14966 Organization: NASA/JSC/GM2, [Space Shuttle] Program Office Lines: 17 X-Newsreader: TIN [version 1.1 PL8] John Elson (jelson@rcne...
+   6. [5,415] sci.space_60899_why-not-give-1-billion-to-first-year.txt
+        This would encourage private industry to invest in space, which should be one of NASA's primary goals. -- Ken Jenks, NASA/JSC/GM2, [Space Shuttle] Program Of...
+   7. [5,234] sci.space_61321_two-line-orbital-element-set-space-shuttle.txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: [Space Shuttle] Keywords: [Space Shuttle], Orbital Elements, Keplerian Nntp-Postin...
+   8. [5,234] sci.space_61403_two-line-orbital-element-set-space-shuttle.txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: [Space Shuttle] Keywords: [Space Shuttle], Orbital Elements, Keplerian Nntp-Postin...
+   9. [5,234] sci.space_61421_two-line-orbital-element-set-space-shuttle.txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: [Space Shuttle] Keywords: [Space Shuttle], Orbital Elements, Keplerian Organizatio...
+  10. [5,234] sci.space_61500_two-line-orbital-element-set-space-shuttle.txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: [Space Shuttle] Keywords: [Space Shuttle], Orbital Elements, Keplerian Nntp-Postin...
+  11. [5,176] sci.space_60806_shuttle-oxygen-was-budget-astronaut.txt
+        But a hole in the pressure vessel would cause us to immediately de-orbit to the next available landing site. -- Ken Jenks, NASA/JSC/GM2, [Space Shuttle] Prog...
+  12. [5,064] sci.space_60790_two-line-orbital-element-set-space-shuttle.txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: [Space Shuttle] Keywords: [Space Shuttle], Orbital Elements, Keplerian Nntp-Postin...
+  13. [5,064] sci.space_60838_two-line-orbital-element-set-space-shuttle.txt
+        From: tkelso@afit.af.mil (TS Kelso) Subject: Two-Line Orbital Element Set: [Space Shuttle] Keywords: [Space Shuttle], Orbital Elements, Keplerian Nntp-Postin...
+  14. [4,966] sci.space_61149_space-station-redesign-jsc-alternative-4.txt
+        However, the rumors I hear say that a design based on a wingless [Space Shuttle] Orbiter seems more likely.
+  15. [4,957] sci.space_61234_space-station-redesign-jsc-alternative-4.txt
+        From: kjenks@jsc.nasa.gov (Ken Jenks [NASA]) Subject: Re: Space Station Redesign, JSC Alternative #4 Organization: NASA/JSC/GM2, [Space Shuttle] Program Offi...
+  16. [4,957] sci.space_61525_single-launch-space-station.txt
+        But I doubt we'd do that; the cost of a launch failure is too high. -- Ken Jenks, NASA/JSC/GM2, [Space Shuttle] Program Office kjenks@gothamcity.jsc.nasa.gov...
+  17. [4,740] sci.space_60854_space-shuttle-information-wanted.txt
+        From: nether@bigwpi.WPI.EDU (Joel C Belog) Subject: [Space Shuttle] information wanted Organization: Worcester Polytechnic Institute Lines: 15 NNTP-Posting-H...
+  18. [4,693] sci.space_60797_a-wrench-in-the-works.txt
+        Lines: 13 jmcocker@eos.ncsu.edu (Mitch) writes: >effect that one of the SSRBs that was recovered after the >recent [space shuttle] launch was found to have a...
+  19. [4,663] sci.space_59848_space-faq-12-15-controversial-questions.txt
+        The influence of the [space shuttle] and Titan rockets on the stratosphere is negligible.
+  20. [4,570] sci.space_61528_deployable-space-dock.txt
+        Organization: NASA/JSC/GM2, [Space Shuttle] Program Office X-Newsreader: TIN [version 1.1 PL8] X-Posted-From: algol.jsc.nasa.gov NNTP-Posting-Host: sol.ctr.c...
+  21. [4,556] sci.space_61163_space-design-movies.txt
+        I liek to be able to see a [space shuttle] design in a AutoCAD program or to see it revolt around and look at it. == Michael Adams, nsmca@acad3.alaska.edu --...
+  22. [4,490] sci.space_61165_space-station-redesign-jsc-alternative-4.txt
+        However, the rumors >I hear say that a design based on a wingless [Space Shuttle] Orbiter >seems more likely.
+  23. [4,483] sci.space_60906_space-class-for-teachers-near-chicago.txt
+        The social highlight of the class will be a dinner banquet featuring [Space Shuttle] Payload Specialist Byron Lichtenberg, currently President of Payload Sys...
+  24. [4,483] sci.space_61370_space-station-redesign-jsc-alternative-4.txt
+        May the best design win. -- Ken Jenks, NASA/JSC/GM2, [Space Shuttle] Program Office kjenks@gothamcity.jsc.nasa.gov (713) 483-4368 "Good ideas are not adopted...
+  25. [4,399] sci.space_60233_washington-post-article-on-ssf-redesign.txt
+        That option would use existing hardware from the [space shuttle] - the fuselage, for example, in its basic structure."
+  26. [4,399] sci.space_61456_u-s-government-and-technolgy-investment.txt
+        Government and Technolgy Investment Organization: NASA/JSC/GM2, [Space Shuttle] Program Office X-Newsreader: TIN [version 1.1 PL8] Lines: 44 People who criti...
+  27. [4,385] sci.space_60782_a-wrench-in-the-works.txt
+        Originator: jmcocker@c00068-100lez.eos.ncsu.edu Reply-To: jmcocker@eos.ncsu.edu (Mitch) Organization: North Carolina State University, Project Eos Lines: 19 ...
+  28. [4,385] sci.space_60809_a-wrench-in-the-works.txt
+        Lines: 15 nanderso@Endor.sim.es.com (Norman Anderson) writes: >jmcocker@eos.ncsu.edu (Mitch) writes: >>effect that one of the SSRBs that was recovered after ...
+  29. [4,349] sci.space_61132_hst-servicing-mission-scheduled-for-11-days.txt
+        Designed to be serviced by a [Space Shuttle] crew, Hubble was built with grapple fixtures and handholds to assist in the capture and repair procedures.
+  30. [4,152] sci.space_61264_life-on-mars.txt
+        Goldin, NASA Administrator, 24 August 1992 > >-- Ken Jenks, NASA/JSC/GM2, [Space Shuttle] Program Office > kjenks@gothamcity.jsc.nasa.gov (713) 483-4368 Lets...
+  31. [4,010] sci.space_62394_who-is-henry-spencer-anyway.txt
+        Lines: 17 On Sat, 15 May 1993 01:45:54 GMT, hansk@aie.nl (Hans Kinwel) said: Hans> As somebody replied on whether the [space shuttle] is connected to Hans> U...
+  32. [3,942] sci.space_60839_guns-for-space.txt
+        For example, the [Space Shuttle] SRBs are 16 percent Aluminum.
+  33. [3,942] sci.space_60910_why-not-give-1-billion-to-first-year.txt
+        . > > -- Ken Jenks, NASA/JSC/GM2, [Space Shuttle] Program Office > kjenks@gothamcity.jsc.nasa.gov (713) 483-4368 > > "Better.
+  34. [3,917] sci.space_59850_space-faq-14-15-how-to-become-an.txt
+        Pilot Astronaut Pilot astronauts server as both [Space Shuttle] commanders and pilots.
+  35. [3,814] sci.space_60820_a-wrench-in-the-works.txt
+        Woods) writes: >nanderso@Endor.sim.es.com (Norman Anderson) writes: >>jmcocker@eos.ncsu.edu (Mitch) writes: >>>effect that one of the SSRBs that was recovere...
+  36. [3,694] sci.space_61408_level-5.txt
+        This software controls the [Space Shuttle] During all dynamic phases as well as on-orbit.
+  37. [3,581] sci.space_61473_space-station-redesign-jsc-alternative-4.txt
+        Basically, you take a 23 ft diameter >>cylinder that's 92 ft long, slap 3 [Space Shuttle] Main Engines on >>the backside, put a nose cone on the top, attache...
+  38. [3,483] sci.space_61527_astronauts-what-does-weightlessness-feel-like.txt
+        Organization: NASA/JSC/GM2, [Space Shuttle] Program Office X-Newsreader: TIN [version 1.1 PL8] X-Posted-From: algol.jsc.nasa.gov NNTP-Posting-Host: sol.ctr.c...
+  39. [3,475] sci.med_58876_eumemics-was-eugenics.txt
+        They should not be allowed to infect other people with their memes against genetically-engineered food, electromagnetic fields, and the [Space Shuttle] solid...
+  40. [3,383] sci.space_62399_space-marketing-boycott.txt
+        The lights spell out messages for all to see. -- Ken Jenks, NASA/JSC/GM2, [Space Shuttle] Program Office kjenks@gothamcity.jsc.nasa.gov (713) 483-4368 "HERE ...
+  41. [3,280] sci.med_59072_eumemics-was-eugenics.txt
+        They should not be allowed to infect other people with their memes against genetically-engineered food, electromagnetic fields, and the [Space Shuttle] solid...
+  42. [3,280] sci.space_61490_space-station-redesign-jsc-alternative-4.txt
+        Basically, you take a 23 ft diameter > >>cylinder that's 92 ft long, slap 3 [Space Shuttle] Main Engines on > >>the backside, put a nose cone on the top, att...
+  43. [3,230] sci.space_59904_space-faq-09-15-mission-schedules.txt
+        The Shuttle straddles two flame trenches -- one for the Solid Rocket Motor exhaust, one for the [Space Shuttle] Main Engine exhaust.
+  44. [3,191] sci.space_61174_space-station-redesign-jsc-alternative-4.txt
+        Basically, you take a 23 ft diameter >cylinder that's 92 ft long, slap 3 [Space Shuttle] Main Engines on >the backside, put a nose cone on the top, attached ...
+  45. [2,808] sci.space_62400_space-marketing-would-be-wonderfull.txt
+        . >-- Ken Jenks, NASA/JSC/GM2, [Space Shuttle] Program Office > kjenks@gothamcity.jsc.nasa.gov (713) 483-4368 > "HERE MEN FROM THE PLANET EARTH > FIRST SET F...
+  46. [2,512] sci.space_59908_space-faq-08-15-addresses.txt
+        Louis, Mississippi 39529 (601)-688-3341 [Space Shuttle] main engines are tested here, as were Saturn V first and second stages.
+  47. [2,496] sci.space_59871_space-faq-01-15-introduction.txt
+        Spy satellites [Space shuttle] computer systems SETI computation (signal processing) Amateur satellies & weather satellites Tides 6* Constants and equations ...
+  48. [2,144] sci.space_59872_space-faq-02-15-network-resources.txt
+        Elements is a moderated list for fast distribution of [Space Shuttle] Keplerian Elements before and during Shuttle flights.
+  49. [1,998] sci.space_59909_space-faq-11-15-upcoming-planetary-probes.txt
+        [Space Shuttle] on STS-68 in 1994. 1994 o Polar Auroral Plasma Physics [May, Delta II rocket] June, measure solar wind and ions and gases surrounding the Earth.
+  50. [1,898] sci.space_62104_over-zealous-shuttle-critics.txt
+        >I do not recall a 1 flight/week specification in the final NASA specs for the >[space shuttle] program.
+
+Q6> contenuto "stanley cup"
+  Query Lucene: contenuto:"stanlei cup"
+  Risultati: 102 documenti in 1,2 ms
+   1. [7,307] rec.sport.hockey_54759_winnipeg-vs-vancouver.txt
+        The Winnipeg Jets have never won the [Stanley Cup] (or even come that close).
+   2. [7,239] rec.sport.hockey_53608_my-predictions-of-a-classic-playoff-year.txt
+        > Montreal wins the [Stanley cup] in the 7th game 1 - 0 in double overtime.
+   3. [7,177] rec.sport.hockey_54285_ulf-and-all.txt
+        The sight of watching Ulf >turtle up like the coward he is, is worth almost as much as a [Stanley >Cup]. ...
+   4. [7,124] rec.sport.hockey_53686_playoff-pool-rules-entry-form.txt
+        Each round will be weighted, so that the [Stanley Cup] finals will be very important, but the early rounds will still be important.
+   5. [6,770] rec.sport.hockey_53663_wings-will-win.txt
+        Now they are a pretty good team that is contending for the [Stanley Cup] but looks unlikely to win it.
+   6. [6,680] rec.sport.hockey_52562_playoff-predictions.txt
+        My predictions: Patrick Division winner: Pittsburgh Adams Division winner: Quebec or Montreal Norris Division winner: Detroit Smythe Division winner: Winnipe...
+   7. [6,524] rec.sport.hockey_52620_spelling-error-on-the-stanley-cup.txt
+        Arbogast) Subject: Re: Spelling Error on the [Stanley Cup]??
+   8. [6,359] rec.sport.hockey_52610_playoff-predictions.txt
+        . > >[Stanley Cup] Final: >Islanders and Vancouver.
+   9. [6,359] rec.sport.hockey_53757_murray-as-gm-was-wings-will-win.txt
+        Now they are a pretty good team that is contending for >the [Stanley Cup] but looks unlikely to win it.
+  10. [6,303] rec.sport.hockey_52566_canadian-silver-dollar-stanley-cup-centennial.txt
+        Subject: canadian silver dollar-[stanley cup] centennial From: hammerl@acsu.buffalo.edu (Valerie S.
+  11. [6,303] rec.sport.hockey_53538_washington-to-beat-pitt.txt
+        "It won't be easy, but it >Contact for the '93-'94 '91 [STANLEY CUP] will have greater rewards.
+  12. [6,164] rec.sport.hockey_53560_playoff-predictions.txt
+        Please send me your predictions for the [Stanley Cup] Playoffs!
+  13. [6,082] rec.sport.hockey_53642_what-are-you-smoking-wasre-my-predictions-of.txt
+        .) > > > Vancouver vs Toronto Toronto in 6 (Potvin will be series MVP) > *This is what kills me: > [STANLEY CUP] FINALS > > Toronto Maple Leafs vs Montreal C...
+  14. [5,910] rec.sport.hockey_53584_my-predictions-of-a-classic-playoff-year.txt
+        Montreal wins the [Stanley cup] in the 7th game 1 - 0 in double overtime.
+  15. [5,791] rec.sport.hockey_53762_wings-will-win.txt
+        Now they are a pretty good team that is contending for >>the [Stanley Cup] but looks unlikely to win it.
+  16. [5,761] rec.sport.hockey_54053_ranger-fans.txt
+        . > >As far as the [Stanley Cup] goes I think there's only one team that can test >Pittsburgh and that's Detroit.
+  17. [5,748] rec.sport.hockey_53587_my-predictions-of-a-classic-playoff-year.txt
+        .) |> |> Campbell Conference finals |> |> Vancouver vs Toronto Toronto in 6 (Potvin will be series MVP) |> |> |> [STANLEY CUP] FINALS |> |> Toronto Maple Lea...
+  18. [5,594] rec.sport.hockey_54021_wings-will-win.txt
+        And one player cannot alone make a team into a [Stanley Cup] contender, as I'm sure everyone reading this will agree.
+  19. [5,588] rec.sport.hockey_53770_thumbs-up-to-espn.txt
+        Instead of showing another baseball > game, they decided on the [Stanley Cup] Playoffs.
+  20. [5,588] rec.sport.hockey_54366_nc-caps-isles-fans.txt
+        This is the only place I know to catch all of the [Stanley Cup] action.
+  21. [5,551] rec.sport.hockey_53730_panther-s-president.txt
+        A little Bio from _Sun-Sentinel_ Torrey, the architect of four consecutive [Stanley Cup] champions as persident and general manager of the New York Islanders.
+  22. [5,478] rec.sport.hockey_52586_canadiens-another-stanley-cup.txt
+        From: pereira@CAM.ORG (Dean Pereira) Subject: Canadiens - another [Stanley Cup]???
+  23. [5,478] rec.sport.hockey_53641_corrections-re-playoff-predictions.txt
+        Washington 10 - Patrick Division Winner 13 - Wales Conference Winner 15 - [Stanley Cup] Winner Please forward all corrections to Richard Madison rrmadiso@nap...
+  24. [5,478] rec.sport.hockey_53664_thumbs-up-to-espn.txt
+        Instead of showing another baseball > game, they decided on the [Stanley Cup] Playoffs.
+  25. [5,425] rec.sport.hockey_53617_did-the-blues-pull-it-out.txt
+        Patrick Division Semi's '91 [STANLEY CUP] You see now, wait for the PENGUINS 6, Devils 3 '92 CHAMPIONS possibility, don't you see a Penguins lead, 1-0 12 STR...
+  26. [5,425] rec.sport.hockey_54124_detroit-playoff-tradition.txt
+        From: lange@reg.triumf.ca (THREADING THE CANADIAN TAPESTRY) Subject: Detroit Playoff Tradition Organization: TRIUMF: Tri-University Meson Facility Lines: 11 ...
+  27. [5,425] rec.sport.hockey_54135_goodbye-good-riddance-get-lost-stars.txt
+        Well, if SHIT means going to the [Stanley Cup] finals a couple years ago, I'd rather be shit than a leaf fan. -- GO SKINS!
+  28. [5,338] rec.sport.hockey_53571_plus-minus-stat.txt
+        They are the depth that the dynasties had to win [Stanley Cups].
+  29. [5,322] rec.sport.hockey_53687_entry-form-for-playoff-pool.txt
+        Louis-Chicago Toronto-Detroit Winnipeg-Vancouver Los Angeles-Calgary Division Finals Patrick Adams Norris Smythe Conference Finals Wales Campbell [Stanley Cu...
+  30. [5,322] rec.sport.hockey_53776_thumbs-up-to-espn.txt
+        Instead of showing another baseball >game, they decided on the [Stanley Cup] Playoffs.
+  31. [5,238] rec.sport.hockey_54089_wings-will-win.txt
+        And one player >cannot alone make a team into a [Stanley Cup] contender, as I'm sure everyone >reading this will agree
+  32. [5,222] rec.sport.hockey_53774_thumbs-up-to-espn.txt
+        Instead of showing another baseball >game, they decided on the [Stanley Cup] Playoffs.
+  33. [5,222] rec.sport.hockey_53800_panther-s-president.txt
+        From: golchowy@alchemy.chem.utoronto.ca (Gerald Olchowy) Subject: Re: Panther's President Organization: University of Toronto Chemistry Department Lines: 20 ...
+  34. [5,222] rec.sport.hockey_54555_devils-and-islanders-tiebreaker.txt
+        "It won't be easy, but it Contact for the '93-'94 '91 [STANLEY CUP] will have greater rewards.
+  35. [5,126] rec.sport.hockey_53539_bruins-vs-canadiens-talentwise.txt
+        The Canadiens [Stanley Cup] achievements were earned on a level playing field.
+  36. [5,126] rec.sport.hockey_53734_thumbs-up-to-espn.txt
+        Instead of showing another baseball > game, they decided on the [Stanley Cup] Playoffs.
+  37. [5,126] rec.sport.hockey_54013_pens-fans-reactions.txt
+        We're savoring every game and saving >our energy for the [Stanley Cup].
+  38. [5,049] rec.sport.hockey_53625_i-was-right-in-the-first-place.txt
+        Don't forget about Fedorov, one of the >top players in the NHL, IMHO, and Coffey who has the most [Stanley Cup] >rings of any active players (correct me if I...
+  39. [5,049] rec.sport.hockey_53827_wings-will-win.txt
+        It takes *more* than a great GM to win a [stanley cup], even once.
+  40. [5,049] rec.sport.hockey_54299_ranger-fans.txt
+        I want my f*cking [Stanley Cup]!!!!!
+  41. [4,944] rec.sport.hockey_53694_nhl-team-items.txt
+        Good luck to your teams in the [Stanley Cup] playoffs!
+  42. [4,944] rec.sport.hockey_53971_octopus-in-detroit.txt
+        It is a long standing good luck Redwing's tradition to throw an octopus on the ice during a [Stanley Cup] game.
+  43. [4,944] rec.sport.hockey_54090_bruins.txt
+        Statistically, only 2 teams in **all** the [Stanley Cup] series ever played have come back to win.
+  44. [4,944] rec.sport.hockey_54304_espn-broadcastsssss.txt
+        CYT> At least I get to see the DEVILS...even if they are gettin there ass CYT> kicked Perhaps they will score and even win a game or two CYT> GO DEVILS I am ...
+  45. [4,858] rec.sport.hockey_52584_hey-flyers-fans.txt
+        [Stanley Cup] in '94!
+  46. [4,858] rec.sport.hockey_52588_canadiens-another-stanley-cup.txt
+        From: rauser@fraser.sfu.ca (Richard John Rauser) Subject: Re: Canadiens - another [Stanley Cup]???
+  47. [4,858] rec.sport.hockey_53572_washington-to-beat-pitt.txt
+        I'm a Canucks fan (not that I think much of their >>chances this year), but it seems to me like Washington is the ONLY >>team that can stop the Penguins from...
+  48. [4,858] rec.sport.hockey_53733_nhl-team-captains.txt
+        . - aka Jay | Penguins - 1991,1992 [Stanley Cup] Champions Software Engineering Institute | Pirates - 1990,1991,1992 NL East Champions SEI 3409 (412) 268-355...
+  49. [4,775] rec.sport.hockey_53591_playoff-pool.txt
+        Here is the new, finalized scoring: Pick 1st round winner, way off on games: 2 " " " " pick within one game: 3 " " " " pick exact games: 4 Pick 2nd round win...
+  50. [4,775] rec.sport.hockey_53684_winning-streaks.txt
+        "It won't be easy, but it >Contact for the '93-'94 '91 [STANLEY CUP] will have greater rewards.
+
+Q7> contenuto encryption clipper chip
+  Query Lucene: contenuto:encrypt contenuto:clipper contenuto:chip
+  Risultati: 1058+ documenti in 2,2 ms
+   1. [8,607] sci.crypt_15683_will-feds-troll-for-mutilated-law-enforcement-blocks.txt
+        Postulate if you will, a [chip] (or logic) sitting between the [clipper] [chip] and its communications channel.
+   2. [8,582] sci.crypt_15922_trademark-violation-claimed.txt
+        The Intergraph [Clipper] [chip] is a Unix microprocessor, originally developed by Fairchild Semiconductors, and has no relationship to the [encryption] [chip...
+   3. [8,477] sci.crypt_15442_some-questions-regarding-big-brother-clipper.txt
+        From: artmel@well.sf.ca.us (Arthur Melnick) Subject: Some questions regarding Big Brother ([Clipper]) Summary: Some thoughts and questions regarding [clipper...
+   4. [8,398] sci.crypt_15501_spoofing-clipper-serial-number.txt
+        From: koontzd@phobos.lrmsc.loral.com (David Koontz ) Subject: Spoofing [Clipper] Serial Number Distribution: usa Organization: Loral Rolm Mil-Spec Computers ...
+   5. [8,229] sci.crypt_15680_secret-algorithm-re-clipper-chip-and-crypto-key.txt
+        It is all to easy to convert [encrypted] data into unintellgible garbage as it is, if anything, the [Clipper] [Chip] just adds another tool to the user.
+   6. [8,143] sci.crypt_15323_don-t-fight-clipper-chip-subvert-or-replace.txt
+        However assuming that I can still [encrypt] things as I please, who cares about the [clipper] [chip]?
+   7. [8,089] sci.crypt_15192_text-of-white-house-announcement-and-q-as.txt
+        From: hal@cco.caltech.edu (Hal Finney) Subject: Re: text of White House announcement and Q&As on [clipper] [chip] [encryption] Organization: California Insti...
+   8. [8,069] sci.crypt_15455_the-clipper-chip-a-technical-summary.txt
+        [CHIP] STRUCTURE The [Clipper] [Chip] contains a classified 64-bit block [encryption] algorithm called "Skipjack."
+   9. [8,041] sci.crypt_15219_text-of-white-house-announcement-and-q-as.txt
+        Q: Who provides the "[Clipper] [Chip]"?
+  10. [8,005] sci.crypt_15866_revised-technical-summary-of-clipper-chip.txt
+        > Once the session key K is established, the [Clipper] [Chip] is used to > [encrypt] the conversation or message stream M (digitized voice).
+  11. [7,998] sci.crypt_15769_would-clipper-make-a-good-cover-for-other.txt
+        From: gardner@convex.com (Steve Gardner) Subject: Re: Would "[clipper]" make a good cover for other [encryption] method?
+  12. [7,970] sci.crypt_15183_text-of-white-house-announcement-and-q-as.txt
+        Q: Who provides the "[Clipper] [Chip]"?
+  13. [7,951] sci.crypt_15726_new-encryption.txt
+        AT&T obviously knew and participated in the development of the [Clipper] [chip].
+  14. [7,913] sci.crypt_15746_ideas-on-clipper.txt
+        The [Clipper] [Chip] contains a classified single-key 64-bit block [encryption] algorithm called "Skipjack."
+  15. [7,879] sci.crypt_15917_revised-technical-summary-of-clipper-chip.txt
+        This key negotiation takes place > > without the [Clipper] [Chip].
+  16. [7,864] sci.crypt_15670_revised-technical-summary-of-clipper-chip.txt
+        [CHIP] CONTENTS The [Clipper] [Chip] contains a classified single-key 64-bit block [encryption] algorithm called "Skipjack."
+  17. [7,862] sci.crypt_15301_how-does-it-really-work-was-re-text.txt
+        Another possibility, as was suggested here earlier, is that the [chips] simply broadcast the session key, [encrypted] with the [chip's] own internal secret key.
+  18. [7,861] sci.crypt_15188_clipper-chip-and-crypto-key-escrow.txt
+        Q: Who provides the "[Clipper] [Chip]"?
+  19. [7,842] sci.crypt_15186_text-of-white-house-announcement-and-q-as.txt
+        May) Subject: Re: text of White House announcement and Q&As on [clipper] [chip] [encryption] Organization: NETCOM On-line Communication Services (408 241-976...
+  20. [7,796] sci.crypt_15234_text-of-white-house-announcement-and-q-as.txt
+        As long as people still have the power to provide their own [encryption] in place of or in addition to the [Clipper], privacy is still possible.
+  21. [7,794] sci.crypt_15519_how-does-it-really-work-was-re-text.txt
+        (was Re: text of White House announcement and Q&As on [clipper] [chip] [encryption]) Lines: 22 From: Marc VanHeyningen <mvanheyn@cs.indiana.edu> The majority...
+  22. [7,783] sci.crypt_15221_text-of-white-house-announcement-and-q-as.txt
+        AT&T has already announced a [clipper] [chip] [encryption] product.
+  23. [7,780] sci.crypt_15193_the-battle-is-joined.txt
+        Q: Who provides the "[Clipper] [Chip]"?
+  24. [7,753] sci.crypt_15262_clipper-crap.txt
+        We need the "[Clipper] [Chip]" and other ^^^^^^^^^^^^^^^^^^^^^^^^ Just a random passing thought, but can anyone cite a documented use of [encryption] technol...
+  25. [7,750] sci.crypt_15233_text-of-white-house-announcement-and-q-as.txt
+        Rather, both concerns can be, >> and in fact are, harmoniously balanced through a reasoned, >> balanced approach such as is proposed with the "[Clipper] >> [...
+  26. [7,653] sci.crypt_15379_how-to-detect-use-of-an-illegal-cipher.txt
+        Any criminal who's going to use >[encryption] will do it under cover of [Clipper].
+  27. [7,636] sci.crypt_15644_new-encryption.txt
+        So they really need help in stopping the [clipper] [chip] from becoming a standard.
+  28. [7,628] sci.crypt_15351_is-there-any-security-in-the-clipper.txt
+        Yes, but they'll be [encrypted] with Cripple [Chip] [encryption], the [encryption] algorithm so great it's TOP SECRET and so unbreakable they WON'T EVEN LET ...
+  29. [7,600] sci.crypt_15296_secret-algorithm-re-clipper-chip-and-crypto-key.txt
+        From: brad@clarinet.com (Brad Templeton) Subject: Re: Secret algorithm [Re: [Clipper] [Chip] and crypto key-escrow] Organization: ClariNet Communications Corp.
+  30. [7,591] sci.crypt_15185_text-of-white-house-announcement-and-q-as.txt
+        From: hooper@ccs.QueensU.CA (Andy Hooper) Subject: Re: text of White House announcement and Q&As on [clipper] [chip] [encryption] Organization: Queen's Unive...
+  31. [7,587] sci.crypt_15294_clipper-crap.txt
+        We need the "[Clipper] [Chip]" and other "Necessity is the plea for every infringement of human freedom.
+  32. [7,586] sci.crypt_15290_new-clipper-chip-proposal-from-the-guv.txt
+        Q: Who provides the "[Clipper] [Chip]"?
+  33. [7,585] sci.crypt_15503_do-we-need-the-clipper-for-cheap-security.txt
+        Another note: If "[Clipper]" increases the incentive to bring stronger [encryption] to the mass market, all the better.
+  34. [7,581] sci.crypt_15754_new-encryption.txt
+        As others have mentioned, the most > difficulty the [Clipper] [chip] faces is an economic one.
+  35. [7,579] sci.crypt_16036_clipper-considered-harmful-restated-and-amplified.txt
+        I was under the impression (from reading Denning's description of the [Clipper's] operation) that the same session key *is* used in both directions for [encr...
+  36. [7,575] sci.crypt_15690_some-questions-was-revised-summary.txt
+        Let us assume that the tap is in > place and that they have determined that the line is [encrypted] with the > [Clipper] [Chip].
+  37. [7,572] sci.crypt_15350_clipper-chip-and-key-exchange-methods.txt
+        From: C445585@mizzou1.missouri.edu (John Kelsey) Subject: [Clipper] [chip] and key exchange methods Nntp-Posting-Host: mizzou1.missouri.edu Organization: Uni...
+  38. [7,561] sci.crypt_15494_text-of-white-house-announcement-and-q-as.txt
+        From: ted@nmsu.edu (Ted Dunning) Subject: Re: text of White House announcement and Q&As on [clipper] [chip] [encryption] Organization: Computing Research Lab...
+  39. [7,546] sci.crypt_15533_screw-the-people-crypto-is-for-hard-core.txt
+        What happens when the [Clipper] is the *ONLY* type of [encryption] [chips] available to the masses?
+  40. [7,497] sci.crypt_15217_text-of-white-house-announcement-and-q-as.txt
+        Palmer) Subject: re: text of White House announcement and Q&As on [clipper] [chip] [encryption] Organization: NASA Langley Research Center, Hampton, VA Lines...
+  41. [7,481] sci.crypt_15966_clipper-and-conference-calls.txt
+        It's not [Clipper], it's any [encryption] system.
+  42. [7,479] sci.crypt_15224_clipper-an-infringement-on-intergraph-s-name.txt
+        When I first saw "[Clipper] [Chip]" in the announcement, I immediately thought the article was referring to the [Clipper] [chip] I know.
+  43. [7,450] sci.crypt_15595_text-of-white-house-announcement-and-q-as.txt
+        A [Clipper] [chip] is really going to help the homeless!
+  44. [7,434] sci.crypt_15620_the-clipper-chip-a-technical-summary.txt
+        Denning's description of SkipJack mostly omitted] [CHIP] STRUCTURE The [Clipper] [Chip] contains a classified 64-bit block [encryption] algorithm called "Ski...
+  45. [7,432] sci.crypt_15658_clipper-chip-facts-a-request.txt
+        Brand) Subject: "[Clipper] [Chip]" facts: a request Organization: is a nice thing...
+  46. [7,424] sci.crypt_15213_white-house-public-encryption-management-fact-sheet.txt
+        From: ig25@fg70.rz.uni-karlsruhe.de (Thomas Koenig) Subject: Re: White House Public [Encryption] Management Fact Sheet Organization: University of Karlsruhe,...
+  47. [7,360] sci.crypt_15678_would-clipper-make-a-good-cover-for-other.txt
+        Kadie) writes: >[Clipper] might be a good way to cover the use of another layer of >[encryption].
+  48. [7,319] sci.crypt_16165_clipper-crap.txt
+        So, my question of the FBI/NIST/NSA is: "How are you going to make the rum runners use the [Clipper] [Chip]?"
+  49. [7,312] sci.crypt_16068_organized-lobbying-for-cryptography.txt
+        >Perhaps these [encryption]-only types would defend the digitized porn if it >was posted [encrypted]?
+  50. [7,310] sci.crypt_15191_text-of-white-house-announcement-and-q-as.txt
+        > Q: Who provides the "[Clipper] [Chip]"?
+
+Q8> contenuto "second amendment"
+  Query Lucene: contenuto:"second amend"
+  Risultati: 87 documenti in 1,8 ms
+   1. [5,284] talk.politics.guns_54687_analysis-of-second-amendment-was-re-some-more.txt
+        (C) 1991 by The New Gun Week and [Second Amendment] Foundation.
+   2. [5,252] talk.politics.guns_54906_text-of-white-house-announcement-and-q-as.txt
+        "Well Regulated", at the time of its writing and in the context of the [Second Amendment], means "Properly trained and equipped."
+   3. [5,138] sci.crypt_15553_text-of-white-house-announcement-and-q-as.txt
+        (C) 1991 by The New Gun Week and [Second Amendment] Foundation.
+   4. [5,094] talk.politics.guns_54182_carrying-arms.txt
+        But the federal [Second Amendment] does not apply directly to the states.
+   5. [4,952] talk.politics.guns_54275_hr-1276-a-gun-law-i-can-live.txt
+        The right mentioned in the bill is already established under the [Second Amendment]; the bill should be reworded to reaffirm the [Second Amendment] RKBA, and...
+   6. [4,939] talk.politics.guns_54888_text-of-white-house-announcement-and-q-as.txt
+        Thus I continue to believe the [Second Amendment] is a militia clause and not an 'arming everyone' clause.
+   7. [4,797] talk.politics.guns_54163_some-more-about-gun-control.txt
+        The [second amendment] implies a sort contract between the people the people and the state.
+   8. [4,794] sci.crypt_15710_text-of-white-house-announcement-and-q-as.txt
+        The [Second Amendment] says the right to bear >arms shall not be infringed, so a well regulated militia may be more easily >formed.
+   9. [4,684] talk.politics.guns_54849_text-of-white-house-announcement-and-q-as.txt
+        Lines: 27 Distribution: na NNTP-Posting-Host: rocket.sw.stratus.com In article <strnlghtC5tr6D.n3n@netcom.com>, strnlght@netcom.com (David Sternlight) writes...
+  10. [4,674] sci.crypt_15463_text-of-white-house-announcement-and-q-as.txt
+        The [Second Amendment] protects the right of the people to keep and bear Arms
+  11. [4,641] talk.politics.guns_54566_some-more-about-gun-control.txt
+        Clearly >> >and unequivocally, without infringement. > >> Unfortunately the [Second Amendment] is not as clear as you state.
+  12. [4,569] talk.politics.guns_54218_definition-of-2nd.txt
+        From: tnyurkiw@descartes.uwaterloo.ca (TN) Subject: definition of 2nd Organization: University of Waterloo Lines: 9 The debate over the [Second Amendment] ra...
+  13. [4,569] talk.politics.guns_54524_text-of-white-house-announcement-and-q-as.txt
+        From: strnlght@netcom.com (David Sternlight) Subject: Re: text of White House announcement and Q&As on clipper chip encryption Organization: DSI/USCRPAC Dist...
+  14. [4,490] talk.politics.guns_54891_hr-1276-a-gun-law-i-can-live.txt
+        In article <1ql3aiINN41c@gap.caltech.edu> arc@cco.caltech.edu (Aaron Ray Clement s) writes: [ ... ] >right mentioned in the bill is already established under...
+  15. [4,429] sci.crypt_15416_text-of-white-house-announcement-and-q-as.txt
+        In any case, if you check on any of the topics devoted to gun rights issues, you will find ample evidence that the "misinformation" is your assertion that th...
+  16. [4,409] talk.politics.guns_54290_some-more-about-gun-control.txt
+        > Unfortunately the [Second Amendment] is not as clear as you state.
+  17. [4,345] talk.politics.guns_55048_starting-my-letter-writing-campaign.txt
+        One elected official even wants to repeal the [Second Amendment]!
+  18. [4,341] talk.politics.misc_178907_gun-control-kills-over-80.txt
+        `Criminals' who execise the [second amendment] will be killed.
+  19. [4,312] talk.politics.guns_53367_do-they-really-believe.txt
+        The trick is to get them to realize that the [Second Amendment] exists not for hunters but for the oppressed and the terrorized.
+  20. [4,297] talk.politics.guns_54159_boston-gun-buy-back.txt
+        And are protected by the First Amendment and guarnteed by the [Second Amendment].
+  21. [4,255] talk.politics.guns_54834_quotes-requested.txt
+        ., Ann Arbor Lines: 11 I need quotes from Jefferson, Hamilton, Madison, or any of the other founders, that support the idea that the [Second Amendment] was w...
+  22. [4,255] talk.politics.guns_54909_rewording-the-second-amendment-ideas.txt
+        Tavares) Subject: Re: Rewording the [Second Amendment] (ideas) Organization: Stratus Computer, Inc.
+  23. [4,214] sci.crypt_15328_text-of-white-house-announcement-and-q-as.txt
+        You'd think the tactic would be too obvious to trot out yet again after a decade of Sarah and the rest of the Brady Bunch using it to destroy the [Second Ame...
+  24. [4,214] talk.politics.guns_55486_rewording-the-second-amendment-ideas.txt
+        From: wondertr@fraser.sfu.ca (wondertree learning center) Subject: Re: Rewording the [Second Amendment] (ideas) Organization: Simon Fraser University, Burnab...
+  25. [4,147] talk.politics.guns_54174_militia-incredibly-long.txt
+        . > >No, I originally argued that the [Second Amendment] was "a little bit >and an anachronism."
+  26. [4,147] talk.politics.guns_54179_some-more-about-gun-control.txt
+        Elbridge Gerry of Massachusetts, spoken during floor debate < over the [Second Amendment], I Annals of Congress at 750, 17 August < 1789: "What, Sir, is the ...
+  27. [4,125] talk.politics.guns_54511_militia-incredibly-long.txt
+        . < <No, I originally argued that the [Second Amendment] was "a little bit <and an anachronism."
+  28. [4,056] talk.politics.guns_54903_who-do-i-write-to-now.txt
+        I want to join the battle to protect our [Second Amendment] Rights.
+  29. [3,982] talk.politics.guns_54675_rewording-the-second-amendment-ideas.txt
+        Nntp-Posting-Host: surt.ifi.uio.no From: Thomas Parsli <thomasp@ifi.uio.no> Subject: Re: Rewording the [Second Amendment] (ideas) In-Reply-To: arc@cco.caltec...
+  30. [3,982] talk.politics.guns_54707_text-of-white-house-announcement-and-q-as.txt
+        From: jbs@rti.rti.org Subject: Re: text of White House announcement and Q&As on clipper chip encryption Organization: Joe's Bar and Grill Distribution: na Li...
+  31. [3,982] talk.politics.guns_55081_rewording-the-second-amendment-ideas.txt
+        Tavares) Subject: Re: Rewording the [Second Amendment] (ideas) Organization: Stratus Computer, Inc.
+  32. [3,922] talk.politics.guns_54164_militia-incredibly-long.txt
+        No, I originally argued that the [Second Amendment] was "a little bit and an anachronism."
+  33. [3,910] sci.crypt_15344_once-tapped-your-code-is-no-good-any.txt
+        > If the new regime comes to fruition, make sure you protect your First > Amendment rights by asserting your [Second Amendment] Rights.
+  34. [3,910] sci.crypt_15845_organized-lobbying-for-cryptography.txt
+        From: cme@ellisun.sw.stratus.com (Carl Ellison) Subject: Re: Organized Lobbying for Cryptography Organization: Stratus Computer, Software Engineering Lines: ...
+  35. [3,910] talk.politics.guns_53302_aclu-was-re-waco-shootout.txt
+        >The [second amendment] does not prohibit it, but it can probably be argued that >there is no way you can operate one without severely impacting on the safet...
+  36. [3,841] sci.crypt_15433_text-of-white-house-announcement-and-q-as.txt
+        The [Second Amendment] says the right to bear arms shall not be infringed, so a well regulated militia may be more easily formed.
+  37. [3,841] talk.politics.guns_54443_boston-gun-buy-back.txt
+        . > And are protected by the First Amendment and guarnteed by the > [Second Amendment].
+  38. [3,774] sci.crypt_15364_once-tapped-your-code-is-no-good-any.txt
+        . > If the new regime comes to fruition, make sure you protect your First >Amendment rights by asserting your [Second Amendment] Rights
+  39. [3,774] sci.crypt_15638_organized-lobbying-for-cryptography.txt
+        How about this argument: >1) [Second Amendment] gives us the right to keep and bear arms. >2) Strong cryptography is "arms", according to the U.S. government...
+  40. [3,774] talk.politics.guns_54359_boston-gun-buy-back.txt
+        . > And are protected by the First Amendment and guarnteed by the > [Second Amendment].
+  41. [3,774] talk.religion.misc_84149_a-message-for-you-mr-president-how-do.txt
+        Were they after Koresh or were they after the first and [second amendments], among others?
+  42. [3,709] sci.crypt_15629_organized-lobbying-for-cryptography.txt
+        How about this argument: 1) [Second Amendment] gives us the right to keep and bear arms. 2) Strong cryptography is "arms", according to the U.S. government (...
+  43. [3,647] talk.politics.guns_54516_rewording-the-second-amendment-ideas.txt
+        From: viking@iastate.edu (Dan Sorenson) Subject: Re: Rewording the [Second Amendment] (ideas) Organization: Iowa State University, Ames IA Lines: 21 dfo@vtto...
+  44. [3,647] talk.politics.misc_179036_dangerous-ideological-position-there.txt
+        Subject: Re: Dangerous Ideological position there Nntp-Posting-Host: aces1 Organization: Alabama Cooperative Extension Service, Auburn University Lines: 38 I...
+  45. [3,417] talk.politics.guns_54235_newspapers-censoring-gun-advertisements.txt
+        They certainly have the right to do so, under >the [Second Amendment] Right to Bear Arms.
+  46. [3,417] talk.politics.guns_54298_rewording-the-second-amendment-ideas.txt
+        From: rats@cbnewsc.cb.att.com (Morris the Cat) Subject: Re: Rewording the [Second Amendment] (ideas) Organization: AT&T Lines: 29 |You believe that individua...
+  47. [3,312] talk.politics.guns_54186_guns-gone-good-riddance.txt
+        Misguided dolt though he may be (though, I still maintain, less dangerous than Bush), Clinton does not publicly support revoking the [second amendment].
+  48. [3,312] talk.politics.guns_54882_a-message-for-you-mr-president-how-do.txt
+        Ya know, the [Second Amendment] says A well regulated militia, being necessary to the security of a free State, the right of the people to keep and bear arms...
+  49. [3,214] sci.crypt_15432_once-tapped-your-code-is-no-good-any.txt
+        The [Second Amendment] is especially apt, given the ITAR definitions of crypto equipment as munitions, and the gun-control people's increasing ability to def...
+  50. [3,214] sci.crypt_16118_re-re-clipper-chip.txt
+        (Perhaps fire arms are not the > only weapons covered under the [Second Amendment]) Hmmm...
+
+Q9> contenuto +god -jesus
+  Query Lucene: +contenuto:god -contenuto:jesu
+  Risultati: 1020+ documenti in 3,0 ms
+   1. [2,428] talk.religion.misc_84082_what-right.txt
+        |> [God] is [God].
+   2. [2,414] talk.religion.misc_84128_what-right.txt
+        >[God] is [God].
+   3. [2,401] talk.religion.misc_84178_what-right.txt
+        Who can tell if [god] is REALLY so : : : >[God] is [God].
+   4. [2,401] alt.atheism_51253_americans-and-evolution.txt
+        [God] does not HAVE >being - [God] IS Being.
+   5. [2,391] alt.atheism_51153_americans-and-evolution.txt
+        [God] does not HAVE being - [God] IS Being.
+   6. [2,382] alt.atheism_51261_atheist.txt
+        The trouble with most [god] definitions is that they include some form of objective existence with the consequence of the [gods] affecting all.
+   7. [2,371] alt.atheism_51201_genocide-is-caused-by-atheism.txt
+        >One of the reasons that you are atheist is that you limit [God] by giving >[God] a form.
+   8. [2,346] soc.religion.christian_21423_god-morality-and-massacres.txt
+        Why does [God], who is supposed to be the [god] of all of humanity, play favorites?
+   9. [2,345] alt.atheism_51308_americans-and-evolution.txt
+        [God] does not HAVE > >being - [God] IS Being.
+  10. [2,332] sci.med_59597_meaning-of-atheism-agnosticism-was-krillean-photography.txt
+        Note that this is a positive belief that is quite different from not believing in a [god]; I do not believe in a [god], but I also do not believe the agnosti...
+  11. [2,332] soc.religion.christian_20551_a-question-that-has-bee-bothering-me.txt
+        [God] caused a bush to burn without being consumed--if I do the same thing, am I usurping [God's] role?
+  12. [2,328] soc.religion.christian_20581_does-god-love-you.txt
+        How many are responding to [God's] love?
+  13. [2,328] soc.religion.christian_21542_earthquake-prediction.txt
+        Another prophet wanted this man of [God] to stay in his house, so he prophecied falsely that the Lord wanted the man of [God] to stay in his house.
+  14. [2,328] talk.religion.misc_84304_what-right.txt
+        Who can tell if [god] is REALLY so > righteous as [god] likes us to believe?
+  15. [2,327] soc.religion.christian_20728_serbian-genocide-work-of-god.txt
+        Are you suggesting that [God] supports genocide?
+  16. [2,325] soc.religion.christian_20838_nature-of-god-re-environmentalism-and-paganism.txt
+        This passage is *not* a mother image of [God] at all.
+  17. [2,323] talk.politics.misc_178358_new-study-out-on-gay-percentage.txt
+        Uncle Fester -- : What [God] Wants : [God] wants gigolos : : [God] gets : [God] wants giraffes : : [God] help us all : [God] wants politics : : *thester@nyx....
+  18. [2,311] talk.religion.misc_84264_what-right.txt
+        Who can tell if [god] is REALLY so righteous as [god] likes us to believe?
+  19. [2,311] talk.politics.mideast_76030_jews-islam-dr-frankenstien.txt
+        [God] help us all.
+  20. [2,307] soc.religion.christian_20799_the-arrogance-of-christians.txt
+        I deny that [God] is all good.
+  21. [2,304] talk.religion.misc_83738_who-s-next-mormons-and-jews.txt
+        To jump off a cliff and say that [God] will save me would be putting [God] to the test.
+  22. [2,300] soc.religion.christian_21352_serbian-genocide-work-of-god.txt
+        Hmm... >: > >Are you suggesting that [God] supports genocide?
+  23. [2,297] alt.atheism_53298_free-moral-agency.txt
+        that [God] exists, is their creator and Ah, but not everyone "knows" that [god] exists.
+  24. [2,296] soc.religion.christian_21580_why-do-people-become-atheists.txt
+        I have heard theists referred to as "99% atheists" because they believe in their [god] (or [gods]) to be the _one_ [god] (or set of [gods]).
+  25. [2,295] soc.religion.christian_20683_atheist-s-views-on-christianity-was-re-accepting.txt
+        [God] created contingent beings.
+  26. [2,295] soc.religion.christian_21751_catholic-doctrine-of-predestination.txt
+        However, since [God] knows everything, He knows all >the choices we will make "in advance" ([God] is not subject to time).
+  27. [2,294] alt.atheism_53086_free-moral-agency.txt
+        [God] is allowing satan the chance to prove that his way |> >>is better than [God's].
+  28. [2,294] soc.religion.christian_20640_nature-of-god-re-environmentalism-and-paganism.txt
+        When Christians call [God] 'Father', we are using a metaphor.
+  29. [2,294] soc.religion.christian_21663_christianity-and-holy-things.txt
+        [God's] name, the Holy Spirit, the Holy Bible, etc.)
+  30. [2,293] soc.religion.christian_20966_god-shaped-hole-was-re-accepting-jeesus-in.txt
+        What I want to know is how can you have a [God] shaped vacuum inside of you if [God] is in fact infinite (or omnipresent)?
+  31. [2,283] alt.atheism_51161_americans-and-evolution.txt
+        <<Atheism (Greek 'a' not + 'theos' [god]) Belief that there is no [god].
+  32. [2,281] alt.atheism_51122_a-visit-from-the-jehovah-s-witnesses.txt
+        In other words, [God] created conscious >beings who have the ability to choose between moral choices independently >of [God].
+  33. [2,281] talk.religion.misc_84295_burden-of-proof.txt
+        But the source document for Christianity, the Bible, simply assumes [God] exists and makes it clear (to us Calvinists, anyway :-)) that when a person is in f...
+  34. [2,280] talk.religion.misc_83461_an-invisible-god.txt
+        (Gen. 32:30) [God] CANNOT be seen: "No man hath seen [God] at any time."
+  35. [2,279] alt.atheism_51295_contradictions.txt
+        [God] is beyond measure. >2.
+  36. [2,279] soc.religion.christian_20930_a-question-that-has-bee-bothering-me.txt
+        >Does that mean that if Science can over-ride [God's] decision >through alterations, that [God] wills for us to have the power >to decide who should and shou...
+  37. [2,276] soc.religion.christian_20705_help.txt
+        He believed [God's] promises.
+  38. [2,272] alt.atheism_51172_concerning-god-s-morality-long.txt
+        But your [god] never asked us.
+  39. [2,272] alt.atheism_51231_radical-agnostic-not.txt
+        >...I harbor no beliefs at all, there is no good evidence for [god] >existing or not.
+  40. [2,272] soc.religion.christian_20681_the-arrogance-of-christians.txt
+        The foundation for faith in [God] is reason, without which the existence of [God] could not be proven.
+  41. [2,272] soc.religion.christian_20798_am-i-going-to-hell.txt
+        He is the [God] who lives.
+  42. [2,268] soc.religion.christian_20612_when-are-two-people-married-in-god-s.txt
+        Thanks and [God] bless!
+  43. [2,263] alt.atheism_53180_pompous-ass.txt
+        [God] Bless America?
+  44. [2,258] comp.graphics_38586_cview-answers.txt
+        Uncle Fester -- : What [God] Wants : [God] wants gigolos : : [God] gets : [God] wants giraffes : : [God] help us all : [God] wants politics : : *thester@nyx....
+  45. [2,255] soc.religion.christian_20865_god-shaped-hole-was-re-accepting-jeesus-in.txt
+        If you and I have been created for [God], naturally there will be a vacuum if [God] is not our all and all.
+  46. [2,253] soc.religion.christian_20760_doing-the-work-of-god.txt
+        Yes, even bad things may be used by [God] for good.
+  47. [2,252] talk.religion.misc_83496_an-invisible-god.txt
+        [God's] a mooner?
+  48. [2,251] alt.atheism_53316_christian-morality-is.txt
+        Is [god] not concerned with my >|> disposition?
+  49. [2,247] alt.atheism_51243_atheist.txt
+        Yes I fully agree with that, but is it "I don't believe [gods] exist", or "I believe no [gods] exist"?
+  50. [2,247] soc.religion.christian_20711_a-question-that-has-bee-bothering-me.txt
+        As to imaginary [gods] and there followers: Be afraid.
+
+Q10> contenuto doctor prescribing medications
+  Query Lucene: contenuto:doctor contenuto:prescrib contenuto:medic
+  Risultati: 696 documenti in 1,6 ms
+   1. [10,055] sci.med_59280_use-of-haldol-in-elderly.txt
+        Unfortunately, [doctors] [prescribe] drugs to treat the side effects of the drugs a patient is receiving.
+   2. [9,385] sci.med_59277_use-of-haldol-in-elderly.txt
+        HALDOL may have been used validly, or it may have been [prescribed] because OTHER [medication] confused her, and because the hospital normally [prescribes] H...
+   3. [9,088] sci.med_59566_legality-of-placebos.txt
+        If they aren't, why the hell can a [doctor] knowingly or unknowingly [prescribe] a placebo?
+   4. [8,879] sci.med_59338_candida-yeast-bloom-fact-or-fiction.txt
+        And the reality is that many patients who have reached a dead-end in the treatment of their symptoms using accepted medicine *will* go outside the orthodox [...
+   5. [8,797] sci.med_59167_help-for-kidney-stones.txt
+        However, every time I had kidney stones, I saw my [doctor] and the only thing they did was to [prescribe] some pain killers and [medication] for a urinary tr...
+   6. [7,988] sci.med_59247_candida-yeast-bloom-fact-or-fiction.txt
+        >The indiscriminate use of this word is a sure sign of incompetency; and coming >from any [medical] [doctor] (or wanna-be), where competency is expected, is ...
+   7. [7,977] sci.med_59571_legality-of-placebos.txt
+        It's more common to [prescribe] a drug which is effective for something, just not for what you have.
+   8. [7,868] sci.med_59078_broken-rib.txt
+        Your [doctor] is right.
+   9. [7,491] sci.med_59380_allergies-and-stuff-was-is-msg-sensitivity-superstition.txt
+        One [doctor] did [prescribe] me imigran (costs the NHS #48 for 6 tablets) after having to rehydrate me because I'd been throwing up for four solid days and c...
+  10. [7,138] sci.med_59558_ethics-regarding-placebo-homeopathic-medicines.txt
+        From: ningeg@leland.Stanford.EDU (Nick Ingegneri) Subject: Ethics regarding placebo/homeopathic "medicines" Organization: DSG, Stanford University, CA 94305,...
+  11. [7,080] sci.med_58126_use-of-codine-in-narcolepsy.txt
+        His [doctor] >basically refused to [prescribe] it, saying "His clinic does not [prescribe] >controled substances.
+  12. [6,760] sci.med_59057_hismanal-et-al-side-effects.txt
+        I'm considering seeing another [doctor].
+  13. [6,537] sci.med_59294_candida-yeast-bloom-fact-or-fiction.txt
+        This is certainly among the things I would refer to as quack therapy and would tend to refer to any practitioner who [prescribed] laetrile (whether licensed ...
+  14. [6,037] sci.med_59228_quack-quack-was-re-candida-yeast-bloom-fact.txt
+        In fact, I'd say these [doctors] are the most dangerous since they call into question the true focus of the [medical] profession.
+  15. [5,983] sci.med_58964_what-s-the-difference-between-an-m-d.txt
+        However, I discovered that she is actually not an [Medical] [Doctor] (M.D.) but rather a "[Doctor] of Osteopathy" (D.O.).
+  16. [5,954] sci.med_58838_need-advice-with-doctor-patient-relationship-problem.txt
+        I explained to her that I was following up at the [doctor's] request, and that I was worried because the pain episodes were becoming more frequent and the [m...
+  17. [5,903] sci.med_58839_sore-throat.txt
+        The [doctor] [prescribed] a weeks course of penicillin and that cleared it up.
+  18. [5,749] sci.med_59261_perception-of-doctors-and-health-care.txt
+        And, as the stupid poll indicates, many Americans wrongly believe that profiteering [doctors] are the major cause of high [medical] costs.
+  19. [5,475] sci.med_58758_natural-anti-cancer-aids-remedies.txt
+        Did you realize that all [medical] [doctors] have |now been replaced by aliens?
+  20. [5,458] sci.med_59544_thyroidal-deficiency.txt
+        The [doctor] (and my wife) are not very interested in starting [medication] as this "deactivates" the gland, giving life-long dependency to the drug (hormone?).
+  21. [5,455] sci.med_59304_candida-yeast-bloom-fact-or-fiction.txt
+        There are unethical > behaviors (such as ordering unneccessary tests to increase fees) > which I would not lable as quackish, but [prescribing] known ineffec...
+  22. [5,397] sci.med_59617_help-with-antidepressants-requested.txt
+        Having a [doctor] who knows something about antidepressants can make a big difference.
+  23. [5,382] sci.med_59374_can-men-get-yeast-infections.txt
+        One day, her [doctor] sent her home with [medication] for her and a pill for me.
+  24. [5,360] sci.med_58888_how-about-a-crash-program-in-basic-immunological.txt
+        I am not a |> [doctor], but my wife is a nurse and I know a lot of [doctors] and nurses. |> The point here being that [doctors] and nurses do not seem to get...
+  25. [5,355] sci.med_59225_candida-yeast-bloom-fact-or-fiction.txt
+        [Prescribing] controlled substances to patients with no demonstrated need(other than a drug addition) for the [medication]. 2.
+  26. [5,347] sci.med_59215_arrhythmia.txt
+        My >[doctor] seems concerned, but she tends to worry too much in general.
+  27. [5,341] sci.med_59135_arythmia.txt
+        His [doctors] said that he could die from it, and the [medication] caused cancer ( that he was taking).
+  28. [5,341] sci.med_59334_how-to-gain-access.txt
+        I am really interested in corresponding with other [Doctors] or [medical] researchers through Email.
+  29. [5,233] talk.politics.misc_178756_limiting-govt-was-re-employment-was-re-why.txt
+        This results in higher cost, lower quality > [medical] care.
+  30. [5,161] soc.religion.christian_20891_the-arrogance-of-christians.txt
+        Most [doctors] would not claim to be infallible.
+  31. [5,157] sci.med_59033_seizures-infantile-spasms.txt
+        I am not trying to play [doctor] here, but only trying to gather information about it.
+  32. [5,157] talk.politics.guns_54230_clinton-wants-national-id-card-aka-ussr-style.txt
+        >could have it so that only [doctors] can access [medical] information, police >criminal records etc etc.
+  33. [5,143] sci.med_59176_arythmia.txt
+        Subject: Re: Arythmia From: perry1@husc10.harvard.edu (Alexis Perry) Organization: Harvard University Science Center Nntp-Posting-Host: husc10.harvard.edu Li...
+  34. [5,114] sci.med_58143_travel-outside-us-bangladesh.txt
+        There are bulletins in [medical] libraries that give recommendations, or you could call the infectious diseases section of the medicine department of your lo...
+  35. [5,039] sci.med_59106_seizures-infantile-spasms.txt
+        I am not trying to play [doctor] here, but only trying to gather >information about it.
+  36. [4,995] sci.med_59211_epstein-barr-syndrome-questions.txt
+        Does the [medical] profession believe it to be real?
+  37. [4,963] sci.med_58880_h-e-l-p-m-e-desperate-with.txt
+        I've learned a lesson and all I need now is REAL [MEDICAL] HELP.
+  38. [4,930] sci.med_59043_do-we-need-a-radiologist-to-read-an.txt
+        When the [doctor] couldn't hear a fetal heartbeat (13 weeks) she used the ultrasound to see if everything was ok.
+  39. [4,925] sci.med_59051_seizures-infantile-spasms.txt
+        As for learning more about seizures, ask your [doctor] or his nurse about a local support group.
+  40. [4,898] sci.med_59560_thyroidal-deficiency.txt
+        The [doctor] (and my wife) are >not very interested in starting [medication] as this "deactivates" the >gland, giving life-long dependency to the drug (hormo...
+  41. [4,884] sci.med_58956_help-looking-for-a-medical-journal-article-whiplash.txt
+        On 19.3.93 my wife went to her General Practitioner ([Doctor]).
+  42. [4,802] sci.med_58065_ringing-ears.txt
+        Sometimes I have a problem with [doctor's] [prescribing] medicine like this.
+  43. [4,777] sci.med_59385_use-of-haldol-in-elderly.txt
+        He was fifty-three at the time, and he was on 21 separate : [medications].
+  44. [4,759] sci.med_59353_med-school-admission.txt
+        Make a decision about whether you *really* want to be a [medical] [doctor].
+  45. [4,725] sci.med_59141_hismanal-et-al-side-effects.txt
+        My [doctor] said that was a common reaction.
+  46. [4,718] sci.med_58123_morbus-meniere-is-there-a-real-remedy.txt
+        Until then, spending a great deal of time and energy on the [medical] problem may divert that energy from more productive things in life.
+  47. [4,706] sci.med_59244_help-for-kidney-stones.txt
+        My sister was diagnosed with kidney stones 1 1/2 years ago and given [medication] to take to dissolve them.
+  48. [4,670] sci.med_58100_immotile-cilia-syndrome.txt
+        People with situs inversus are quite popular at [medical] schools, because of their rarity, and the fact that most [doctors] get a bit upset when they can't ...
+  49. [4,620] sci.med_59238_do-we-need-a-radiologist-to-read-an.txt
+        The [doctor] very vehemently insisted that they >were qualified to read the ultrasound and radiologists were NOT!
+  50. [4,620] soc.religion.christian_20768_the-arrogance-of-christians.txt
+        A similar analogy might be a [medical] [doctor] who believes that a blood transfusion is necessary to save the life of a child whose parents are Jehovah's Wi...
+
+Q11> tutto motorcycle helmet
+  Query Lucene: (nome:motorcycle contenuto:motorcycl) (nome:helmet contenuto:helmet)
+  Risultati: 1065+ documenti in 1,9 ms
+   1. [12,639] rec.[motorcycles]_104725_looking-for-women-s-[motorcycle]-[helmet].txt
+        From: kendall@adobe.com (Janice Kendall) Subject: Looking for Women's [Motorcycle] [Helmet] Organization: Adobe Systems Incorporated Distribution: ba Lines: ...
+   2. [12,403] rec.[motorcycles]_104796_looking-for-women-s-[motorcycle]-[helmet].txt
+        I saw a list somewhere of all the stuff that it was unwise to buy secondhand - stuff like parachutes, toilet paper, condoms and [motorcycle] [helmets]...
+   3. [12,008] rec.[motorcycles]_104427_observation-re-[helmets].txt
+        If your >primary concern is complying with stupid [helmet] laws, carry a real big >spare (you can put a big or small head in a big [helmet], but not in a >sm...
+   4. [11,338] rec.[motorcycles]_104429_observation-re-[helmets].txt
+        If your |primary concern is complying with stupid [helmet] laws, carry a real big |spare (you can put a big or small head in a big [helmet], but not in a |sm...
+   5. [11,013] rec.[motorcycles]_104942_bat-[helmet].txt
+        From: ryan_cousineau@compdyn.questor.org (Ryan Cousineau) Subject: Re: Bat-[helmet].
+   6. [10,735] rec.[motorcycles]_105053_a-point-for-[helmet]-law-is-a-point.txt
+        From: rwalls@twg.com (Roger Walls) Subject: Re: A Point for [Helmet] Law is a Point for MC B Organization: The Wollongong Group, Palo Alto, CA Lines: 18 In a...
+   7. [10,391] rec.[motorcycles]_103209_cnn-california-mc-[helmet]-law-article.txt
+        You could present the paragraph above to virtually any member > of the non-[motorcycling] public and they'll buy right into it. > > Just about any argument y...
+   8. [9,668] rec.[motorcycles]_104557_a-point-for-[helmet]-law-is-a-point.txt
+        And I have stayed at resorts that sported a "No [motorcycles] allowed" sign at the entrance.
+   9. [9,553] rec.[motorcycles]_104774_passenger-[helmet]-sizing.txt
+        While shopping for a passenger [helmet], I noticed that in many cases the external dimensions of the [helmets] were the same from S through XL.
+  10. [9,533] rec.[motorcycles]_104915_a-point-for-[helmet]-law-is-a-point.txt
+        >I have not heard, or discussed with non-[motorcycling] persons, or read of >any popular movement, either in the country as a whole, or in any of the >states...
+  11. [9,526] rec.[motorcycles]_104564_question-about-[helmets].txt
+        Yes, the [helmet] did its job.
+  12. [9,521] rec.[motorcycles]_104412_observation-re-[helmets].txt
+        If you fall with the [helmet] on and you hit the same spot the [helmet] landed on during the drop, the [helmet] may not protect your head as well as it was i...
+  13. [9,433] rec.[motorcycles]_105241_a-point-for-[helmet]-law-is-a-point.txt
+        From: egreen@east.sun.com (Ed Green - Pixel Cruncher) Subject: Re: A Point for [Helmet] Law is a Point for Organization: Sun Microsystems, RTP, NC Lines: 20 ...
+  14. [9,407] rec.[motorcycles]_104321_observation-re-[helmets].txt
+        If your primary concern is complying with stupid [helmet] laws, carry a real big spare (you can put a big or small head in a big [helmet], but not in a small...
+  15. [9,302] rec.[motorcycles]_104722_observation-re-[helmets].txt
+        > That kind of fall is what the [helmet] is designed to protect against.
+  16. [9,164] rec.[motorcycles]_104705_question-about-[helmets].txt
+        Yes, the [helmet] did its job.
+  17. [9,154] rec.[motorcycles]_104332_observation-re-[helmets].txt
+        My rule of thumb is "Don't give rides to people that wear a bigger [helmet] than you", unless your taste runs that way, or they are family.friends.
+  18. [9,047] rec.[motorcycles]_104624_where-to-put-your-[helmet].txt
+        Ryan> Another good place for your [helmet] is your mirror (!).
+  19. [9,023] rec.[motorcycles]_104282_observation-re-[helmets].txt
+        I can just use my old [helmet]".... this is your standard el cheapie openface...
+  20. [8,980] rec.[motorcycles]_104914_where-to-put-your-[helmet].txt
+        It will depress the foam liner in the [helmet].
+  21. [8,944] rec.[motorcycles]_105253_where-to-put-your-[helmet].txt
+        Seriously, though, putting a [helmet] on a mirror is inadvisable because you are then resting the weight of the [helmet] on the fragile foam liner that is ex...
+  22. [8,917] rec.[motorcycles]_104834_where-to-put-your-[helmet].txt
+        Laws mandating that all mirrors be protected by [helmets] might be in order.
+  23. [8,863] rec.[motorcycles]_104572_new-to-[motorcycles].txt
+        From: alanf@eng.tridom.com (Alan Fleming) Subject: Re: New to [Motorcycles]...
+  24. [8,861] rec.[motorcycles]_104581_where-to-put-your-[helmet].txt
+        Another good place for your [helmet] is your mirror (!).
+  25. [8,816] rec.[motorcycles]_104598_observation-re-[helmets].txt
+        Moseley) writes: > >So what should I carry if I want to comply with intelligent [helmet] laws?
+  26. [8,724] rec.[motorcycles]_104439_observation-re-[helmets].txt
+        Your [helmet] just passed the Snell Test
+  27. [8,680] rec.[motorcycles]_104789_observation-re-[helmets].txt
+        Lesson: Put your [helmet] on the ground or your head.
+  28. [8,419] rec.[motorcycles]_104507_new-to-[motorcycles].txt
+        From: cjackson@adobe.com (Curtis Jackson) Subject: Re: New to [Motorcycles]...
+  29. [8,135] rec.[motorcycles]_104438_saddle-bags-and-[helmets]-for-sale.txt
+        From: montasmm@ntmtv.com (Medi Montaseri) Subject: Saddle bags and [helmets] for sale...
+  30. [8,118] rec.[motorcycles]_105062_where-to-put-your-[helmet].txt
+        Rye) Subject: Re: where to put your [helmet] Originator: rye@mahogany209 Lines: 30 Nntp-Posting-Host: mahogany209 Organization: Cray Research, Inc.
+  31. [7,559] rec.[motorcycles]_104548_new-to-[motorcycles].txt
+        I'm new to [motorcycles] so no flames please.
+  32. [7,422] rec.[motorcycles]_104526_new-to-[motorcycles].txt
+        I'm new to [motorcycles] so no flames please.
+  33. [6,319] rec.[motorcycles]_104847_so-do-any-xxxx-i-mean-police-officers.txt
+        Around here, guns & [helmets] are the wallpaper
+  34. [6,141] rec.[motorcycles]_104513_hell-mets.txt
+        I called the [helmet] manufacturer and inquired about damage.
+  35. [5,990] rec.[motorcycles]_103176_question-arai-quantum-s.txt
+        >This is true for the very old Arthur-Fulmer [helmets] that I have.
+  36. [5,968] rec.[motorcycles]_104562_hell-mets.txt
+        GO WITHOUT A [HELMET] FIRST!"
+  37. [5,914] rec.[motorcycles]_104724_bmw-moa-members-read-this.txt
+        Just try to take up target pistol shooting in the Northeast or California, and I bet you'll wish you only had to worry about wearing a [helmet].
+  38. [5,900] rec.[motorcycles]_104491_new-to-[motorcycles].txt
+        Try calling a [motorcycle] dealer in your area and asking.
+  39. [5,592] rec.[motorcycles]_104481_bikes-and-contacts.txt
+        I have gas permeable >>How about a full face [helmet] with the face sheild down.
+  40. [5,527] rec.[motorcycles]_104487_new-to-[motorcycles].txt
+        Asper) Subject: Re: New to [Motorcycles]...
+  41. [5,471] rec.[motorcycles]_104783_so-do-any-xxxx-i-mean-police-officers.txt
+        The non sequitur about guns and [helmets] is just the proper flourish.
+  42. [5,432] rec.[motorcycles]_104578_new-to-[motorcycles].txt
+        From: delilah@next18pg2.wam.umd.edu (Romeo DeVerona) Subject: Re: New to [Motorcycles]...
+  43. [5,427] rec.[motorcycles]_104960_bikes-vs-horses-was-re-insect-impac.txt
+        And the [helmets] suck.
+  44. [5,381] rec.[motorcycles]_104314_ggrrrrrr-cages-double-parking-[motorcycles]-pisses-me-off.txt
+        Cages double-parking [motorcycles] pisses me off!
+  45. [5,358] rec.[motorcycles]_104625_wanted-advice-for-new-cylist.txt
+        This is another series of standard [motorcycles].
+  46. [5,353] rec.[motorcycles]_104433_edu-breaths.txt
+        > >|Cruiser-bike riders have a different view of [motorcycling] than those of sport bike riders >|(what they like and dislike about [motorcycling]).
+  47. [5,352] rec.[motorcycles]_104358_misc-buying-info-needed.txt
+        -Is there an idiots' guide to [motorcycles]?
+  48. [5,349] rec.[motorcycles]_105560_funny-thing-happened-at-the-dmv-the-other.txt
+        i didn't particularly mind, and neither did ken (that the kid was touching our [helmets] that is). but the [helmets] weren't on the most stable of platforms,...
+  49. [5,343] rec.[motorcycles]_104416_edu-breaths.txt
+        |Cruiser-bike riders have a different view of [motorcycling] than those of sport bike riders |(what they like and dislike about [motorcycling]).
+  50. [5,308] rec.[motorcycles]_104681_new-to-[motorcycles].txt
+        From: laszlo@eclipse.cs.colorado.edu (Laszlo Nemeth) Subject: Re: New to [Motorcycles]...
+
+Q12> tutto +"engine oil" car
+  Query Lucene: +(nome:"engine oil" contenuto:"engin oil") (nome:car contenuto:car)
+  Risultati: 8 documenti in 5,9 ms
+   1. [5,497] rec.autos_103181_changing-oil-by-self.txt
+        Later in the day I then |> proceed with refilling the [engine oil]. |> |> It's just crazy how I try and change the oil on my [cars] in one |> weekend---I go ...
+   2. [4,944] rec.autos_103264_changing-oil-by-self.txt
+        Later in the day I then >proceed with refilling the [engine oil]. > >It's just crazy how I try and change the oil on my [cars] in one >weekend---I go through...
+   3. [4,738] rec.autos_103242_changing-oil-by-self.txt
+        Later in the day I then proceed with refilling the [engine oil].
+   4. [4,401] rec.autos_103161_choice-of-gauges.txt
+        I consider the basic set to be: - tach - coolant temp (or cylinder head temp for air-cooled [engines) - oil] pressure - amps - speedo - fuel others that are ...
+   5. [4,030] rec.motorcycles_103139_another-question-about-synthetic-engi.txt
+        . |> On the EMD and GE power units (train engines) they NEVER |> EVER change the oil, just the filters I remember seeing an artical on large-[engine oil] req...
+   6. [2,936] rec.motorcycles_104582_spagthorpe-viking.txt
+        One side effect that required some rather brutal engineering fixes was that until the [engine's oil] pressure came up to normal, the engine's valve timing wo...
+   7. [0,315] comp.graphics_38375_17-apr-93-computer-graphics-resource-listing-weekly.txt
+        From: nfotis@ntua.gr (Nick C.
+   8. [0,315] comp.graphics_38852_27-apr-93-computer-graphics-resource-listing-weekly.txt
+        From: nfotis@ntua.gr (Nick C.

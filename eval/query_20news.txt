@@ -1,0 +1,28 @@
+# Query di test sul dataset 20 Newsgroups (una per riga).
+# La riga "# rilevanti:" prima di ogni query indica i newsgroup considerati rilevanti
+# (usati da scripts/eval_20news.py per calcolare P@10 in modo automatico).
+
+# rilevanti: sci.space
+nome space shuttle
+# rilevanti: misc.forsale
+nome "for sale"
+# rilevanti: comp.os.ms-windows.misc comp.windows.x
+nome windows
+# rilevanti: sci.med
+nome sci.med
+# rilevanti: sci.space
+contenuto "space shuttle"
+# rilevanti: rec.sport.hockey
+contenuto "stanley cup"
+# rilevanti: sci.crypt
+contenuto encryption clipper chip
+# rilevanti: talk.politics.guns
+contenuto "second amendment"
+# rilevanti: alt.atheism soc.religion.christian talk.religion.misc
+contenuto +god -jesus
+# rilevanti: sci.med
+contenuto doctor prescribing medications
+# rilevanti: rec.motorcycles
+tutto motorcycle helmet
+# rilevanti: rec.autos
+tutto +"engine oil" car

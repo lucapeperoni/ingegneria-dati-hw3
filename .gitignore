@@ -1,0 +1,8 @@
+target/
+index/
+data/
+raw/
+tools/
+.DS_Store
+*.class
+relazione.pdf
