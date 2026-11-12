@@ -1,7 +1,7 @@
 ---
 title: "Ingegneria dei Dati 2026/2027 – Homework 3"
 subtitle: "Indicizzazione e ricerca di file .txt con Apache Lucene"
-author: "Luca Peperoni"
+author: "Luca Peperoni — luc.peperoni@stud.uniroma3.it"
 date: "13 novembre 2026"
 lang: it
 geometry: margin=2.2cm
