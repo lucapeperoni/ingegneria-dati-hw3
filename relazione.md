@@ -32,7 +32,8 @@ Entrambi i campi sono anche memorizzati, così da poterli mostrare con gli snipp
 (`UnifiedHighlighter`). Il percorso è salvato in un campo solo memorizzato (`path`). Il nome della
 configurazione di analyzer usata viene salvato nei metadati del commit dell'indice: in questo modo il
 `Searcher` analizza le query con gli **stessi analyzer** usati in indicizzazione. Il ranking usa BM25
-(il default di Lucene, k1 = 1.2, b = 0.75).
+(il default di Lucene, k1 = 1.2, b = 0.75). La sezione 6.1 lo confronta con le altre `Similarity` di
+Lucene.
 
 # 2. Costruzione dei dataset
 
@@ -203,7 +204,7 @@ ciascuna query (10.000 permutazioni), rispetto alla baseline `standard`.
 **Query sul campo `contenuto`**
 
 | configurazione | MAP | P@5 | P@10 | R@10 | R@100 | R@1000 | nDCG@10 | p (MAP) |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
+|-----------------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
 | standard | 0,2683 | 0,2951 | 0,2164 | 0,3678 | 0,6975 | 0,9619 | 0,3338 | – |
 | stop | 0,2686 | 0,3058 | 0,2196 | 0,3716 | 0,6979 | 0,9294 | 0,3330 | 0,868 |
 | kstem | 0,2886 | 0,3227 | 0,2231 | 0,3788 | 0,7247 | 0,9522 | 0,3464 | 0,001 |
@@ -212,14 +213,14 @@ ciascuna query (10.000 permutazioni), rispetto alla baseline `standard`.
 **Query sul campo `nome`**
 
 | configurazione | MAP | P@5 | P@10 | R@10 | R@100 | R@1000 | nDCG@10 | p (MAP) |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
+|-----------------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
 | standard | 0,1873 | 0,2222 | 0,1533 | 0,2510 | 0,5302 | 0,8365 | 0,2505 | – |
 | **Filename** | **0,2110** | **0,2284** | **0,1693** | **0,2768** | **0,5840** | **0,8911** | **0,2703** | **0,0007** |
 
 **Query su nome e contenuto (`tutto`)**
 
 | configurazione | MAP | P@5 | P@10 | R@10 | R@100 | R@1000 | nDCG@10 | p (MAP) |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
+|-----------------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
 | standard | 0,2774 | 0,2942 | 0,2142 | 0,3605 | 0,6971 | 0,9583 | 0,3421 | – |
 | **scelta** | **0,3017** | **0,3067** | **0,2369** | **0,4068** | **0,7503** | **0,9624** | **0,3707** | **0,0006** |
 
@@ -241,6 +242,59 @@ Osservazioni:
   nel nome del file aggiunge un segnale utile a quello dell'abstract.
 - Il campo `nome` da solo rende meno del contenuto (MAP 0,21 contro 0,30): un titolo ha poche parole
   e molti documenti rilevanti non condividono termini col testo della query.
+
+## 6.1 Confronto tra funzioni di ranking (Similarity)
+
+In Lucene il punteggio di un documento è calcolato da una `Similarity`, che si imposta
+sull'`IndexSearcher` prima di eseguire le query. Ho confrontato le quattro viste a lezione, a parità di
+indice e di analyzer (configurazione `scelta`):
+
+- **BM25**: il default di Lucene;
+- **ClassicSimilarity**: TF-IDF;
+- due modelli basati su **Language Model**:
+  - **LMDirichlet**, con il parametro di default mu = 2000;
+  - **LMJelinekMercer**, con lambda = 0,7.
+
+Ho potuto riusare lo stesso indice perché in Lucene 9 tutte queste Similarity memorizzano allo stesso
+modo la lunghezza dei documenti. Il p-value è calcolato rispetto a BM25.
+
+**Query sul campo `contenuto`**
+
+| similarity | MAP | P@5 | P@10 | R@10 | R@100 | R@1000 | nDCG@10 | p (MAP) |
+|-----------------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
+| **BM25** | **0,2956** | 0,3120 | **0,2289** | **0,3914** | 0,7307 | 0,9515 | **0,3589** | – |
+| TF-IDF | 0,2925 | 0,3120 | 0,2249 | 0,3810 | 0,7373 | 0,9505 | 0,3534 | 0,630 |
+| LM Dirichlet | 0,2343 | 0,2338 | 0,1844 | 0,3263 | 0,6620 | 0,9508 | 0,2905 | 0,0001 |
+| LM Jelinek-Mercer | 0,2758 | 0,2996 | 0,2129 | 0,3740 | 0,7153 | 0,9523 | 0,3411 | 0,0006 |
+
+**Query su nome e contenuto (`tutto`)**
+
+| similarity | MAP | P@5 | P@10 | R@10 | R@100 | R@1000 | nDCG@10 | p (MAP) |
+|-----------------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
+| **BM25** | **0,3017** | **0,3067** | **0,2369** | **0,4068** | **0,7503** | **0,9624** | **0,3707** | – |
+| TF-IDF | 0,2585 | 0,2756 | 0,2067 | 0,3449 | 0,6952 | 0,9520 | 0,3228 | 0,0001 |
+| LM Dirichlet | 0,2572 | 0,2569 | 0,1938 | 0,3435 | 0,6926 | 0,9619 | 0,3137 | 0,0001 |
+| LM Jelinek-Mercer | 0,2875 | 0,2978 | 0,2231 | 0,3835 | 0,7296 | 0,9617 | 0,3529 | 0,0001 |
+
+Osservazioni:
+
+- **Sul solo contenuto BM25 e TF-IDF sono equivalenti.** La differenza di MAP (0,296 contro 0,293) non
+  è statisticamente significativa (p = 0,63).
+- **Interrogando due campi insieme BM25 è nettamente migliore**: TF-IDF perde il 14% di MAP. La causa
+  più probabile è la diversa normalizzazione per lunghezza. In TF-IDF il peso di un termine trovato in
+  un campo cortissimo come il titolo diventa molto alto e domina il punteggio. In BM25 il contributo di
+  ogni termine ha un tetto (saturazione, parametro k1) e la normalizzazione è più moderata
+  (parametro b).
+- **LM Dirichlet con mu = 2000 è il peggiore**: −21% di MAP sul contenuto. Il parametro mu va scelto in
+  proporzione alla lunghezza tipica dei documenti, mentre gli abstract Cranfield hanno in media circa
+  160 parole. Con mu così grande il modello "liscia" troppo verso le statistiche dell'intera collezione,
+  e perde la distinzione fra documenti che contengono molte volte i termini della query e documenti
+  che li contengono poco.
+- La **R@1000** è praticamente uguale per tutte (circa 0,95): le Similarity cambiano l'**ordine** dei
+  risultati, non quali documenti vengono trovati. I documenti recuperati dipendono solo dalla query e
+  dall'analyzer.
+- Conclusione: **ho mantenuto BM25**, che è il default di Lucene, il migliore o alla pari in tutti i
+  casi, e non richiede di tarare parametri sulla collezione.
 
 # 7. Come riprodurre
 

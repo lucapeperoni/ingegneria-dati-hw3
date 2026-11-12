@@ -21,6 +21,11 @@ import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
+import org.apache.lucene.search.similarities.BM25Similarity;
+import org.apache.lucene.search.similarities.ClassicSimilarity;
+import org.apache.lucene.search.similarities.LMDirichletSimilarity;
+import org.apache.lucene.search.similarities.LMJelinekMercerSimilarity;
+import org.apache.lucene.search.similarities.Similarity;
 import org.apache.lucene.store.ByteBuffersDirectory;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.QueryBuilder;
@@ -37,6 +42,18 @@ public final class Evaluator {
 
     static final int DEPTH = 1000;
     static final String[] MODES = {Analyzers.FIELD_CONTENT, Analyzers.FIELD_NAME, "tutto"};
+    static final String[] SIM_MODES = {Analyzers.FIELD_CONTENT, "tutto"};
+
+    /** Funzioni di ranking confrontate (viste a lezione): BM25 (default), TF-IDF, Language Model. */
+    static final Map<String, Similarity> SIMILARITIES = new LinkedHashMap<>();
+
+    static {
+        SIMILARITIES.put("BM25 (k1=1.2, b=0.75) - default", new BM25Similarity());
+        SIMILARITIES.put("ClassicSimilarity (TF-IDF)", new ClassicSimilarity());
+        SIMILARITIES.put("LMDirichlet (mu=2000)", new LMDirichletSimilarity());
+        SIMILARITIES.put("LMJelinekMercer (lambda=0.7)", new LMJelinekMercerSimilarity(0.7f));
+    }
+
     static final String[] METRICS = {"MAP", "P@5", "P@10", "R@10", "R@100", "R@1000", "nDCG@10"};
 
     private Evaluator() {}
@@ -131,6 +148,7 @@ public final class Evaluator {
         // risultati[config][mode] = matrice query x metrica
         Map<String, Map<String, double[][]>> results = new LinkedHashMap<>();
         Map<String, Indexer.Stats> idxStats = new LinkedHashMap<>();
+        Map<String, Map<String, double[][]>> simResults = new LinkedHashMap<>();
         try (Directory warm = new ByteBuffersDirectory()) { // warm-up JVM per tempi confrontabili
             Indexer.index(files, warm, Analyzers.DEFAULT_CONFIG);
         }
@@ -150,30 +168,19 @@ public final class Evaluator {
                     QueryBuilder qb = new QueryBuilder(an);
                     Map<String, double[][]> byMode = new LinkedHashMap<>();
                     for (String mode : MODES) {
-                        double[][] m = new double[qids.size()][];
-                        for (int i = 0; i < qids.size(); i++) {
-                            String text = queries.get(qids.get(i));
-                            Query q;
-                            if ("tutto".equals(mode)) {
-                                BooleanQuery.Builder b = new BooleanQuery.Builder();
-                                Query a1 = qb.createBooleanQuery(Analyzers.FIELD_NAME, text);
-                                Query a2 = qb.createBooleanQuery(Analyzers.FIELD_CONTENT, text);
-                                if (a1 != null) b.add(a1, Occur.SHOULD);
-                                if (a2 != null) b.add(a2, Occur.SHOULD);
-                                q = b.build();
-                            } else {
-                                q = qb.createBooleanQuery(mode, text);
+                        byMode.put(mode, runMode(s, cranId, qb, mode, qids, queries, qrels));
+                    }
+                    if (Analyzers.DEFAULT_CONFIG.equals(cfg)) {
+                        // stesso indice, diverse funzioni di ranking (Similarity) a tempo di ricerca
+                        for (Map.Entry<String, Similarity> e : SIMILARITIES.entrySet()) {
+                            s.setSimilarity(e.getValue());
+                            Map<String, double[][]> bySim = new LinkedHashMap<>();
+                            for (String mode : SIM_MODES) {
+                                bySim.put(mode, runMode(s, cranId, qb, mode, qids, queries, qrels));
                             }
-                            int[] ranking = new int[0];
-                            if (q != null) {
-                                TopDocs td = s.search(q, DEPTH);
-                                ranking = new int[td.scoreDocs.length];
-                                ScoreDoc[] sd = td.scoreDocs;
-                                for (int r = 0; r < sd.length; r++) ranking[r] = cranId[sd[r].doc];
-                            }
-                            m[i] = metrics(ranking, qrels.get(qids.get(i)));
+                            simResults.put(e.getKey(), bySim);
                         }
-                        byMode.put(mode, m);
+                        s.setSimilarity(new BM25Similarity());
                     }
                     results.put(cfg, byMode);
                 }
@@ -204,6 +211,24 @@ public final class Evaluator {
                 else md.append(String.format(" %.4f |%n", pValue(column(m, 0), baseAp)));
             }
         }
+        md.append("\n## Confronto tra funzioni di ranking (Similarity), configurazione `")
+                .append(Analyzers.DEFAULT_CONFIG).append("`\n");
+        String bm25 = SIMILARITIES.keySet().iterator().next();
+        for (String mode : SIM_MODES) {
+            md.append("\n### Query sul campo `").append(mode).append("`\n\n| similarity |");
+            for (String m : METRICS) md.append(' ').append(m).append(" |");
+            md.append(" p-value MAP vs BM25 |\n|---|");
+            for (int i = 0; i <= METRICS.length; i++) md.append("---|");
+            md.append('\n');
+            double[] baseAp = column(simResults.get(bm25).get(mode), 0);
+            for (String sim : simResults.keySet()) {
+                double[][] m = simResults.get(sim).get(mode);
+                md.append("| ").append(sim).append(" |");
+                for (int j = 0; j < METRICS.length; j++) md.append(String.format(" %.4f |", mean(column(m, j))));
+                if (sim.equals(bm25)) md.append(" – |\n");
+                else md.append(String.format(" %.4f |%n", pValue(column(m, 0), baseAp)));
+            }
+        }
         md.append("\n## Tempi di indicizzazione (indice in RAM)\n\n| configurazione | tempo (s) | doc/s |\n|---|---|---|\n");
         for (Map.Entry<String, Indexer.Stats> e : idxStats.entrySet()) {
             md.append(String.format("| `%s` | %.2f | %.0f |%n", e.getKey(), e.getValue().totalSeconds(), e.getValue().docsPerSecond()));
@@ -223,6 +248,35 @@ public final class Evaluator {
                 pw.println(sb);
             }
         }
+    }
+
+    /** Esegue tutte le query su un campo (o su "tutto") e restituisce la matrice query x metrica. */
+    static double[][] runMode(IndexSearcher s, int[] cranId, QueryBuilder qb, String mode, List<Integer> qids,
+                              Map<Integer, String> queries, Map<Integer, Map<Integer, Integer>> qrels) throws IOException {
+        double[][] m = new double[qids.size()][];
+        for (int i = 0; i < qids.size(); i++) {
+            String text = queries.get(qids.get(i));
+            Query q;
+            if ("tutto".equals(mode)) {
+                BooleanQuery.Builder b = new BooleanQuery.Builder();
+                Query a1 = qb.createBooleanQuery(Analyzers.FIELD_NAME, text);
+                Query a2 = qb.createBooleanQuery(Analyzers.FIELD_CONTENT, text);
+                if (a1 != null) b.add(a1, Occur.SHOULD);
+                if (a2 != null) b.add(a2, Occur.SHOULD);
+                q = b.build();
+            } else {
+                q = qb.createBooleanQuery(mode, text);
+            }
+            int[] ranking = new int[0];
+            if (q != null) {
+                TopDocs td = s.search(q, DEPTH);
+                ScoreDoc[] sd = td.scoreDocs;
+                ranking = new int[sd.length];
+                for (int r = 0; r < sd.length; r++) ranking[r] = cranId[sd[r].doc];
+            }
+            m[i] = metrics(ranking, qrels.get(qids.get(i)));
+        }
+        return m;
     }
 
     static double[] column(double[][] m, int j) {
